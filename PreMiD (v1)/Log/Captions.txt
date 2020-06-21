@@ -1,0 +1,61 @@
+1530648640|Initial commit on Linux repo
+1530648640|Initial commit on PreMiD repo
+1530966868|v0.1 released
+1531252709|v0.2 released
+1532531916|v0.3 released
+1538928065|v1.0 released
+1539699552|v1.1 released
+1541120032|v1.2 released
+1544405303|Firefox released on the store
+1544882285|Localization started on POEditor
+1545375980|1.000 extension users
+1546102199|200 server members
+1546458097|Initial commit on Discord-Bot repo 
+1546458457|Initial commit on API repo
+1546458990|Initial commit on Website repo
+1548089424|v1.2.0.1 released
+1552054056|Initial commit on Wiki repo
+1552947589|Initial commit on Extension repo
+1553508651|Initial commit on Presences repo
+1553987156|5.000 extension users
+1553995256|v1.3.1.6 released
+1554494956|6.000 extension users
+1555220085|Support v2.0 released
+1555420596|Initial commit on Docs repo
+1558641002|v1.3.1.8 released
+1558744933|v1.3.1.9 released
+1561042433|v2.0-beta released
+1561043926|800 server members
+1561043926|9.000 extension users
+1562104868|1 year since release
+1562355544|10.000 extension users
+1562364500|Initial commit on Localization repo
+1562551571|Localization moved to Transifex
+1563381651|1.000 server members
+1563381651|11.000 extension users
+1564858951|Docs for presence development released
+1564859304|v2.0-beta2 released
+1566429535|Localization moved to Crowdin
+1567074935|v1.3.2 released
+1567077308|v1.3.2.1 released
+1567082335|v1.3.2.2 released
+1567140325|v1.3.2.3 released
+1567332931|v1.3.2.4 released
+1568106672|v2.0-beta3-RC released
+1570108343|v2.0 released
+1570645370|v2.0.1 released
+1570918955|v2.0.1.2 released
+1571258137|v2.0.1.3 released
+1572800062|v2.0.1.4 released
+1573076832|Initial commit on Updaters repo
+1574890648|v2.0.1.5 released
+1575755938|Last commit on Wiki repo
+1575763642|Presence loss issue discovered
+1580016515|app-v2.0.6 released
+1580032862|app-v2.0.7 released
+1580570517|app-v2.1.0 released
+1580594798|Installer issues discovered
+1580603898|app-v2.1.1 released
+1580682128|Initial commit on PreMiD-Linux (doomlerd) repo (replacing Linux repo)
+1581874405|app-v2.1.2 released
+1586352975|app-v2.1.3 released

@@ -1,0 +1,86 @@
+1555420596|Finn|A|/Docs/.gitignore
+1555420596|Finn|A|/Docs/LICENSE
+1555420683|Finn|A|/Docs/README.md
+1555420683|Finn|A|/Docs/SUMMARY.md
+1555420683|Finn|A|/Docs/api/credits.md
+1555420683|Finn|A|/Docs/api/getting-started.md
+1555420683|Finn|A|/Docs/api/language-status.md
+1555420683|Finn|A|/Docs/api/version.md
+1555420683|Finn|A|/Docs/presence-devlopement/coding.md
+1555420683|Finn|A|/Docs/presence-devlopement/developing.md
+1555420683|Finn|A|/Docs/presence-devlopement/getting-started.md
+1555420683|Finn|A|/Docs/regular-contributing/getting-started.md
+1555687825|Paz|M|/Docs/SUMMARY.md
+1555687825|Paz|M|/Docs/api/credits.md
+1555687825|Paz|M|/Docs/api/language-status.md
+1555687825|Paz|M|/Docs/api/version.md
+1555687825|Paz|M|/Docs/presence-devlopement/developing.md
+1555687992|Paz|M|/Docs/SUMMARY.md
+1555687992|Paz|M|/Docs/api/language-status.md
+1555687992|Paz|M|/Docs/api/version.md
+1555711874|Finn|M|/Docs/README.md
+1555711874|Finn|M|/Docs/SUMMARY.md
+1555711874|Finn|M|/Docs/api/credits.md
+1555711874|Finn|M|/Docs/api/getting-started.md
+1555711874|Finn|A|/Docs/api/language-file.md
+1555711874|Finn|M|/Docs/api/language-status.md
+1555711874|Finn|M|/Docs/api/version.md
+1555711874|Finn|M|/Docs/presence-devlopement/developing.md
+1555711874|Finn|M|/Docs/presence-devlopement/getting-started.md
+1555711874|Finn|M|/Docs/regular-contributing/getting-started.md
+1555712020|Florian Metz|M|/Docs/README.md
+1555712020|Florian Metz|M|/Docs/SUMMARY.md
+1555712020|Florian Metz|M|/Docs/api/credits.md
+1555712020|Florian Metz|D|/Docs/api/getting-started.md
+1555712020|Florian Metz|A|/Docs/api/language-file-1.md
+1555712020|Florian Metz|M|/Docs/api/language-file.md
+1555712020|Florian Metz|A|/Docs/api/presences.md
+1555712675|Finn|M|/Docs/api/credits.md
+1555712675|Finn|M|/Docs/api/language-file-1.md
+1555712675|Finn|M|/Docs/api/language-file.md
+1555712675|Finn|M|/Docs/api/language-status.md
+1555712675|Finn|M|/Docs/api/presences.md
+1555712675|Finn|M|/Docs/api/version.md
+1555761522|Finn|M|/Docs/README.md
+1562341276|Finn|M|/Docs/presence-devlopement/coding.md
+1562341276|Finn|M|/Docs/presence-devlopement/getting-started.md
+1562341276|Finn|M|/Docs/regular-contributing/getting-started.md
+1563576812|Fruxh|M|/Docs/LICENSE
+1564858662|Finn|M|/Docs/README.md
+1564858662|Finn|M|/Docs/SUMMARY.md
+1564858662|Finn|D|/Docs/api/credits.md
+1564858662|Finn|A|/Docs/api/introduction.md
+1564858662|Finn|D|/Docs/api/language-file-1.md
+1564858662|Finn|D|/Docs/api/language-file.md
+1564858662|Finn|D|/Docs/api/language-status.md
+1564858662|Finn|A|/Docs/api/ping.md
+1564858662|Finn|D|/Docs/api/presences.md
+1564858662|Finn|A|/Docs/api/v1/README.md
+1564858662|Finn|A|/Docs/api/v1/beta-access.md
+1564858662|Finn|A|/Docs/api/v1/credits.md
+1564858662|Finn|A|/Docs/api/v1/language-file-1.md
+1564858662|Finn|A|/Docs/api/v1/presences.md
+1564858662|Finn|A|/Docs/api/v1/users.md
+1564858662|Finn|A|/Docs/api/v2/README.md
+1564858662|Finn|A|/Docs/api/v2/credits.md
+1564858662|Finn|A|/Docs/api/v2/language-file.md
+1564858662|Finn|A|/Docs/api/v2/version.md
+1564858662|Finn|D|/Docs/api/version.md
+1564858662|Finn|A|/Docs/contributing/introduction.md
+1564858662|Finn|A|/Docs/contributing/website.md
+1564858662|Finn|A|/Docs/presence-development/coding/README.md
+1564858662|Finn|A|/Docs/presence-development/coding/metadata.json.md
+1564858662|Finn|A|/Docs/presence-development/coding/presence-class.md
+1564858662|Finn|A|/Docs/presence-development/coding/tsconfig.json.md
+1564858662|Finn|A|/Docs/presence-development/introduction.md
+1564858662|Finn|D|/Docs/presence-devlopement/coding.md
+1564858662|Finn|D|/Docs/presence-devlopement/developing.md
+1564858662|Finn|D|/Docs/presence-devlopement/getting-started.md
+1564858662|Finn|D|/Docs/regular-contributing/getting-started.md
+1564879718|Florian Metz|M|/Docs/README.md
+1564879718|Florian Metz|M|/Docs/SUMMARY.md
+1564879718|Florian Metz|M|/Docs/api/introduction.md
+1564879718|Florian Metz|M|/Docs/api/v2/credits.md
+1564879718|Florian Metz|M|/Docs/api/v2/language-file.md
+1564879718|Florian Metz|A|/Docs/api/v2/presences.md
+1564879718|Florian Metz|M|/Docs/api/v2/version.md

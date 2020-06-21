@@ -1,0 +1,4 @@
+1566212894|Aamir Farooq|A|/Linux-Scripts/install.sh
+1566212894|Aamir Farooq|A|/Linux-Scripts/uninstall.sh
+1566213084|Aamir Farooq|A|/Linux-Scripts/README.md
+1568663067|David Paiva|M|/Linux-Scripts/install.sh

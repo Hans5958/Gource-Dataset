@@ -1,0 +1,1205 @@
+1552947589|Timeraa|A|/Extension/jsconfig.json
+1552947603|Timeraa|A|/Extension/.gitignore
+1552947642|Timeraa|A|/Extension/package-lock.json
+1552947642|Timeraa|A|/Extension/package.json
+1552947642|Timeraa|A|/Extension/pkg.js
+1552947655|Timeraa|A|/Extension/.vscode/settings.json
+1553042315|Timeraa|A|/Extension/Extension/_locales/en/messages.json
+1553042315|Timeraa|A|/Extension/Extension/js/background/background.js
+1553042315|Timeraa|A|/Extension/Extension/js/background/presenceDev.js
+1553042315|Timeraa|A|/Extension/Extension/js/background/settingsManager.js
+1553042315|Timeraa|A|/Extension/Extension/js/background/socketConnector.js
+1553042315|Timeraa|A|/Extension/Extension/js/lib/socket.io_2.2.0.js
+1553042315|Timeraa|A|/Extension/Extension/js/util/debug.js
+1553042315|Timeraa|A|/Extension/Extension/manifest.json
+1553042315|Timeraa|A|/Extension/Extension/presenceDev/metadata.json
+1553042315|Timeraa|A|/Extension/Extension/presenceDev/presence.js
+1553471951|Timeraa|M|/Extension/Extension/js/background/background.js
+1553471951|Timeraa|M|/Extension/Extension/js/background/presenceDev.js
+1553471951|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1553471951|Timeraa|A|/Extension/Extension/js/presenceHandler.js
+1553471951|Timeraa|M|/Extension/Extension/manifest.json
+1553471951|Timeraa|M|/Extension/Extension/presenceDev/metadata.json
+1553471951|Timeraa|M|/Extension/Extension/presenceDev/presence.js
+1553508110|Timeraa|M|/Extension/.gitignore
+1553508110|Timeraa|M|/Extension/Extension/_locales/en/messages.json
+1553508110|Timeraa|A|/Extension/Extension/assets/images/icon124px.png
+1553508110|Timeraa|A|/Extension/Extension/assets/images/icon16px.png
+1553508110|Timeraa|A|/Extension/Extension/assets/images/icon48px.png
+1553508110|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1553508110|Timeraa|M|/Extension/Extension/manifest.json
+1553508110|Timeraa|A|/Extension/POEditor_en.json
+1553508110|Timeraa|A|/Extension/POEditor_en_OLD.json
+1553508862|Fruxh|M|/Extension/Extension/manifest.json
+1553516215|Timeraa|M|/Extension/Extension/js/background/background.js
+1553516215|Timeraa|M|/Extension/Extension/js/background/presenceDev.js
+1553516215|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1553516215|Timeraa|A|/Extension/Extension/presenceDev/iframe.js
+1553516215|Timeraa|M|/Extension/Extension/presenceDev/metadata.json
+1553516215|Timeraa|M|/Extension/Extension/presenceDev/presence.js
+1553516402|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1553516402|Timeraa|M|/Extension/Extension/presenceDev/iframe.js
+1553516402|Timeraa|M|/Extension/Extension/presenceDev/presence.js
+1553516662|Timeraa|M|/Extension/Extension/js/background/background.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/.gitignore
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/build.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/check-versions.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/utils.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/vue-loader.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/webpack.base.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/webpack.dev.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/build/webpack.prod.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/config/dev.env.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/config/index.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/config/prod.env.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/index.html
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/package.json
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/App.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/assets/fonts/stylesheet.css
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/assets/images/logo-big.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/assets/images/logo.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/assets/images/master-logo.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/assets/images/premid-white.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/assets/images/premid.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/components/layout/Navigation.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/main.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/pages/Credits.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/pages/Help.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/pages/Settings.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/pages/Share.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/router/index.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/popup/src/stylesheets/colors.less
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/.gitignore
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/build.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/check-versions.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/utils.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/vue-loader.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/webpack.base.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/webpack.dev.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/build/webpack.prod.conf.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/config/dev.env.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/config/index.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/config/prod.env.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/index.html
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/package.json
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/App.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/assets/fonts/stylesheet.css
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/assets/images/logo-big.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/assets/images/logo.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/assets/images/master-logo.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/assets/images/premid-white.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/assets/images/premid.svg
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/components/layout/Navigation.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/main.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/pages/Installed.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/pages/Updated.vue
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/router/index.js
+1554060394|MulverineX|A|/Extension/Extension/html/pages/tab/src/stylesheets/colors.less
+1554060394|MulverineX|A|/Extension/Extension/html/popup-old.html
+1554060394|MulverineX|A|/Extension/Extension/package.json
+1554060843|MulverineX|A|/Extension/Extension/.gitignore
+1554060843|MulverineX|D|/Extension/Extension/html/popup-old.html
+1554060843|MulverineX|A|/Extension/Extension/package-lock.json
+1554061241|MulverineX|M|/Extension/Extension/html/pages/popup/src/pages/Credits.vue
+1554064434|MulverineX|M|/Extension/Extension/html/pages/popup/src/components/layout/Navigation.vue
+1554064434|MulverineX|M|/Extension/Extension/html/pages/popup/src/pages/Credits.vue
+1555528116|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1555528188|Timeraa|A|/Extension/Extension/js/util/presenceManager.js
+1555528427|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1555528427|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1555528459|Timeraa|M|/Extension/Extension/js/background/presenceDev.js
+1555528487|Timeraa|M|/Extension/Extension/js/background/background.js
+1555528487|Timeraa|A|/Extension/Extension/js/util/functions.js
+1555528487|Timeraa|A|/Extension/Extension/js/util/langManager.js
+1555528504|Timeraa|M|/Extension/Extension/manifest.json
+1555691629|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1555696171|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1555696171|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1555696171|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1555696171|Timeraa|M|/Extension/Extension/manifest.json
+1555712436|Timeraa|M|/Extension/POEditor_en.json
+1555712436|Timeraa|D|/Extension/POEditor_en_OLD.json
+1555714320|Timeraa|M|/Extension/Extension/js/background/background.js
+1555768248|Timeraa|M|/Extension/Extension/js/background/background.js
+1555770260|Timeraa|M|/Extension/Extension/js/background/background.js
+1555770260|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1555778900|Timeraa|M|/Extension/Extension/js/background/background.js
+1555844363|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1555844363|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1556459550|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1556459550|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1556459641|Timeraa|A|/Extension/Extension/js/lib/vue.min.js
+1556459641|Timeraa|M|/Extension/Extension/presenceDev/presence.js
+1556473262|Timeraa|M|/Extension/Extension/js/util/presenceManager.js
+1556473262|Timeraa|M|/Extension/Extension/manifest.json
+1556485935|Voknehzyr|M|/Extension/Extension/js/util/presenceManager.js
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/app.js
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/components/navigation/navigation.js
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/css/materialize.min.css
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/css/navigation.css
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/css/reset.css
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/css/settings.css
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/index.html
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/pages/settings.js
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/popup.js
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/scss/navigation.scss
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/scss/reset.scss
+1556556957|Timeraa|A|/Extension/Extension/html/pages/popupNew/scss/settings.scss
+1556556957|Timeraa|A|/Extension/Extension/js/lib/materialize.min.js
+1556556957|Timeraa|A|/Extension/Extension/js/lib/vue-router.js
+1556556957|Timeraa|M|/Extension/Extension/manifest.json
+1556556957|Timeraa|D|/Extension/Extension/presenceDev/iframe.js
+1556556957|Timeraa|M|/Extension/Extension/presenceDev/metadata.json
+1556558299|Voknehzyr|M|/Extension/Extension/js/util/debug.js
+1556558299|Voknehzyr|M|/Extension/Extension/js/util/langManager.js
+1556558299|Voknehzyr|M|/Extension/Extension/js/util/presenceManager.js
+1556658746|Timeraa|M|/Extension/Extension/manifest.json
+1556743651|Timeraa|M|/Extension/Extension/js/util/presenceManager.js
+1556744761|Timeraa|M|/Extension/Extension/html/pages/popupNew/css/settings.css
+1556744761|Timeraa|A|/Extension/Extension/html/pages/popupNew/css/vuetify.min.css
+1556744761|Timeraa|M|/Extension/Extension/html/pages/popupNew/index.html
+1556744761|Timeraa|M|/Extension/Extension/html/pages/popupNew/pages/settings.js
+1556744761|Timeraa|M|/Extension/Extension/html/pages/popupNew/scss/settings.scss
+1556744761|Timeraa|A|/Extension/Extension/js/lib/vuetify.js
+1556744761|Timeraa|M|/Extension/Extension/js/util/debug.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/.gitignore
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/app.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/build.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/check-versions.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/utils.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/vue-loader.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/webpack.base.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/webpack.dev.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/build/webpack.prod.conf.js
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/components/navigation/navigation.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/config/dev.env.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/config/index.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/config/prod.env.js
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/css/app.css
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/css/materialize.min.css
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/css/vuetify.min.css
+1556916953|Voknehzyr|M|/Extension/Extension/html/pages/popup/index.html
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/package.json
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/pages/settings.js
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/popup.js
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/scss/app.scss
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/scss/navbar.scss
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/scss/settings.scss
+1556916953|Voknehzyr|A|/Extension/Extension/html/pages/popup/scss/variables.scss
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/App.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/assets/fonts/stylesheet.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/assets/images/logo-big.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/assets/images/logo.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/assets/images/master-logo.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/assets/images/premid-white.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/assets/images/premid.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/components/layout/Navigation.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/main.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/pages/Credits.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/pages/Help.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/pages/Settings.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/pages/Share.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/router/index.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popup/src/stylesheets/colors.less
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/app.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/components/navigation/navigation.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/css/materialize.min.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/css/navigation.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/css/reset.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/css/settings.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/css/vuetify.min.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/index.html
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/pages/settings.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/popup.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/scss/navigation.scss
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/scss/reset.scss
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/popupNew/scss/settings.scss
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/.gitignore
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/build.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/check-versions.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/utils.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/vue-loader.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/webpack.base.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/webpack.dev.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/build/webpack.prod.conf.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/config/dev.env.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/config/index.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/config/prod.env.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/index.html
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/package.json
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/App.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/assets/fonts/stylesheet.css
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/assets/images/logo-big.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/assets/images/logo.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/assets/images/master-logo.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/assets/images/premid-white.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/assets/images/premid.svg
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/components/layout/Navigation.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/main.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/pages/Installed.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/pages/Updated.vue
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/router/index.js
+1556916953|Voknehzyr|D|/Extension/Extension/html/pages/tab/src/stylesheets/colors.less
+1556916953|Voknehzyr|M|/Extension/Extension/js/util/langManager.js
+1556916953|Voknehzyr|M|/Extension/Extension/manifest.json
+1556916953|Voknehzyr|A|/Extension/mix-manifest.json
+1556916953|Voknehzyr|M|/Extension/package-lock.json
+1556916953|Voknehzyr|M|/Extension/package.json
+1556916953|Voknehzyr|A|/Extension/webpack.mix.js
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/components/navigation/navigation.js
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/css/app.css
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/index.html
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/pages/settings.js
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/scss/app.scss
+1557095063|Voknehzyr|A|/Extension/Extension/html/pages/popup/scss/base.scss
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/scss/navbar.scss
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/scss/settings.scss
+1557095063|Voknehzyr|M|/Extension/Extension/html/pages/popup/scss/variables.scss
+1557261226|Timeraa|M|/Extension/Extension/html/pages/popup/components/navigation/navigation.js
+1557261427|Timeraa|M|/Extension/package.json
+1557265525|Timeraa|M|/Extension/Extension/html/pages/popup/index.html
+1557265525|Timeraa|D|/Extension/Extension/html/pages/popup/popup.js
+1557515326|Timeraa|M|/Extension/Extension/html/pages/popup/pages/settings.js
+1557520211|Timeraa|M|/Extension/Extension/html/pages/popup/css/app.css
+1557520211|Timeraa|M|/Extension/Extension/html/pages/popup/pages/settings.js
+1557520211|Timeraa|M|/Extension/Extension/html/pages/popup/scss/settings.scss
+1557520528|Timeraa|M|/Extension/Extension/html/pages/popup/pages/settings.js
+1557521557|Timeraa|M|/Extension/Extension/html/pages/popup/pages/settings.js
+1557521557|Timeraa|M|/Extension/Extension/js/background/background.js
+1557521557|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1557611470|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1558359808|Timeraa|M|/Extension/package-lock.json
+1558359808|Timeraa|M|/Extension/package.json
+1558359808|Timeraa|M|/Extension/pkg.js
+1558359808|Timeraa|A|/Extension/pkg.ts
+1558359808|Timeraa|A|/Extension/tsconfig.json
+1558359839|Timeraa|M|/Extension/Extension/html/pages/popup/pages/settings.js
+1558359839|Timeraa|M|/Extension/Extension/js/background/background.js
+1558359839|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1558472404|Timeraa|M|/Extension/Extension/js/background/background.js
+1558472428|Timeraa|M|/Extension/Extension/html/pages/popup/app.js
+1558472428|Timeraa|M|/Extension/Extension/html/pages/popup/index.html
+1558472428|Timeraa|A|/Extension/Extension/html/pages/popup/pages/credits.js
+1558473940|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1558473940|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1558781147|Timeraa|M|/Extension/package-lock.json
+1558781147|Timeraa|M|/Extension/package.json
+1558781147|Timeraa|M|/Extension/pkg.js
+1558781147|Timeraa|M|/Extension/pkg.ts
+1558781171|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1558781185|Timeraa|A|/Extension/Extension/assets/css/fontawesome.5.8.2.css
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/discord.otf
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-brands-400.eot
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-brands-400.svg
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-brands-400.ttf
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-brands-400.woff
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-brands-400.woff2
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-regular-400.eot
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-regular-400.svg
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-regular-400.ttf
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-regular-400.woff
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-regular-400.woff2
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-solid-900.eot
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-solid-900.svg
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-solid-900.ttf
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-solid-900.woff
+1558781185|Timeraa|A|/Extension/Extension/assets/fonts/fa-solid-900.woff2
+1558781185|Timeraa|A|/Extension/Extension/assets/images/Icon_BlueFill.svg
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/app.js
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/components/navigation/navigation.js
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/css/app.css
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/css/materialize.min.css
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/css/vuetify.min.css
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/index.html
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/pages/credits.js
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/pages/settings.js
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/scss/app.scss
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/scss/base.scss
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/scss/navbar.scss
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/scss/settings.scss
+1558781185|Timeraa|D|/Extension/Extension/html/pages/popup/scss/variables.scss
+1558781185|Timeraa|A|/Extension/Extension/html/popup/app.js
+1558781185|Timeraa|A|/Extension/Extension/html/popup/components/navigation/navigation.js
+1558781185|Timeraa|A|/Extension/Extension/html/popup/css/app.css
+1558781185|Timeraa|A|/Extension/Extension/html/popup/css/materialize.min.css
+1558781185|Timeraa|A|/Extension/Extension/html/popup/css/vuetify.min.css
+1558781185|Timeraa|A|/Extension/Extension/html/popup/index.html
+1558781185|Timeraa|A|/Extension/Extension/html/popup/pages/credits.js
+1558781185|Timeraa|A|/Extension/Extension/html/popup/pages/settings.js
+1558781185|Timeraa|A|/Extension/Extension/html/popup/scss/app.scss
+1558781185|Timeraa|A|/Extension/Extension/html/popup/scss/base.scss
+1558781185|Timeraa|A|/Extension/Extension/html/popup/scss/navbar.scss
+1558781185|Timeraa|A|/Extension/Extension/html/popup/scss/settings.scss
+1558781185|Timeraa|A|/Extension/Extension/html/popup/scss/variables.scss
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/app.js
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/components/header.js
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/components/main.js
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/css/app.css
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/css/materialize.min.css
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/css/vuetify.min.css
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/index.html
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/pages/credits.js
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/pages/installed.js
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/scss/app.scss
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/scss/base.scss
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/scss/navbar.scss
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/scss/settings.scss
+1558781185|Timeraa|A|/Extension/Extension/html/tabs/scss/variables.scss
+1558781185|Timeraa|M|/Extension/Extension/manifest.json
+1558781185|Timeraa|M|/Extension/mix-manifest.json
+1558781185|Timeraa|M|/Extension/webpack.mix.js
+1558784056|Timeraa|D|/Extension/mix-manifest.json
+1558784056|Timeraa|M|/Extension/webpack.mix.js
+1559219508|Timeraa|M|/Extension/.gitignore
+1559219508|Timeraa|M|/Extension/Extension/html/popup/index.html
+1559219508|Timeraa|M|/Extension/Extension/html/tabs/app.js
+1559219508|Timeraa|M|/Extension/Extension/html/tabs/components/main.js
+1559219508|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1559219508|Timeraa|M|/Extension/Extension/html/tabs/index.html
+1559219508|Timeraa|D|/Extension/Extension/html/tabs/pages/credits.js
+1559219508|Timeraa|M|/Extension/Extension/html/tabs/pages/installed.js
+1559219508|Timeraa|A|/Extension/Extension/html/tabs/pages/updated.js
+1559219508|Timeraa|M|/Extension/Extension/html/tabs/scss/base.scss
+1559219508|Timeraa|M|/Extension/Extension/js/background/background.js
+1559219508|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1559219508|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1559219508|Timeraa|M|/Extension/Extension/manifest.json
+1559219508|Timeraa|M|/Extension/package-lock.json
+1559219508|Timeraa|M|/Extension/package.json
+1559219508|Timeraa|D|/Extension/pkg.js
+1559219508|Timeraa|M|/Extension/pkg.ts
+1559222446|Timeraa|M|/Extension/pkg.ts
+1559222460|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1559222460|Timeraa|M|/Extension/Extension/html/tabs/scss/base.scss
+1559329366|Timeraa|M|/Extension/package-lock.json
+1559329366|Timeraa|M|/Extension/package.json
+1559329366|Timeraa|M|/Extension/pkg.ts
+1560297352|Timeraa|M|/Extension/Extension/html/popup/app.js
+1560297352|Timeraa|A|/Extension/Extension/html/tabs/components/changeItem.js
+1560297352|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1560297352|Timeraa|M|/Extension/Extension/html/tabs/index.html
+1560297352|Timeraa|M|/Extension/Extension/html/tabs/pages/updated.js
+1560297352|Timeraa|M|/Extension/Extension/html/tabs/scss/app.scss
+1560297352|Timeraa|M|/Extension/Extension/html/tabs/scss/settings.scss
+1560297352|Timeraa|A|/Extension/Extension/html/tabs/scss/updated.scss
+1560297352|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1560297352|Timeraa|M|/Extension/Extension/presenceDev/metadata.json
+1560297352|Timeraa|M|/Extension/Extension/presenceDev/presence.js
+1560297352|Timeraa|M|/Extension/POEditor_en.json
+1560297352|Timeraa|M|/Extension/package.json
+1560304724|Timeraa|M|/Extension/Extension/js/background/background.js
+1560304787|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1560309614|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1560309614|Timeraa|M|/Extension/Extension/js/background/settingsManager.js
+1560311061|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1560312400|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1560328647|Timeraa|M|/Extension/Extension/js/background/background.js
+1560328820|Timeraa|M|/Extension/Extension/js/background/background.js
+1560331881|Timeraa|M|/Extension/Extension/js/background/background.js
+1560711931|Timeraa|M|/Extension/Extension/js/background/background.js
+1560712057|Timeraa|M|/Extension/Extension/manifest.json
+1561288211|Finn|M|/Extension/Extension/html/tabs/pages/installed.js
+1561480150|Timeraa|M|/Extension/Extension/js/background/background.js
+1561480150|Timeraa|A|/Extension/Extension/js/util/devHelper.js
+1561480150|Timeraa|M|/Extension/Extension/manifest.json
+1561480150|Timeraa|A|/Extension/classes/iframe.ts
+1561480150|Timeraa|A|/Extension/classes/presence.ts
+1561480289|Timeraa|D|/Extension/Extension/presenceDev/metadata.json
+1561480289|Timeraa|D|/Extension/Extension/presenceDev/presence.js
+1561480316|Timeraa|M|/Extension/.gitignore
+1561480488|Timeraa|M|/Extension/Extension/html/popup/css/app.css
+1561480488|Timeraa|M|/Extension/Extension/html/popup/index.html
+1561480488|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1561480488|Timeraa|M|/Extension/Extension/html/popup/scss/app.scss
+1561480488|Timeraa|M|/Extension/Extension/html/popup/scss/settings.scss
+1561480488|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1561480488|Timeraa|M|/Extension/POEditor_en.json
+1561480525|Timeraa|D|/Extension/Extension/package-lock.json
+1561480525|Timeraa|D|/Extension/Extension/package.json
+1561480525|Timeraa|M|/Extension/package-lock.json
+1561480525|Timeraa|M|/Extension/package.json
+1561480525|Timeraa|A|/Extension/sassCompiler.js
+1561480525|Timeraa|A|/Extension/sassCompiler.ts
+1561480525|Timeraa|A|/Extension/sassFiles.json
+1561480525|Timeraa|D|/Extension/webpack.mix.js
+1561480727|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1561484125|Timeraa|M|/Extension/Extension/js/background/background.js
+1561484332|Timeraa|M|/Extension/Extension/js/background/background.js
+1561484958|Timeraa|M|/Extension/Extension/js/background/background.js
+1561813416|Timeraa|M|/Extension/Extension/html/popup/index.html
+1561813416|Timeraa|M|/Extension/Extension/html/tabs/index.html
+1561813416|Timeraa|D|/Extension/Extension/js/lib/materialize.min.js
+1561813460|Timeraa|M|/Extension/Extension/js/util/presenceManager.js
+1561813617|Timeraa|D|/Extension/Extension/js/lib/vuetify.js
+1561889386|Timeraa|M|/Extension/Extension/html/popup/css/app.css
+1561889386|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1561889386|Timeraa|M|/Extension/Extension/html/popup/scss/settings.scss
+1561889386|Timeraa|M|/Extension/Extension/html/tabs/scss/settings.scss
+1561889386|Timeraa|M|/Extension/Extension/js/background/background.js
+1561889386|Timeraa|M|/Extension/Extension/js/lib/vue-router.js
+1561889386|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1561889386|Timeraa|A|/Extension/Extension/presenceDevS/iframe.js
+1561889386|Timeraa|A|/Extension/Extension/presenceDevS/metadata.json
+1561889386|Timeraa|A|/Extension/Extension/presenceDevS/presence.js
+1561891596|Voknehzyr|M|/Extension/Extension/js/util/debug.js
+1561891596|Voknehzyr|M|/Extension/Extension/js/util/presenceManager.js
+1561891596|Voknehzyr|M|/Extension/Extension/manifest.json
+1561891596|Voknehzyr|M|/Extension/sassCompiler.js
+1562537622|Timeraa|M|/Extension/Extension/js/util/debug.js
+1562537667|Timeraa|M|/Extension/.vscode/settings.json
+1562537813|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1562537813|Timeraa|M|/Extension/Extension/js/background/background.js
+1562537813|Timeraa|M|/Extension/Extension/js/background/presenceDev.js
+1562537813|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1562537813|Timeraa|D|/Extension/Extension/presenceDevS/iframe.js
+1562537813|Timeraa|D|/Extension/Extension/presenceDevS/metadata.json
+1562537813|Timeraa|D|/Extension/Extension/presenceDevS/presence.js
+1562537839|Timeraa|M|/Extension/Extension/js/background/background.js
+1562537850|Timeraa|M|/Extension/classes/presence.ts
+1562538793|Timeraa|A|/Extension/classes/iframe.d.ts
+1562538793|Timeraa|A|/Extension/classes/presence.d.ts
+1563124472|Timeraa|M|/Extension/Extension/js/util/debug.js
+1563124488|Timeraa|M|/Extension/Extension/manifest.json
+1563576814|Fruxh|A|/Extension/LICENSE
+1563701213|Timeraa|M|/Extension/Extension/js/background/background.js
+1563701253|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1563701253|Timeraa|M|/Extension/Extension/html/tabs/components/changeItem.js
+1563701253|Timeraa|M|/Extension/Extension/html/tabs/components/header.js
+1563701253|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1563701253|Timeraa|M|/Extension/Extension/html/tabs/pages/updated.js
+1563701253|Timeraa|M|/Extension/Extension/html/tabs/scss/updated.scss
+1563701253|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1563701253|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1563701253|Timeraa|M|/Extension/Extension/manifest.json
+1563701253|Timeraa|M|/Extension/sassCompiler.js
+1563701253|Timeraa|M|/Extension/sassCompiler.ts
+1563702879|Timeraa|M|/Extension/Extension/js/background/background.js
+1563703385|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1563703795|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1563705267|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1564316412|Timeraa|M|/Extension/Extension/js/util/devHelper.js
+1564316412|Timeraa|M|/Extension/Extension/manifest.json
+1564316412|Timeraa|M|/Extension/classes/presence.ts
+1564316412|Timeraa|A|/Extension/classes/tsconfig.json
+1564316412|Timeraa|M|/Extension/tsconfig.json
+1564331104|Timeraa|M|/Extension/Extension/js/util/devHelper.js
+1564331104|Timeraa|D|/Extension/classes/iframe.d.ts
+1564331104|Timeraa|A|/Extension/classes/index.d.ts
+1564331104|Timeraa|D|/Extension/classes/presence.d.ts
+1564331104|Timeraa|M|/Extension/classes/presence.ts
+1564331104|Timeraa|M|/Extension/classes/tsconfig.json
+1564866548|Timeraa|M|/Extension/Extension/html/popup/app.js
+1564866548|Timeraa|A|/Extension/Extension/html/popup/components/creditCard.js
+1564866548|Timeraa|M|/Extension/Extension/html/popup/css/app.css
+1564866548|Timeraa|M|/Extension/Extension/html/popup/index.html
+1564866548|Timeraa|M|/Extension/Extension/html/popup/pages/credits.js
+1564866548|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1564866548|Timeraa|M|/Extension/Extension/html/popup/scss/app.scss
+1564866548|Timeraa|M|/Extension/Extension/html/popup/scss/base.scss
+1564866548|Timeraa|A|/Extension/Extension/html/popup/scss/credits.scss
+1564866548|Timeraa|M|/Extension/Extension/html/popup/scss/settings.scss
+1564866548|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1564866548|Timeraa|M|/Extension/Extension/html/tabs/scss/base.scss
+1564866548|Timeraa|M|/Extension/package-lock.json
+1564866548|Timeraa|M|/Extension/package.json
+1564866548|Timeraa|M|/Extension/pkg.ts
+1564908051|Timeraa|M|/Extension/Extension/assets/css/fontawesome.5.8.2.css
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.eot
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.svg
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.ttf
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.woff
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.woff2
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.eot
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.svg
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.ttf
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.woff
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.woff2
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.eot
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.svg
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.ttf
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.woff
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.woff2
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/Inter/Inter-Bold.otf
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/Inter/Inter-Medium.otf
+1564908051|Timeraa|A|/Extension/Extension/assets/fonts/Inter/Inter-Regular.otf
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-brands-400.eot
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-brands-400.svg
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-brands-400.ttf
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-brands-400.woff
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-brands-400.woff2
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-regular-400.eot
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-regular-400.svg
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-regular-400.ttf
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-regular-400.woff
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-regular-400.woff2
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-solid-900.eot
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-solid-900.svg
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-solid-900.ttf
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-solid-900.woff
+1564908051|Timeraa|D|/Extension/Extension/assets/fonts/fa-solid-900.woff2
+1564908051|Timeraa|D|/Extension/Extension/assets/images/Icon_BlueFill.svg
+1564908051|Timeraa|D|/Extension/Extension/assets/images/icon124px.png
+1564908051|Timeraa|D|/Extension/Extension/assets/images/icon16px.png
+1564908051|Timeraa|D|/Extension/Extension/assets/images/icon48px.png
+1564908051|Timeraa|A|/Extension/Extension/assets/images/icon_128x128.png
+1564908051|Timeraa|A|/Extension/Extension/assets/images/icon_16x16.png
+1564908051|Timeraa|A|/Extension/Extension/assets/images/icon_48x48.png
+1564908051|Timeraa|A|/Extension/Extension/assets/images/icon_infill.svg
+1564908051|Timeraa|M|/Extension/Extension/html/popup/app.js
+1564908051|Timeraa|D|/Extension/Extension/html/popup/components/creditCard.js
+1564908051|Timeraa|A|/Extension/Extension/html/popup/components/credits/creditCard.js
+1564908051|Timeraa|M|/Extension/Extension/html/popup/components/navigation/navigation.js
+1564908051|Timeraa|M|/Extension/Extension/html/popup/css/app.css
+1564908051|Timeraa|D|/Extension/Extension/html/popup/css/materialize.min.css
+1564908051|Timeraa|D|/Extension/Extension/html/popup/css/vuetify.min.css
+1564908051|Timeraa|M|/Extension/Extension/html/popup/index.html
+1564908051|Timeraa|M|/Extension/Extension/html/popup/pages/credits.js
+1564908051|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1564908051|Timeraa|A|/Extension/Extension/html/popup/scss/_animations.scss
+1564908051|Timeraa|M|/Extension/Extension/html/popup/scss/app.scss
+1564908051|Timeraa|M|/Extension/Extension/html/popup/scss/base.scss
+1564908051|Timeraa|M|/Extension/Extension/html/popup/scss/credits.scss
+1564908051|Timeraa|M|/Extension/Extension/html/popup/scss/navbar.scss
+1564908051|Timeraa|M|/Extension/Extension/html/popup/scss/settings.scss
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/components/header.js
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/components/main.js
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/css/app.css
+1564908051|Timeraa|D|/Extension/Extension/html/tabs/css/materialize.min.css
+1564908051|Timeraa|D|/Extension/Extension/html/tabs/css/vuetify.min.css
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/index.html
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/scss/app.scss
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/scss/base.scss
+1564908051|Timeraa|M|/Extension/Extension/html/tabs/scss/navbar.scss
+1564908051|Timeraa|D|/Extension/Extension/html/tabs/scss/settings.scss
+1564908051|Timeraa|M|/Extension/Extension/js/background/background.js
+1564908051|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1564908051|Timeraa|A|/Extension/Extension/js/lib/socket.io.js
+1564908051|Timeraa|D|/Extension/Extension/js/lib/socket.io_2.2.0.js
+1564908051|Timeraa|M|/Extension/Extension/js/lib/vue-router.js
+1564908051|Timeraa|M|/Extension/Extension/js/util/langManager.js
+1564908051|Timeraa|M|/Extension/Extension/js/util/presenceManager.js
+1564908051|Timeraa|M|/Extension/Extension/manifest.json
+1564908051|Timeraa|M|/Extension/sassCompiler.js
+1564908051|Timeraa|M|/Extension/sassCompiler.ts
+1565038603|Timeraa|M|/Extension/Extension/html/popup/pages/settings.js
+1565038603|Timeraa|M|/Extension/Extension/js/background/background.js
+1565038603|Timeraa|M|/Extension/Extension/js/background/presenceDev.js
+1565038603|Timeraa|M|/Extension/Extension/js/background/socketConnector.js
+1565038603|Timeraa|M|/Extension/Extension/js/presenceHandler.js
+1565038603|Timeraa|A|/Extension/Extension/js/util/devHelper.d.ts
+1565038603|Timeraa|M|/Extension/Extension/js/util/devHelper.js
+1565038603|Timeraa|M|/Extension/classes/presence.ts
+1565058696|Florian Metz|D|/Extension/Extension/js/util/devHelper.d.ts
+1565058696|Florian Metz|M|/Extension/Extension/js/util/devHelper.js
+1565058696|Florian Metz|M|/Extension/classes/iframe.ts
+1565058696|Florian Metz|M|/Extension/classes/index.d.ts
+1565058696|Florian Metz|M|/Extension/classes/presence.ts
+1567163513|Florian Metz|M|/Extension/.gitignore
+1567163513|Florian Metz|D|/Extension/Extension/.gitignore
+1567163513|Florian Metz|D|/Extension/Extension/_locales/en/messages.json
+1567163513|Florian Metz|D|/Extension/Extension/assets/css/fontawesome.5.8.2.css
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.eot
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.svg
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.ttf
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.woff
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-brands-400.woff2
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.eot
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.svg
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.ttf
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.woff
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-regular-400.woff2
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.eot
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.svg
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.ttf
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.woff
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/FontAwesome/fa-solid-900.woff2
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/Inter/Inter-Bold.otf
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/Inter/Inter-Medium.otf
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/Inter/Inter-Regular.otf
+1567163513|Florian Metz|D|/Extension/Extension/assets/fonts/discord.otf
+1567163513|Florian Metz|D|/Extension/Extension/assets/images/icon_128x128.png
+1567163513|Florian Metz|D|/Extension/Extension/assets/images/icon_16x16.png
+1567163513|Florian Metz|D|/Extension/Extension/assets/images/icon_48x48.png
+1567163513|Florian Metz|D|/Extension/Extension/assets/images/icon_infill.svg
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/app.js
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/components/credits/creditCard.js
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/components/navigation/navigation.js
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/css/app.css
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/index.html
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/pages/credits.js
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/pages/settings.js
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/_animations.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/app.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/base.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/credits.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/navbar.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/settings.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/popup/scss/variables.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/app.js
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/components/changeItem.js
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/components/header.js
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/components/main.js
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/css/app.css
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/index.html
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/pages/installed.js
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/pages/updated.js
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/scss/app.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/scss/base.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/scss/navbar.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/scss/updated.scss
+1567163513|Florian Metz|D|/Extension/Extension/html/tabs/scss/variables.scss
+1567163513|Florian Metz|D|/Extension/Extension/js/background/background.js
+1567163513|Florian Metz|D|/Extension/Extension/js/background/presenceDev.js
+1567163513|Florian Metz|D|/Extension/Extension/js/background/settingsManager.js
+1567163513|Florian Metz|D|/Extension/Extension/js/background/socketConnector.js
+1567163513|Florian Metz|D|/Extension/Extension/js/lib/socket.io.js
+1567163513|Florian Metz|D|/Extension/Extension/js/lib/vue-router.js
+1567163513|Florian Metz|D|/Extension/Extension/js/lib/vue.min.js
+1567163513|Florian Metz|D|/Extension/Extension/js/presenceHandler.js
+1567163513|Florian Metz|D|/Extension/Extension/js/util/debug.js
+1567163513|Florian Metz|D|/Extension/Extension/js/util/devHelper.js
+1567163513|Florian Metz|D|/Extension/Extension/js/util/functions.js
+1567163513|Florian Metz|D|/Extension/Extension/js/util/langManager.js
+1567163513|Florian Metz|D|/Extension/Extension/js/util/presenceManager.js
+1567163513|Florian Metz|D|/Extension/Extension/manifest.json
+1567163513|Florian Metz|D|/Extension/POEditor_en.json
+1567163513|Florian Metz|D|/Extension/classes/iframe.ts
+1567163513|Florian Metz|D|/Extension/classes/index.d.ts
+1567163513|Florian Metz|D|/Extension/classes/presence.ts
+1567163513|Florian Metz|D|/Extension/classes/tsconfig.json
+1567163513|Florian Metz|D|/Extension/jsconfig.json
+1567163513|Florian Metz|M|/Extension/package-lock.json
+1567163513|Florian Metz|M|/Extension/package.json
+1567163513|Florian Metz|D|/Extension/pkg.ts
+1567163513|Florian Metz|A|/Extension/public/assets/css/fontawesome.5.8.2.css
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.eot
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.svg
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.ttf
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.woff
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.woff2
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.eot
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.svg
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.ttf
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.woff
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.woff2
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.eot
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.svg
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.ttf
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.woff
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.woff2
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/Inter/Inter-Bold.otf
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/Inter/Inter-Medium.otf
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/Inter/Inter-Regular.otf
+1567163513|Florian Metz|A|/Extension/public/assets/fonts/discord.otf
+1567163513|Florian Metz|A|/Extension/public/assets/images/icon_128x128.png
+1567163513|Florian Metz|A|/Extension/public/assets/images/icon_16x16.png
+1567163513|Florian Metz|A|/Extension/public/assets/images/icon_48x48.png
+1567163513|Florian Metz|A|/Extension/public/assets/images/icon_infill.svg
+1567163513|Florian Metz|A|/Extension/public/html/popup/css/app.css
+1567163513|Florian Metz|A|/Extension/public/html/popup/index.html
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/_animations.scss
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/app.scss
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/base.scss
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/credits.scss
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/navbar.scss
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/settings.scss
+1567163513|Florian Metz|A|/Extension/public/html/popup/scss/variables.scss
+1567163513|Florian Metz|A|/Extension/public/html/tabs/css/app.css
+1567163513|Florian Metz|A|/Extension/public/html/tabs/index.html
+1567163513|Florian Metz|A|/Extension/public/html/tabs/scss/app.scss
+1567163513|Florian Metz|A|/Extension/public/html/tabs/scss/base.scss
+1567163513|Florian Metz|A|/Extension/public/html/tabs/scss/navbar.scss
+1567163513|Florian Metz|A|/Extension/public/html/tabs/scss/updated.scss
+1567163513|Florian Metz|A|/Extension/public/html/tabs/scss/variables.scss
+1567163513|Florian Metz|A|/Extension/public/manifest.json
+1567163513|Florian Metz|M|/Extension/sassCompiler.js
+1567163513|Florian Metz|M|/Extension/sassFiles.json
+1567163513|Florian Metz|A|/Extension/src/background.ts
+1567163513|Florian Metz|A|/Extension/src/contentScript.ts
+1567163513|Florian Metz|A|/Extension/src/popup.ts
+1567163513|Florian Metz|A|/Extension/src/tabs.ts
+1567163513|Florian Metz|A|/Extension/src/util/debug.ts
+1567163513|Florian Metz|A|/Extension/src/util/functions/asyncStorage.ts
+1567163513|Florian Metz|A|/Extension/src/util/functions/checkAccess.ts
+1567163513|Florian Metz|A|/Extension/src/util/functions/fetchJSON.ts
+1567163513|Florian Metz|A|/Extension/src/util/functions/initSettings.ts
+1567163513|Florian Metz|A|/Extension/src/util/functions/presenceDevManager.ts
+1567163513|Florian Metz|A|/Extension/src/util/iFrameHandler.ts
+1567163513|Florian Metz|A|/Extension/src/util/langManager.ts
+1567163513|Florian Metz|A|/Extension/src/util/presence/devHelper.ts
+1567163513|Florian Metz|A|/Extension/src/util/presenceManager.ts
+1567163513|Florian Metz|A|/Extension/src/util/socketManager.ts
+1567163513|Florian Metz|A|/Extension/src/util/tabPriority.ts
+1567163513|Florian Metz|M|/Extension/tsconfig.json
+1567165582|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1567165582|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1567181002|Florian Metz|M|/Extension/.gitignore
+1567181002|Florian Metz|A|/Extension/webpack/webpack.analyze.js
+1567181002|Florian Metz|A|/Extension/webpack/webpack.common.js
+1567181002|Florian Metz|A|/Extension/webpack/webpack.dev.js
+1567181002|Florian Metz|A|/Extension/webpack/webpack.prod.js
+1567181269|Florian Metz|M|/Extension/.gitignore
+1567181269|Florian Metz|A|/Extension/public/html/popup/app.js
+1567181269|Florian Metz|A|/Extension/public/html/popup/components/credits/creditCard.js
+1567181269|Florian Metz|A|/Extension/public/html/popup/components/navigation/navigation.js
+1567181269|Florian Metz|A|/Extension/public/html/popup/pages/credits.js
+1567181269|Florian Metz|A|/Extension/public/html/popup/pages/settings.js
+1567181269|Florian Metz|A|/Extension/public/html/tabs/app.js
+1567181269|Florian Metz|A|/Extension/public/html/tabs/components/changeItem.js
+1567181269|Florian Metz|A|/Extension/public/html/tabs/components/header.js
+1567181269|Florian Metz|A|/Extension/public/html/tabs/components/main.js
+1567181269|Florian Metz|A|/Extension/public/html/tabs/pages/installed.js
+1567181269|Florian Metz|A|/Extension/public/html/tabs/pages/updated.js
+1567181269|Florian Metz|A|/Extension/public/js/lib/vue-router.js
+1567181269|Florian Metz|A|/Extension/public/js/lib/vue.min.js
+1567363915|Florian Metz|A|/Extension/public/assets/images/icon.svg
+1567363915|Florian Metz|D|/Extension/public/assets/images/icon_infill.svg
+1567363915|Florian Metz|M|/Extension/public/html/popup/components/navigation/navigation.js
+1567363915|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1567363915|Florian Metz|M|/Extension/public/html/popup/index.html
+1567363915|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1567363915|Florian Metz|M|/Extension/public/html/popup/scss/navbar.scss
+1567363915|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1567363915|Florian Metz|M|/Extension/public/html/tabs/app.js
+1567363915|Florian Metz|M|/Extension/public/html/tabs/components/changeItem.js
+1567363915|Florian Metz|M|/Extension/public/html/tabs/components/header.js
+1567363915|Florian Metz|M|/Extension/public/html/tabs/components/main.js
+1567363915|Florian Metz|M|/Extension/public/html/tabs/css/app.css
+1567363915|Florian Metz|M|/Extension/public/html/tabs/index.html
+1567363915|Florian Metz|M|/Extension/public/html/tabs/pages/installed.js
+1567363915|Florian Metz|M|/Extension/public/html/tabs/scss/base.scss
+1567363915|Florian Metz|M|/Extension/public/html/tabs/scss/updated.scss
+1567363915|Florian Metz|A|/Extension/public/js/lib/anime.min.js
+1567363915|Florian Metz|M|/Extension/public/manifest.json
+1567363915|Florian Metz|M|/Extension/src/background.ts
+1567363915|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1567372538|Florian Metz|A|/Extension/public/assets/fonts/DiscordFontBlack.woff
+1567372538|Florian Metz|A|/Extension/public/assets/fonts/DiscordFontBlack.woff2
+1567372538|Florian Metz|D|/Extension/public/assets/fonts/discord.otf
+1567372538|Florian Metz|M|/Extension/public/html/popup/components/credits/creditCard.js
+1567372538|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1567372538|Florian Metz|M|/Extension/public/html/popup/index.html
+1567372538|Florian Metz|M|/Extension/public/html/popup/scss/base.scss
+1567372538|Florian Metz|M|/Extension/public/html/popup/scss/credits.scss
+1567372538|Florian Metz|M|/Extension/public/html/tabs/css/app.css
+1567372538|Florian Metz|M|/Extension/public/html/tabs/pages/installed.js
+1567372538|Florian Metz|M|/Extension/public/html/tabs/pages/updated.js
+1567372538|Florian Metz|M|/Extension/public/html/tabs/scss/base.scss
+1567372538|Florian Metz|A|/Extension/public/js/lib/tinycolor.js
+1567372538|Florian Metz|M|/Extension/src/background.ts
+1568394420|Florian Metz|M|/Extension/src/background.ts
+1568394420|Florian Metz|M|/Extension/src/util/functions/checkAccess.ts
+1568395795|Florian Metz|M|/Extension/src/background.ts
+1568540512|Florian Metz|A|/Extension/fetchDescriptions.ts
+1568540512|Florian Metz|M|/Extension/package-lock.json
+1568540512|Florian Metz|M|/Extension/package.json
+1568540512|Florian Metz|A|/Extension/public/_locales/ar_SA/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/cs_CZ/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/da_DK/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/de/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/en/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/es/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/fi/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/fr/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/he_IL/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/hu/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/it/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/ja_JP/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/ko_KR/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/nl/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/no/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/pl/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/pt/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/pt_BR/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/ro/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/ru/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/sk/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/sv_SE/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/th/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/tr/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/uk_UA/messages.json
+1568540512|Florian Metz|A|/Extension/public/_locales/zh_CN/messages.json
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/DiscordFontBlack.woff
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.eot
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.svg
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.ttf
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-brands-400.woff
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.eot
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.svg
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.ttf
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-regular-400.woff
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.eot
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.svg
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.ttf
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/FontAwesome/fa-solid-900.woff
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/Inter/Inter-Bold.otf
+1568540512|Florian Metz|A|/Extension/public/assets/fonts/Inter/Inter-Bold.woff2
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/Inter/Inter-Medium.otf
+1568540512|Florian Metz|A|/Extension/public/assets/fonts/Inter/Inter-Medium.woff2
+1568540512|Florian Metz|D|/Extension/public/assets/fonts/Inter/Inter-Regular.otf
+1568540512|Florian Metz|A|/Extension/public/assets/fonts/Inter/Inter-Regular.woff2
+1568540512|Florian Metz|M|/Extension/public/html/popup/components/credits/creditCard.js
+1568540512|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1568540512|Florian Metz|M|/Extension/public/html/popup/index.html
+1568540512|Florian Metz|M|/Extension/public/html/popup/pages/credits.js
+1568540512|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1568540512|Florian Metz|M|/Extension/public/html/popup/scss/base.scss
+1568540512|Florian Metz|M|/Extension/public/html/popup/scss/credits.scss
+1568540512|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1568540512|Florian Metz|M|/Extension/public/html/tabs/css/app.css
+1568540512|Florian Metz|M|/Extension/public/html/tabs/index.html
+1568540512|Florian Metz|M|/Extension/public/html/tabs/scss/base.scss
+1568540512|Florian Metz|D|/Extension/public/js/lib/tinycolor.js
+1568540512|Florian Metz|A|/Extension/public/js/lib/tinycolor.min.js
+1568540512|Florian Metz|D|/Extension/public/js/lib/vue-router.js
+1568540512|Florian Metz|A|/Extension/public/js/lib/vue-router.min.js
+1568540512|Florian Metz|M|/Extension/public/js/lib/vue.min.js
+1568540512|Florian Metz|M|/Extension/public/manifest.json
+1568540512|Florian Metz|M|/Extension/src/util/presence/devHelper.ts
+1568540512|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1568540512|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1568574590|Voknehzyr|M|/Extension/public/html/popup/css/app.css
+1568574590|Voknehzyr|M|/Extension/public/html/popup/pages/settings.js
+1568574590|Voknehzyr|D|/Extension/public/html/popup/scss/_animations.scss
+1568574590|Voknehzyr|A|/Extension/public/html/popup/scss/animations.scss
+1568574590|Voknehzyr|M|/Extension/public/html/popup/scss/app.scss
+1568574590|Voknehzyr|M|/Extension/public/html/popup/scss/base.scss
+1568574590|Voknehzyr|A|/Extension/public/html/popup/scss/button.scss
+1568574590|Voknehzyr|M|/Extension/public/html/popup/scss/navbar.scss
+1568574590|Voknehzyr|M|/Extension/public/html/popup/scss/settings.scss
+1568574590|Voknehzyr|M|/Extension/public/html/tabs/css/app.css
+1569100207|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1569100228|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1569100228|Florian Metz|M|/Extension/public/html/tabs/components/changeItem.js
+1569100228|Florian Metz|M|/Extension/src/background.ts
+1569100228|Florian Metz|M|/Extension/src/contentScript.ts
+1569100228|Florian Metz|M|/Extension/src/popup.ts
+1569100228|Florian Metz|M|/Extension/src/tabs.ts
+1569100228|Florian Metz|M|/Extension/src/util/debug.ts
+1569100228|Florian Metz|M|/Extension/src/util/functions/checkAccess.ts
+1569100228|Florian Metz|M|/Extension/src/util/functions/initSettings.ts
+1569100228|Florian Metz|M|/Extension/src/util/functions/presenceDevManager.ts
+1569100228|Florian Metz|M|/Extension/src/util/iFrameHandler.ts
+1569100228|Florian Metz|M|/Extension/src/util/langManager.ts
+1569100228|Florian Metz|M|/Extension/src/util/presence/devHelper.ts
+1569100228|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1569100228|Florian Metz|M|/Extension/src/util/socketManager.ts
+1569100228|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1569239191|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1569239191|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1569239191|Florian Metz|M|/Extension/public/html/popup/scss/animations.scss
+1569239191|Florian Metz|M|/Extension/public/html/tabs/css/app.css
+1569362624|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1569431353|Florian Metz|M|/Extension/src/util/langManager.ts
+1569432750|Florian Metz|A|/Extension/public/_locales/bs_BA/messages.json
+1569432750|Florian Metz|A|/Extension/public/_locales/id/messages.json
+1569432750|Florian Metz|M|/Extension/public/html/popup/components/credits/creditCard.js
+1569432750|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1569432750|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1569432750|Florian Metz|M|/Extension/public/html/tabs/css/app.css
+1569450951|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1569450951|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1569450951|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1569450951|Florian Metz|M|/Extension/src/util/socketManager.ts
+1569703867|Florian Metz|A|/Extension/@types/PreMiD/presenceMetadata.d.ts
+1569703867|Florian Metz|A|/Extension/@types/PreMiD/presenceStorage.d.ts
+1569703867|Florian Metz|M|/Extension/package-lock.json
+1569703867|Florian Metz|M|/Extension/package.json
+1569703867|Florian Metz|M|/Extension/public/manifest.json
+1569703867|Florian Metz|M|/Extension/src/background.ts
+1569703867|Florian Metz|A|/Extension/src/util/background/generic.ts
+1569703867|Florian Metz|A|/Extension/src/util/background/onInstalled.ts
+1569703867|Florian Metz|A|/Extension/src/util/background/onMessage.ts
+1569703867|Florian Metz|A|/Extension/src/util/background/onStorageChange.ts
+1569703867|Florian Metz|M|/Extension/src/util/debug.ts
+1569703867|Florian Metz|M|/Extension/src/util/functions/asyncStorage.ts
+1569703867|Florian Metz|A|/Extension/src/util/functions/clearActivity.ts
+1569703867|Florian Metz|A|/Extension/src/util/functions/cpObj.ts
+1569703867|Florian Metz|M|/Extension/src/util/functions/initSettings.ts
+1569703867|Florian Metz|A|/Extension/src/util/functions/injectPresence.ts
+1569703867|Florian Metz|A|/Extension/src/util/functions/isEquivalent.ts
+1569703867|Florian Metz|M|/Extension/src/util/functions/presenceDevManager.ts
+1569703867|Florian Metz|A|/Extension/src/util/functions/setActivity.ts
+1569703867|Florian Metz|A|/Extension/src/util/functions/tabHasPresence.ts
+1569703867|Florian Metz|M|/Extension/src/util/langManager.ts
+1569703867|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1569703867|Florian Metz|M|/Extension/src/util/socketManager.ts
+1569703867|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1569703867|Florian Metz|M|/Extension/tsconfig.json
+1569757616|Florian Metz|M|/Extension/src/util/socketManager.ts
+1570044932|Florian Metz|A|/Extension/public/_locales/sl_SI/messages.json
+1570044932|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1570108285|Florian Metz|M|/Extension/fetchDescriptions.ts
+1570108285|Florian Metz|A|/Extension/public/_locales/ar/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/ar_SA/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/bs/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/cs/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/cs_CZ/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/da/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/da_DK/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/de/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/en/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/es/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/fi/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/fr/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/he/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/he_IL/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/hu/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/id/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/it/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/ja/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/ja_JP/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/ko/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/ko_KR/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/nl/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/no/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/pl/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/pt/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/pt_BR/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/pt_PT/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/ro/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/ru/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/sk/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/sl/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/sl_SI/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/sv/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/sv_SE/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/th/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/tr/messages.json
+1570108285|Florian Metz|A|/Extension/public/_locales/uk/messages.json
+1570108285|Florian Metz|D|/Extension/public/_locales/uk_UA/messages.json
+1570108285|Florian Metz|M|/Extension/public/_locales/zh_CN/messages.json
+1570108285|Florian Metz|M|/Extension/public/manifest.json
+1570127469|Florian Metz|M|/Extension/public/manifest.json
+1570653838|Florian Metz|A|/Extension/public/_locales/ar_SA/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/bs_BA/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/cs_CZ/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/da_DK/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/de/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/es/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/fr/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/he_IL/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/id/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/it/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/ja_JP/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/ko_KR/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/nl/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/pl/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/pt/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/pt_BR/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/ro/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/ru/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/sk/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/sl_SI/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/sv_SE/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/th/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/tr/messages.json
+1570653838|Florian Metz|A|/Extension/public/_locales/uk_UA/messages.json
+1570653838|Florian Metz|M|/Extension/public/_locales/zh_CN/messages.json
+1570653838|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1570653838|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1570653838|Florian Metz|M|/Extension/public/html/tabs/css/app.css
+1570653838|Florian Metz|M|/Extension/public/html/tabs/pages/installed.js
+1570653838|Florian Metz|M|/Extension/public/manifest.json
+1570653838|Florian Metz|M|/Extension/src/util/background/onInstalled.ts
+1570653838|Florian Metz|M|/Extension/src/util/presence/devHelper.ts
+1570908486|Florian Metz|M|/Extension/src/util/socketManager.ts
+1570914033|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1570914033|Florian Metz|M|/Extension/public/html/tabs/components/changeItem.js
+1570914049|Florian Metz|M|/Extension/src/util/socketManager.ts
+1571237464|Florian Metz|M|/Extension/src/util/socketManager.ts
+1571237478|Florian Metz|M|/Extension/src/util/functions/presenceDevManager.ts
+1571237611|Florian Metz|M|/Extension/public/_locales/ar_SA/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/da_DK/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/es/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/fi/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/he_IL/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/hu/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/ja_JP/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/ko_KR/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/no/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/pt/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/ru/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/sv_SE/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/th/messages.json
+1571237611|Florian Metz|M|/Extension/public/_locales/zh_CN/messages.json
+1571239599|Florian Metz|M|/Extension/src/util/functions/setActivity.ts
+1573244085|Florian Metz|M|/Extension/.vscode/settings.json
+1573244085|Florian Metz|D|/Extension/package-lock.json
+1573244085|Florian Metz|M|/Extension/package.json
+1573244085|Florian Metz|A|/Extension/public/_locales/az/messages.json
+1573244085|Florian Metz|M|/Extension/public/_locales/he_IL/messages.json
+1573244085|Florian Metz|A|/Extension/public/_locales/vi_VN/messages.json
+1573244085|Florian Metz|M|/Extension/public/html/popup/css/app.css
+1573244085|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1573244085|Florian Metz|M|/Extension/public/html/popup/scss/settings.scss
+1573244085|Florian Metz|M|/Extension/public/manifest.json
+1573244085|Florian Metz|M|/Extension/src/contentScript.ts
+1573244085|Florian Metz|M|/Extension/src/util/background/generic.ts
+1573244085|Florian Metz|M|/Extension/src/util/background/onInstalled.ts
+1573244085|Florian Metz|M|/Extension/src/util/debug.ts
+1573244085|Florian Metz|M|/Extension/src/util/functions/clearActivity.ts
+1573244085|Florian Metz|M|/Extension/src/util/functions/initSettings.ts
+1573244085|Florian Metz|M|/Extension/src/util/functions/injectPresence.ts
+1573244085|Florian Metz|M|/Extension/src/util/functions/presenceDevManager.ts
+1573244085|Florian Metz|A|/Extension/src/util/functions/randomHex.ts
+1573244085|Florian Metz|M|/Extension/src/util/functions/setActivity.ts
+1573244085|Florian Metz|M|/Extension/src/util/functions/tabHasPresence.ts
+1573244085|Florian Metz|M|/Extension/src/util/iFrameHandler.ts
+1573244085|Florian Metz|M|/Extension/src/util/langManager.ts
+1573244085|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1573244085|Florian Metz|M|/Extension/src/util/socketManager.ts
+1573244085|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1573244085|Florian Metz|A|/Extension/yarn.lock
+1573257923|Florian Metz|M|/Extension/package.json
+1573257923|Florian Metz|M|/Extension/public/manifest.json
+1573257923|Florian Metz|D|/Extension/sassCompiler.js
+1573257923|Florian Metz|D|/Extension/sassCompiler.ts
+1573257923|Florian Metz|D|/Extension/sassFiles.json
+1573257923|Florian Metz|M|/Extension/tsconfig.json
+1573257923|Florian Metz|D|/Extension/webpack/webpack.analyze.js
+1573257923|Florian Metz|M|/Extension/webpack/webpack.common.js
+1573257923|Florian Metz|M|/Extension/yarn.lock
+1573319560|Florian Metz|M|/Extension/package.json
+1573319560|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1573319560|Florian Metz|M|/Extension/src/contentScript.ts
+1573319560|Florian Metz|M|/Extension/src/util/background/generic.ts
+1573319560|Florian Metz|M|/Extension/src/util/background/onMessage.ts
+1573319560|Florian Metz|M|/Extension/src/util/functions/initSettings.ts
+1573319560|Florian Metz|M|/Extension/src/util/functions/presenceDevManager.ts
+1573319560|Florian Metz|M|/Extension/src/util/functions/setActivity.ts
+1573319560|Florian Metz|M|/Extension/src/util/functions/tabHasPresence.ts
+1573319560|Florian Metz|M|/Extension/src/util/langManager.ts
+1573319560|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1573319560|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1573319560|Florian Metz|M|/Extension/tsconfig.json
+1573319560|Florian Metz|M|/Extension/yarn.lock
+1573320127|Florian Metz|M|/Extension/src/util/functions/setActivity.ts
+1574264795|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1574264809|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1574265557|Florian Metz|M|/Extension/src/util/langManager.ts
+1574265602|Florian Metz|M|/Extension/public/html/popup/index.html
+1574265602|Florian Metz|M|/Extension/public/html/tabs/index.html
+1574265602|Florian Metz|A|/Extension/src/helper.ts
+1574265602|Florian Metz|D|/Extension/src/popup.ts
+1574265602|Florian Metz|D|/Extension/src/tabs.ts
+1574265602|Florian Metz|M|/Extension/webpack/webpack.common.js
+1574266122|Florian Metz|M|/Extension/src/util/background/onInstalled.ts
+1574266122|Florian Metz|M|/Extension/src/util/functions/checkAccess.ts
+1574266122|Florian Metz|M|/Extension/src/util/functions/presenceDevManager.ts
+1574266122|Florian Metz|M|/Extension/src/util/iFrameHandler.ts
+1574266122|Florian Metz|M|/Extension/src/util/presence/devHelper.ts
+1574266122|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1574266122|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1574266178|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1574889744|Florian Metz|M|/Extension/package.json
+1574889744|Florian Metz|M|/Extension/public/_locales/es/messages.json
+1574889744|Florian Metz|A|/Extension/public/_locales/et_EE/messages.json
+1574889744|Florian Metz|M|/Extension/public/html/popup/app.js
+1574889744|Florian Metz|M|/Extension/public/html/popup/components/navigation/navigation.js
+1574889744|Florian Metz|M|/Extension/public/html/popup/index.html
+1574889744|Florian Metz|M|/Extension/public/html/popup/pages/credits.js
+1574889744|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1574889744|Florian Metz|M|/Extension/public/html/tabs/app.js
+1574889744|Florian Metz|M|/Extension/public/html/tabs/components/changeItem.js
+1574889744|Florian Metz|M|/Extension/public/html/tabs/components/header.js
+1574889744|Florian Metz|M|/Extension/public/html/tabs/components/main.js
+1574889744|Florian Metz|M|/Extension/public/html/tabs/index.html
+1574889744|Florian Metz|M|/Extension/public/html/tabs/pages/installed.js
+1574889744|Florian Metz|M|/Extension/public/html/tabs/pages/updated.js
+1574889744|Florian Metz|A|/Extension/public/js/lib/vue-i18n.js
+1574889744|Florian Metz|M|/Extension/public/manifest.json
+1574889744|Florian Metz|M|/Extension/src/background.ts
+1574889744|Florian Metz|M|/Extension/src/contentScript.ts
+1574889744|Florian Metz|M|/Extension/src/helper.ts
+1574889744|Florian Metz|M|/Extension/src/util/background/generic.ts
+1574889744|Florian Metz|A|/Extension/src/util/background/onConnect.ts
+1574889744|Florian Metz|M|/Extension/src/util/background/onInstalled.ts
+1574889744|Florian Metz|M|/Extension/src/util/background/onMessage.ts
+1574889744|Florian Metz|M|/Extension/src/util/background/onStorageChange.ts
+1574889744|Florian Metz|D|/Extension/src/util/functions/checkAccess.ts
+1574889744|Florian Metz|M|/Extension/src/util/functions/clearActivity.ts
+1574889744|Florian Metz|M|/Extension/src/util/functions/initSettings.ts
+1574889744|Florian Metz|M|/Extension/src/util/langManager.ts
+1574889744|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1574889744|Florian Metz|M|/Extension/src/util/socketManager.ts
+1574889744|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1574889744|Florian Metz|M|/Extension/yarn.lock
+1575062452|Florian Metz|M|/Extension/public/manifest.json
+1575062632|ImgBotApp|M|/Extension/public/assets/images/icon.svg
+1575062632|ImgBotApp|M|/Extension/public/assets/images/icon_128x128.png
+1575062632|ImgBotApp|M|/Extension/public/assets/images/icon_16x16.png
+1575062632|ImgBotApp|M|/Extension/public/assets/images/icon_48x48.png
+1575913466|Fruxh|M|/Extension/yarn.lock
+1577098257|Florian Metz|M|/Extension/src/util/functions/setActivity.ts
+1577098281|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1577098379|Florian Metz|M|/Extension/fetchDescriptions.ts
+1577098379|Florian Metz|M|/Extension/src/helper.ts
+1577098379|Florian Metz|M|/Extension/src/util/background/generic.ts
+1577098379|Florian Metz|D|/Extension/src/util/functions/fetchJSON.ts
+1577098379|Florian Metz|M|/Extension/src/util/langManager.ts
+1577098379|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1577098534|Florian Metz|M|/Extension/webpack/webpack.common.js
+1577098585|Florian Metz|M|/Extension/package.json
+1577098585|Florian Metz|M|/Extension/public/html/popup/index.html
+1577098585|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1577098585|Florian Metz|M|/Extension/public/html/tabs/index.html
+1577098585|Florian Metz|M|/Extension/public/html/tabs/pages/updated.js
+1577098585|Florian Metz|M|/Extension/src/contentScript.ts
+1577098585|Florian Metz|M|/Extension/src/util/background/onInstalled.ts
+1577098585|Florian Metz|M|/Extension/src/util/socketManager.ts
+1577098585|Florian Metz|M|/Extension/tsconfig.json
+1577098585|Florian Metz|M|/Extension/webpack/webpack.dev.js
+1577098585|Florian Metz|M|/Extension/webpack/webpack.prod.js
+1577098585|Florian Metz|M|/Extension/yarn.lock
+1577098861|Florian Metz|M|/Extension/public/_locales/ar/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/ar_SA/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/bs_BA/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/cs/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/cs_CZ/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/da/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/da_DK/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/he/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/he_IL/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/ja/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/ja_JP/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/ko/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/ko_KR/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/pt/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/pt_PT/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/sl/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/sl_SI/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/sv/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/sv_SE/messages.json
+1577098861|Florian Metz|M|/Extension/public/_locales/uk/messages.json
+1577098861|Florian Metz|D|/Extension/public/_locales/uk_UA/messages.json
+1577098861|Florian Metz|M|/Extension/public/manifest.json
+1578859701|EGGSY|M|/Extension/src/util/functions/setActivity.ts
+1579283182|Florian Metz|M|/Extension/package.json
+1579283182|Florian Metz|M|/Extension/public/_locales/ar/messages.json
+1579283182|Florian Metz|A|/Extension/public/_locales/bn_BD/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/bs/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/da/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/es/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/fr/messages.json
+1579283182|Florian Metz|A|/Extension/public/_locales/lt/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/no/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/uk/messages.json
+1579283182|Florian Metz|A|/Extension/public/_locales/uz/messages.json
+1579283182|Florian Metz|M|/Extension/public/_locales/vi_VN/messages.json
+1579283182|Florian Metz|A|/Extension/public/_locales/zh_TW/messages.json
+1579283182|Florian Metz|M|/Extension/public/html/popup/pages/credits.js
+1579283182|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1579283182|Florian Metz|M|/Extension/src/background.ts
+1579283182|Florian Metz|A|/Extension/src/config.ts
+1579283182|Florian Metz|M|/Extension/src/helper.ts
+1579283182|Florian Metz|M|/Extension/src/util/background/onConnect.ts
+1579283182|Florian Metz|M|/Extension/src/util/langManager.ts
+1579283182|Florian Metz|M|/Extension/src/util/presenceManager.ts
+1579283182|Florian Metz|M|/Extension/src/util/tabPriority.ts
+1579283182|Florian Metz|M|/Extension/yarn.lock
+1579284991|Florian Metz|M|/Extension/public/html/popup/pages/settings.js
+1580217622|Florian Metz|M|/Extension/src/util/background/onConnect.ts
+1580217622|Florian Metz|M|/Extension/src/util/functions/clearActivity.ts
+1580217622|Florian Metz|M|/Extension/src/util/functions/setActivity.ts
+1580800620|Florian Metz|M|/Extension/src/util/tabPriority.ts

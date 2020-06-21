@@ -1,0 +1,2298 @@
+1546458990|Timeraa|A|/Website/.babelrc
+1546458990|Timeraa|A|/Website/.editorconfig
+1546458990|Timeraa|A|/Website/.gitignore
+1546458990|Timeraa|A|/Website/.postcssrc.js
+1546458990|Timeraa|A|/Website/README.md
+1546458990|Timeraa|A|/Website/build/build.js
+1546458990|Timeraa|A|/Website/build/check-versions.js
+1546458990|Timeraa|A|/Website/build/logo.png
+1546458990|Timeraa|A|/Website/build/utils.js
+1546458990|Timeraa|A|/Website/build/vue-loader.conf.js
+1546458990|Timeraa|A|/Website/build/webpack.base.conf.js
+1546458990|Timeraa|A|/Website/build/webpack.dev.conf.js
+1546458990|Timeraa|A|/Website/build/webpack.prod.conf.js
+1546458990|Timeraa|A|/Website/config/dev.env.js
+1546458990|Timeraa|A|/Website/config/index.js
+1546458990|Timeraa|A|/Website/config/prod.env.js
+1546458990|Timeraa|A|/Website/index.html
+1546458990|Timeraa|A|/Website/package-lock.json
+1546458990|Timeraa|A|/Website/package.json
+1546458990|Timeraa|A|/Website/src/App.vue
+1546458990|Timeraa|A|/Website/src/assets/images/Timeraa.png
+1546458990|Timeraa|A|/Website/src/assets/images/logo.png
+1546458990|Timeraa|A|/Website/src/assets/images/store1.png
+1546458990|Timeraa|A|/Website/src/assets/images/version.js
+1546458990|Timeraa|A|/Website/src/components/ContributorProfile.vue
+1546458990|Timeraa|A|/Website/src/components/HelloWorld.vue
+1546458990|Timeraa|A|/Website/src/components/Navbar.vue
+1546458990|Timeraa|A|/Website/src/feet.vue
+1546458990|Timeraa|A|/Website/src/main.js
+1546458990|Timeraa|A|/Website/src/pages/Aboutpage.vue
+1546458990|Timeraa|A|/Website/src/pages/Contributorspage.vue
+1546458990|Timeraa|A|/Website/src/pages/HomePage.vue
+1546458990|Timeraa|A|/Website/src/pages/Store.vue
+1546458990|Timeraa|A|/Website/src/pages/StoreDashboard.vue
+1546458990|Timeraa|A|/Website/src/pages/StoreInstall.vue
+1546458990|Timeraa|A|/Website/src/pages/downloads.vue
+1546458990|Timeraa|A|/Website/src/pages/notfound.vue
+1546458990|Timeraa|A|/Website/src/pages/user.vue
+1546458990|Timeraa|A|/Website/src/router/index.js
+1546458990|Timeraa|A|/Website/static/.gitkeep
+1546458990|Timeraa|A|/Website/static/css/materialize.min.css
+1546458990|Timeraa|A|/Website/static/css/uigradients.min.css
+1546458990|Timeraa|A|/Website/static/favicon.png
+1546458990|Timeraa|A|/Website/static/fonts/LICENSE.txt
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Black.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-BlackItalic.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Bold.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-BoldItalic.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Italic.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Light.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-LightItalic.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Medium.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-MediumItalic.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Regular.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-Thin.ttf
+1546458990|Timeraa|A|/Website/static/fonts/Roboto-ThinItalic.ttf
+1546458990|Timeraa|A|/Website/static/js/jquery-3.3.1.min.js
+1546458990|Timeraa|A|/Website/static/js/materialize.min.js
+1546458990|Timeraa|A|/Website/test.js
+1546460055|Timeraa|M|/Website/build/build.js
+1546460055|Timeraa|M|/Website/index.html
+1546460055|Timeraa|M|/Website/package-lock.json
+1546460055|Timeraa|M|/Website/src/App.vue
+1546460055|Timeraa|M|/Website/src/components/Navbar.vue
+1546460055|Timeraa|D|/Website/src/feet.vue
+1546460055|Timeraa|M|/Website/src/main.js
+1546460055|Timeraa|M|/Website/src/pages/Contributorspage.vue
+1546460055|Timeraa|M|/Website/src/pages/HomePage.vue
+1546460055|Timeraa|M|/Website/src/pages/Store.vue
+1546460055|Timeraa|M|/Website/src/pages/StoreDashboard.vue
+1546460055|Timeraa|M|/Website/src/pages/StoreInstall.vue
+1546460055|Timeraa|M|/Website/src/pages/downloads.vue
+1546460055|Timeraa|M|/Website/src/pages/user.vue
+1546460055|Timeraa|M|/Website/src/router/index.js
+1546460055|Timeraa|A|/Website/static/fonts/FFF_EULA_license.pdf
+1546460055|Timeraa|A|/Website/static/fonts/Uni Sans Heavy Italic.otf
+1546460055|Timeraa|A|/Website/static/fonts/Uni Sans Heavy.otf
+1546460055|Timeraa|A|/Website/static/fonts/Uni Sans Thin Italic.otf
+1546460055|Timeraa|A|/Website/static/fonts/Uni Sans Thin.otf
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.heavy-caps-webfont (1).woff
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.heavy-caps-webfont.eot
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.heavy-caps-webfont.svg
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.heavy-caps-webfont.ttf
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.heavy-caps-webfont.woff
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.heavy-caps-webfont.woff2
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.thin-caps-webfont.eot
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.thin-caps-webfont.svg
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.thin-caps-webfont.ttf
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.thin-caps-webfont.woff
+1546460055|Timeraa|A|/Website/static/fonts/uni-sans.thin-caps-webfont.woff2
+1546460055|Timeraa|A|/Website/static/js/info.js
+1546497735|Paz|M|/Website/src/App.vue
+1546497735|Paz|M|/Website/src/components/Navbar.vue
+1546497735|Paz|M|/Website/src/pages/HomePage.vue
+1546497735|Paz|M|/Website/src/pages/StoreInstall.vue
+1546497735|Paz|M|/Website/src/pages/user.vue
+1546500010|Paz|M|/Website/index.html
+1546500010|Paz|M|/Website/src/pages/HomePage.vue
+1546500010|Paz|M|/Website/src/pages/StoreInstall.vue
+1546500010|Paz|M|/Website/src/pages/user.vue
+1546501353|Paz|M|/Website/build/build.js
+1546501353|Paz|M|/Website/index.html
+1546501353|Paz|M|/Website/src/App.vue
+1546501353|Paz|M|/Website/src/pages/HomePage.vue
+1546502402|Paz|D|/Website/src/pages/HomePage.vue
+1546502412|Paz|A|/Website/src/pages/Homepage.vue
+1546503265|Paz|D|/Website/src/pages/Aboutpage.vue
+1546503265|Paz|D|/Website/src/pages/Contributorspage.vue
+1546503265|Paz|D|/Website/src/pages/Homepage.vue
+1546503265|Paz|D|/Website/src/pages/Store.vue
+1546503265|Paz|D|/Website/src/pages/StoreDashboard.vue
+1546503265|Paz|D|/Website/src/pages/StoreInstall.vue
+1546503265|Paz|A|/Website/src/pages/about.vue
+1546503265|Paz|A|/Website/src/pages/contributors.vue
+1546503265|Paz|A|/Website/src/pages/home.vue
+1546503265|Paz|A|/Website/src/pages/mainstore.vue
+1546503265|Paz|A|/Website/src/pages/storelist.vue
+1546503265|Paz|A|/Website/src/pages/storepublish.vue
+1546503265|Paz|M|/Website/src/router/index.js
+1546508993|Paz|M|/Website/src/App.vue
+1546508993|Paz|M|/Website/src/components/Navbar.vue
+1546511071|Paz|M|/Website/src/pages/storelist.vue
+1546544105|Paz|M|/Website/static/js/info.js
+1546544740|Paz|M|/Website/src/App.vue
+1550469235|MulverineX|D|/Website/.babelrc
+1550469235|MulverineX|D|/Website/.editorconfig
+1550469235|MulverineX|M|/Website/.gitignore
+1550469235|MulverineX|D|/Website/.postcssrc.js
+1550469235|MulverineX|M|/Website/build/build.js
+1550469235|MulverineX|D|/Website/build/logo.png
+1550469235|MulverineX|M|/Website/build/utils.js
+1550469235|MulverineX|M|/Website/build/webpack.base.conf.js
+1550469235|MulverineX|M|/Website/build/webpack.dev.conf.js
+1550469235|MulverineX|M|/Website/build/webpack.prod.conf.js
+1550469235|MulverineX|M|/Website/config/index.js
+1550469235|MulverineX|M|/Website/index.html
+1550469235|MulverineX|M|/Website/package-lock.json
+1550469235|MulverineX|M|/Website/package.json
+1550469235|MulverineX|M|/Website/src/App.vue
+1550469235|MulverineX|A|/Website/src/assets/fonts/discord.otf
+1550469235|MulverineX|A|/Website/src/assets/fonts/fonts.css
+1550469235|MulverineX|A|/Website/src/assets/foo
+1550469235|MulverineX|A|/Website/src/assets/images/PreMiD.svg
+1550469235|MulverineX|D|/Website/src/assets/images/Timeraa.png
+1550469235|MulverineX|A|/Website/src/assets/images/brilliance.svg
+1550469235|MulverineX|A|/Website/src/assets/images/early.svg
+1550469235|MulverineX|A|/Website/src/assets/images/fruxh.gif
+1550469235|MulverineX|A|/Website/src/assets/images/learn-more.svg
+1550469235|MulverineX|A|/Website/src/assets/images/localization.svg
+1550469235|MulverineX|A|/Website/src/assets/images/logo-big.svg
+1550469235|MulverineX|D|/Website/src/assets/images/logo.png
+1550469235|MulverineX|A|/Website/src/assets/images/logo.svg
+1550469235|MulverineX|A|/Website/src/assets/images/master-logo.svg
+1550469235|MulverineX|A|/Website/src/assets/images/mulv.gif
+1550469235|MulverineX|A|/Website/src/assets/images/nitro.svg
+1550469235|MulverineX|A|/Website/src/assets/images/partner.svg
+1550469235|MulverineX|A|/Website/src/assets/images/premid-white.svg
+1550469235|MulverineX|D|/Website/src/assets/images/store1.png
+1550469235|MulverineX|A|/Website/src/assets/images/twitch-logo.svg
+1550469235|MulverineX|A|/Website/src/assets/images/verified.svg
+1550469235|MulverineX|D|/Website/src/assets/images/version.js
+1550469235|MulverineX|A|/Website/src/assets/images/youtube-logo.svg
+1550469235|MulverineX|A|/Website/src/assets/meta/android-chrome-192x192.png
+1550469235|MulverineX|A|/Website/src/assets/meta/android-chrome-512x512.png
+1550469235|MulverineX|A|/Website/src/assets/meta/apple-touch-icon.png
+1550469235|MulverineX|A|/Website/src/assets/meta/browserconfig.xml
+1550469235|MulverineX|A|/Website/src/assets/meta/favicon-16x16.png
+1550469235|MulverineX|A|/Website/src/assets/meta/favicon-32x32.png
+1550469235|MulverineX|A|/Website/src/assets/meta/favicon.ico
+1550469235|MulverineX|A|/Website/src/assets/meta/mstile-144x144.png
+1550469235|MulverineX|A|/Website/src/assets/meta/mstile-150x150.png
+1550469235|MulverineX|A|/Website/src/assets/meta/mstile-310x150.png
+1550469235|MulverineX|A|/Website/src/assets/meta/mstile-310x310.png
+1550469235|MulverineX|A|/Website/src/assets/meta/mstile-70x70.png
+1550469235|MulverineX|A|/Website/src/assets/meta/safari-pinned-tab.svg
+1550469235|MulverineX|A|/Website/src/assets/meta/site.webmanifest
+1550469235|MulverineX|D|/Website/src/components/ContributorProfile.vue
+1550469235|MulverineX|D|/Website/src/components/HelloWorld.vue
+1550469235|MulverineX|D|/Website/src/components/Navbar.vue
+1550469235|MulverineX|A|/Website/src/components/layout/Description.vue
+1550469235|MulverineX|A|/Website/src/components/layout/Listing.vue
+1550469235|MulverineX|A|/Website/src/components/layout/Navigation.vue
+1550469235|MulverineX|M|/Website/src/main.js
+1550469235|MulverineX|A|/Website/src/pages/Store.vue
+1550469235|MulverineX|A|/Website/src/pages/Submit.vue
+1550469235|MulverineX|D|/Website/src/pages/about.vue
+1550469235|MulverineX|M|/Website/src/pages/contributors.vue
+1550469235|MulverineX|M|/Website/src/pages/downloads.vue
+1550469235|MulverineX|M|/Website/src/pages/home.vue
+1550469235|MulverineX|D|/Website/src/pages/mainstore.vue
+1550469235|MulverineX|D|/Website/src/pages/notfound.vue
+1550469235|MulverineX|D|/Website/src/pages/storelist.vue
+1550469235|MulverineX|D|/Website/src/pages/storepublish.vue
+1550469235|MulverineX|D|/Website/src/pages/user.vue
+1550469235|MulverineX|M|/Website/src/router/index.js
+1550469235|MulverineX|A|/Website/src/stylesheets/colors.less
+1550469235|MulverineX|A|/Website/static/assets/fonts/discord.otf
+1550469235|MulverineX|A|/Website/static/assets/fonts/fonts.css
+1550469235|MulverineX|A|/Website/static/assets/foo
+1550469235|MulverineX|A|/Website/static/assets/images/PreMiD.svg
+1550469235|MulverineX|A|/Website/static/assets/images/brilliance.svg
+1550469235|MulverineX|A|/Website/static/assets/images/early.svg
+1550469235|MulverineX|A|/Website/static/assets/images/fruxh.gif
+1550469235|MulverineX|A|/Website/static/assets/images/learn-more.svg
+1550469235|MulverineX|A|/Website/static/assets/images/localization.svg
+1550469235|MulverineX|A|/Website/static/assets/images/logo-big.svg
+1550469235|MulverineX|A|/Website/static/assets/images/logo.svg
+1550469235|MulverineX|A|/Website/static/assets/images/master-logo.svg
+1550469235|MulverineX|A|/Website/static/assets/images/mulv.gif
+1550469235|MulverineX|A|/Website/static/assets/images/nitro.svg
+1550469235|MulverineX|A|/Website/static/assets/images/partner.svg
+1550469235|MulverineX|A|/Website/static/assets/images/premid-white.svg
+1550469235|MulverineX|A|/Website/static/assets/images/twitch-logo.svg
+1550469235|MulverineX|A|/Website/static/assets/images/verified.svg
+1550469235|MulverineX|A|/Website/static/assets/images/youtube-logo.svg
+1550469235|MulverineX|A|/Website/static/assets/meta/android-chrome-192x192.png
+1550469235|MulverineX|A|/Website/static/assets/meta/android-chrome-512x512.png
+1550469235|MulverineX|A|/Website/static/assets/meta/apple-touch-icon.png
+1550469235|MulverineX|A|/Website/static/assets/meta/browserconfig.xml
+1550469235|MulverineX|A|/Website/static/assets/meta/favicon-16x16.png
+1550469235|MulverineX|A|/Website/static/assets/meta/favicon-32x32.png
+1550469235|MulverineX|A|/Website/static/assets/meta/favicon.ico
+1550469235|MulverineX|A|/Website/static/assets/meta/mstile-144x144.png
+1550469235|MulverineX|A|/Website/static/assets/meta/mstile-150x150.png
+1550469235|MulverineX|A|/Website/static/assets/meta/mstile-310x150.png
+1550469235|MulverineX|A|/Website/static/assets/meta/mstile-310x310.png
+1550469235|MulverineX|A|/Website/static/assets/meta/mstile-70x70.png
+1550469235|MulverineX|A|/Website/static/assets/meta/safari-pinned-tab.svg
+1550469235|MulverineX|A|/Website/static/assets/meta/site.webmanifest
+1550469235|MulverineX|D|/Website/static/css/materialize.min.css
+1550469235|MulverineX|D|/Website/static/css/uigradients.min.css
+1550469235|MulverineX|D|/Website/static/favicon.png
+1550469235|MulverineX|D|/Website/static/fonts/FFF_EULA_license.pdf
+1550469235|MulverineX|D|/Website/static/fonts/LICENSE.txt
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Black.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-BlackItalic.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Bold.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-BoldItalic.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Italic.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Light.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-LightItalic.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Medium.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-MediumItalic.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Regular.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-Thin.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Roboto-ThinItalic.ttf
+1550469235|MulverineX|D|/Website/static/fonts/Uni Sans Heavy Italic.otf
+1550469235|MulverineX|D|/Website/static/fonts/Uni Sans Heavy.otf
+1550469235|MulverineX|D|/Website/static/fonts/Uni Sans Thin Italic.otf
+1550469235|MulverineX|D|/Website/static/fonts/Uni Sans Thin.otf
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.heavy-caps-webfont (1).woff
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.heavy-caps-webfont.eot
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.heavy-caps-webfont.svg
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.heavy-caps-webfont.ttf
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.heavy-caps-webfont.woff
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.heavy-caps-webfont.woff2
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.thin-caps-webfont.eot
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.thin-caps-webfont.svg
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.thin-caps-webfont.ttf
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.thin-caps-webfont.woff
+1550469235|MulverineX|D|/Website/static/fonts/uni-sans.thin-caps-webfont.woff2
+1550469235|MulverineX|D|/Website/static/js/info.js
+1550469235|MulverineX|D|/Website/static/js/jquery-3.3.1.min.js
+1550469235|MulverineX|D|/Website/static/js/materialize.min.js
+1550469235|MulverineX|D|/Website/test.js
+1550469288|MulverineX|M|/Website/build/webpack.dev.conf.js
+1550469288|MulverineX|A|/Website/src/pages/Contributors.vue
+1550469288|MulverineX|A|/Website/src/pages/Downloads.vue
+1550469288|MulverineX|A|/Website/src/pages/Home.vue
+1550469288|MulverineX|D|/Website/src/pages/contributors.vue
+1550469288|MulverineX|D|/Website/src/pages/downloads.vue
+1550469288|MulverineX|D|/Website/src/pages/home.vue
+1550469769|MulverineX|M|/Website/.gitignore
+1550469769|MulverineX|D|/Website/static/assets/fonts/discord.otf
+1550469769|MulverineX|D|/Website/static/assets/fonts/fonts.css
+1550469769|MulverineX|D|/Website/static/assets/foo
+1550469769|MulverineX|D|/Website/static/assets/images/PreMiD.svg
+1550469769|MulverineX|D|/Website/static/assets/images/brilliance.svg
+1550469769|MulverineX|D|/Website/static/assets/images/early.svg
+1550469769|MulverineX|D|/Website/static/assets/images/fruxh.gif
+1550469769|MulverineX|D|/Website/static/assets/images/learn-more.svg
+1550469769|MulverineX|D|/Website/static/assets/images/localization.svg
+1550469769|MulverineX|D|/Website/static/assets/images/logo-big.svg
+1550469769|MulverineX|D|/Website/static/assets/images/logo.svg
+1550469769|MulverineX|D|/Website/static/assets/images/master-logo.svg
+1550469769|MulverineX|D|/Website/static/assets/images/mulv.gif
+1550469769|MulverineX|D|/Website/static/assets/images/nitro.svg
+1550469769|MulverineX|D|/Website/static/assets/images/partner.svg
+1550469769|MulverineX|D|/Website/static/assets/images/premid-white.svg
+1550469769|MulverineX|D|/Website/static/assets/images/twitch-logo.svg
+1550469769|MulverineX|D|/Website/static/assets/images/verified.svg
+1550469769|MulverineX|D|/Website/static/assets/images/youtube-logo.svg
+1550469769|MulverineX|D|/Website/static/assets/meta/android-chrome-192x192.png
+1550469769|MulverineX|D|/Website/static/assets/meta/android-chrome-512x512.png
+1550469769|MulverineX|D|/Website/static/assets/meta/apple-touch-icon.png
+1550469769|MulverineX|D|/Website/static/assets/meta/browserconfig.xml
+1550469769|MulverineX|D|/Website/static/assets/meta/favicon-16x16.png
+1550469769|MulverineX|D|/Website/static/assets/meta/favicon-32x32.png
+1550469769|MulverineX|D|/Website/static/assets/meta/favicon.ico
+1550469769|MulverineX|D|/Website/static/assets/meta/mstile-144x144.png
+1550469769|MulverineX|D|/Website/static/assets/meta/mstile-150x150.png
+1550469769|MulverineX|D|/Website/static/assets/meta/mstile-310x150.png
+1550469769|MulverineX|D|/Website/static/assets/meta/mstile-310x310.png
+1550469769|MulverineX|D|/Website/static/assets/meta/mstile-70x70.png
+1550469769|MulverineX|D|/Website/static/assets/meta/safari-pinned-tab.svg
+1550469769|MulverineX|D|/Website/static/assets/meta/site.webmanifest
+1550479673|MulverineX|M|/Website/src/App.vue
+1550479673|MulverineX|A|/Website/src/assets/images/submit.svg
+1550479673|MulverineX|A|/Website/src/components/Checkbox.vue
+1550479673|MulverineX|M|/Website/src/components/layout/Listing.vue
+1550479673|MulverineX|M|/Website/src/pages/Store.vue
+1550479673|MulverineX|M|/Website/src/stylesheets/colors.less
+1550522022|MulverineX|D|/Website/src/assets/images/PreMiD.svg
+1550522022|MulverineX|A|/Website/src/assets/images/blah-test.svg
+1550522039|MulverineX|D|/Website/src/assets/images/blah-test.svg
+1550522039|MulverineX|A|/Website/src/assets/images/premid.svg
+1550524158|MulverineX|M|/Website/src/pages/Home.vue
+1550524226|MulverineX|M|/Website/src/pages/Home.vue
+1550524435|MulverineX|M|/Website/src/App.vue
+1550692681|Mulvey|M|/Website/src/components/layout/Description.vue
+1550781794|Fruxh|M|/Website/src/pages/Home.vue
+1550865615|Timeraa|M|/Website/package-lock.json
+1550865615|Timeraa|M|/Website/src/router/index.js
+1551147940|MulverineX|M|/Website/src/pages/Home.vue
+1551147940|MulverineX|M|/Website/src/pages/Store.vue
+1551147940|MulverineX|M|/Website/src/pages/Submit.vue
+1551289952|Mulvey|M|/Website/package-lock.json
+1551289952|Mulvey|M|/Website/src/pages/Contributors.vue
+1551297170|Mulvey|M|/Website/src/pages/Contributors.vue
+1551307168|Mulvey|M|/Website/config/index.js
+1551307168|Mulvey|M|/Website/package.json
+1551384234|MulverineX|M|/Website/.gitignore
+1551384234|MulverineX|M|/Website/package-lock.json
+1551384234|MulverineX|M|/Website/src/pages/Contributors.vue
+1551394790|MulverineX|M|/Website/package.json
+1551394790|MulverineX|M|/Website/src/assets/fonts/fonts.css
+1551394790|MulverineX|M|/Website/src/pages/Contributors.vue
+1551396175|MulverineX|M|/Website/index.html
+1551396175|MulverineX|M|/Website/package.json
+1551396175|MulverineX|D|/Website/src/assets/fonts/discord.otf
+1551396175|MulverineX|D|/Website/src/assets/fonts/fonts.css
+1551396175|MulverineX|A|/Website/src/assets/fonts/stylesheet.css
+1551396175|MulverineX|M|/Website/src/pages/Contributors.vue
+1551399319|MulverineX|M|/Website/package.json
+1551399319|MulverineX|M|/Website/src/App.vue
+1551399319|MulverineX|D|/Website/src/assets/foo
+1551399319|MulverineX|M|/Website/src/components/layout/Description.vue
+1551399319|MulverineX|M|/Website/src/pages/Contributors.vue
+1551399319|MulverineX|M|/Website/src/pages/Store.vue
+1551399913|MulverineX|M|/Website/src/components/layout/Navigation.vue
+1551399913|MulverineX|M|/Website/src/pages/Contributors.vue
+1551401355|MulverineX|M|/Website/src/components/Checkbox.vue
+1551401355|MulverineX|M|/Website/src/components/layout/Listing.vue
+1551401355|MulverineX|M|/Website/src/pages/Store.vue
+1551403276|MulverineX|M|/Website/src/components/layout/Listing.vue
+1551431846|MulverineX|M|/Website/config/index.js
+1551431846|MulverineX|M|/Website/package-lock.json
+1551431846|MulverineX|M|/Website/package.json
+1551431846|MulverineX|M|/Website/src/App.vue
+1551431846|MulverineX|M|/Website/src/components/layout/Listing.vue
+1551431846|MulverineX|M|/Website/src/pages/Contributors.vue
+1551432845|MulverineX|M|/Website/src/components/layout/Listing.vue
+1551435178|MulverineX|M|/Website/build/webpack.dev.conf.js
+1551435178|MulverineX|M|/Website/build/webpack.prod.conf.js
+1551435178|MulverineX|M|/Website/package-lock.json
+1551435178|MulverineX|M|/Website/package.json
+1551466244|MulverineX|M|/Website/.gitignore
+1551466256|MulverineX|M|/Website/.gitignore
+1551468780|MulverineX|M|/Website/src/pages/Contributors.vue
+1551470658|Timeraa|M|/Website/.gitignore
+1551470658|Timeraa|M|/Website/build/build.js
+1551470658|Timeraa|M|/Website/package-lock.json
+1551470658|Timeraa|M|/Website/package.json
+1551471028|MulverineX|M|/Website/src/pages/Contributors.vue
+1551471828|MulverineX|M|/Website/src/pages/Contributors.vue
+1551486553|MulverineX|M|/Website/src/pages/Contributors.vue
+1551487169|MulverineX|M|/Website/src/pages/Contributors.vue
+1552056272|Finn|A|/Website/LICENSE
+1552101248|MulverineX|M|/Website/src/pages/Downloads.vue
+1552118610|MulverineX|M|/Website/src/pages/Downloads.vue
+1552433170|MulverineX|M|/Website/src/components/layout/Description.vue
+1552434765|MulverineX|M|/Website/src/App.vue
+1552435031|MulverineX|M|/Website/src/App.vue
+1552435284|MulverineX|M|/Website/src/App.vue
+1552435672|MulverineX|M|/Website/src/App.vue
+1552435878|MulverineX|M|/Website/src/App.vue
+1552438514|MulverineX|M|/Website/src/pages/Contributors.vue
+1552439339|MulverineX|M|/Website/src/pages/Contributors.vue
+1552441450|MulverineX|M|/Website/src/App.vue
+1552441450|MulverineX|D|/Website/src/components/layout/Description.vue
+1552441450|MulverineX|M|/Website/src/pages/Contributors.vue
+1552441450|MulverineX|M|/Website/src/pages/Home.vue
+1552441450|MulverineX|M|/Website/src/pages/Store.vue
+1552441851|MulverineX|M|/Website/src/components/layout/Listing.vue
+1552442087|MulverineX|M|/Website/src/pages/Downloads.vue
+1552442403|MulverineX|M|/Website/build/webpack.dev.conf.js
+1552442403|MulverineX|M|/Website/src/pages/Downloads.vue
+1553068155|ImgBotApp|M|/Website/src/assets/meta/android-chrome-192x192.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/android-chrome-512x512.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/apple-touch-icon.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/mstile-144x144.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/mstile-150x150.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/mstile-310x150.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/mstile-310x310.png
+1553068155|ImgBotApp|M|/Website/src/assets/meta/mstile-70x70.png
+1553901820|MulverineX|M|/Website/src/pages/Home.vue
+1553985666|Timeraa|M|/Website/src/pages/Contributors.vue
+1553985704|Timeraa|M|/Website/src/components/layout/Listing.vue
+1553986233|Timeraa|M|/Website/src/components/layout/Navigation.vue
+1553986242|Timeraa|M|/Website/src/components/layout/Listing.vue
+1553986242|Timeraa|M|/Website/src/router/index.js
+1553999637|MulverineX|M|/Website/index.html
+1553999637|MulverineX|M|/Website/package-lock.json
+1553999637|MulverineX|M|/Website/src/components/layout/Listing.vue
+1553999637|MulverineX|A|/Website/src/components/small/Loading.vue
+1553999637|MulverineX|M|/Website/src/pages/Contributors.vue
+1553999918|MulverineX|M|/Website/src/pages/Downloads.vue
+1554000058|MulverineX|M|/Website/src/pages/Downloads.vue
+1554015080|MulverineX|M|/Website/src/components/layout/Listing.vue
+1554015080|MulverineX|M|/Website/src/components/layout/Navigation.vue
+1554015080|MulverineX|M|/Website/src/pages/Home.vue
+1554015080|MulverineX|M|/Website/src/pages/Store.vue
+1554015334|MulverineX|M|/Website/src/pages/Store.vue
+1554061182|MulverineX|M|/Website/src/pages/Contributors.vue
+1554064055|MulverineX|M|/Website/src/components/layout/Navigation.vue
+1554506895|Timeraa|M|/Website/src/pages/Downloads.vue
+1555089713|Voknehzyr|M|/Website/index.html
+1555089713|Voknehzyr|M|/Website/src/App.vue
+1555089713|Voknehzyr|M|/Website/src/assets/images/logo-big.svg
+1555089713|Voknehzyr|A|/Website/src/assets/images/poeditor.svg
+1555089713|Voknehzyr|M|/Website/src/components/Checkbox.vue
+1555089713|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1555089713|Voknehzyr|M|/Website/src/components/layout/Navigation.vue
+1555089713|Voknehzyr|M|/Website/src/pages/Home.vue
+1555089713|Voknehzyr|M|/Website/src/pages/Submit.vue
+1555089713|Voknehzyr|M|/Website/src/router/index.js
+1555089713|Voknehzyr|M|/Website/src/stylesheets/colors.less
+1555089713|Voknehzyr|A|/Website/src/stylesheets/navbar.less
+1555090881|Igor Ryzhenkov|M|/Website/src/components/layout/Navigation.vue
+1555093304|Voknehzyr|M|/Website/src/App.vue
+1555093520|Igor Ryzhenkov|M|/Website/src/App.vue
+1555262132|Voknehzyr|M|/Website/src/App.vue
+1555262132|Voknehzyr|A|/Website/src/assets/images/gitbook.png
+1555262132|Voknehzyr|M|/Website/src/components/layout/Navigation.vue
+1555262132|Voknehzyr|M|/Website/src/router/index.js
+1555262132|Voknehzyr|A|/Website/src/stylesheets/mobile_design.less
+1555262132|Voknehzyr|M|/Website/src/stylesheets/navbar.less
+1555262265|Igor Ryzhenkov|M|/Website/src/App.vue
+1555262265|Igor Ryzhenkov|A|/Website/src/assets/images/gitbook.png
+1555262265|Igor Ryzhenkov|M|/Website/src/components/layout/Navigation.vue
+1555262265|Igor Ryzhenkov|M|/Website/src/router/index.js
+1555262265|Igor Ryzhenkov|A|/Website/src/stylesheets/mobile_design.less
+1555262265|Igor Ryzhenkov|M|/Website/src/stylesheets/navbar.less
+1555268042|Voknehzyr|M|/Website/src/App.vue
+1555268042|Voknehzyr|M|/Website/src/stylesheets/mobile_design.less
+1555268876|Igor Ryzhenkov|M|/Website/src/App.vue
+1555435343|Fruxh|M|/Website/src/App.vue
+1555437491|Fruxh|A|/Website/src/assets/images/soundcloud_logo.svg
+1555437491|Fruxh|M|/Website/src/pages/Home.vue
+1555437706|Fruxh|M|/Website/src/pages/Home.vue
+1555437984|Fruxh|M|/Website/src/assets/images/soundcloud_logo.svg
+1555760086|Voknehzyr|M|/Website/src/pages/Store.vue
+1555760086|Voknehzyr|M|/Website/src/pages/Store.vue
+1555760086|Voknehzyr|M|/Website/src/stylesheets/mobile_design.less
+1555760086|Voknehzyr|M|/Website/src/stylesheets/navbar.less
+1555760086|Voknehzyr|M|/Website/src/App.vue
+1555760086|Voknehzyr|M|/Website/src/assets/images/verified.svg
+1555760086|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1555760086|Voknehzyr|M|/Website/src/pages/Store.vue
+1555760086|Voknehzyr|M|/Website/src/pages/Home.vue
+1555760086|Voknehzyr|M|/Website/src/main.js
+1555760419|Igor Ryzhenkov|M|/Website/package.json
+1555775628|Timeraa|M|/Website/src/App.vue
+1555866419|Paz|M|/Website/src/App.vue
+1556461603|Voknehzyr|M|/Website/build/webpack.base.conf.js
+1556461603|Voknehzyr|M|/Website/package.json
+1556461675|Voknehzyr|M|/Website/build/vue-loader.conf.js
+1556461675|Voknehzyr|M|/Website/src/App.vue
+1556461675|Voknehzyr|A|/Website/src/components/Card.vue
+1556461675|Voknehzyr|M|/Website/src/pages/Home.vue
+1556461675|Voknehzyr|M|/Website/src/pages/Store.vue
+1556485984|Voknehzyr|M|/Website/index.html
+1556485984|Voknehzyr|M|/Website/src/components/Card.vue
+1556485984|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1556485984|Voknehzyr|M|/Website/src/components/layout/Navigation.vue
+1556485984|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1556485984|Voknehzyr|M|/Website/src/pages/Home.vue
+1556485984|Voknehzyr|M|/Website/src/pages/Store.vue
+1556558358|Voknehzyr|M|/Website/src/App.vue
+1556558358|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1556558358|Voknehzyr|M|/Website/src/pages/Store.vue
+1556662862|Voknehzyr|M|/Website/src/App.vue
+1556662862|Voknehzyr|M|/Website/src/components/Card.vue
+1556662862|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1556662862|Voknehzyr|M|/Website/src/components/layout/Navigation.vue
+1556662862|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1556662862|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1556662862|Voknehzyr|M|/Website/src/pages/Home.vue
+1556662862|Voknehzyr|M|/Website/src/pages/Store.vue
+1556662862|Voknehzyr|M|/Website/src/pages/Submit.vue
+1556662862|Voknehzyr|A|/Website/src/stylesheets/_body.less
+1556662862|Voknehzyr|A|/Website/src/stylesheets/_mobile.less
+1556662862|Voknehzyr|A|/Website/src/stylesheets/_navbar.less
+1556662862|Voknehzyr|D|/Website/src/stylesheets/mobile_design.less
+1556662862|Voknehzyr|D|/Website/src/stylesheets/navbar.less
+1556662862|Voknehzyr|A|/Website/src/stylesheets/root.less
+1556728171|Paz|M|/Website/src/pages/Home.vue
+1556873765|Voknehzyr|M|/Website/src/App.vue
+1556873765|Voknehzyr|M|/Website/src/assets/images/logo-big.svg
+1556873765|Voknehzyr|M|/Website/src/components/Card.vue
+1556873765|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1556873765|Voknehzyr|M|/Website/src/components/layout/Navigation.vue
+1556873765|Voknehzyr|M|/Website/src/main.js
+1556873765|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1556873765|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1556873765|Voknehzyr|M|/Website/src/pages/Home.vue
+1556873765|Voknehzyr|M|/Website/src/pages/Store.vue
+1556873765|Voknehzyr|A|/Website/src/stylesheets/_animations.less
+1556873765|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1556873765|Voknehzyr|A|/Website/src/stylesheets/_buttons.less
+1556873765|Voknehzyr|A|/Website/src/stylesheets/_cards.less
+1556873765|Voknehzyr|A|/Website/src/stylesheets/_grid.less
+1556873765|Voknehzyr|M|/Website/src/stylesheets/_mobile.less
+1556873765|Voknehzyr|M|/Website/src/stylesheets/_navbar.less
+1556873765|Voknehzyr|A|/Website/src/stylesheets/_sections.less
+1556873765|Voknehzyr|M|/Website/src/stylesheets/colors.less
+1556873765|Voknehzyr|M|/Website/src/stylesheets/root.less
+1556892097|Voknehzyr|M|/Website/package-lock.json
+1556892097|Voknehzyr|M|/Website/package.json
+1556892097|Voknehzyr|M|/Website/src/components/Card.vue
+1556892097|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1556892097|Voknehzyr|M|/Website/src/pages/Store.vue
+1556892097|Voknehzyr|M|/Website/src/stylesheets/_animations.less
+1556892097|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1556892097|Voknehzyr|M|/Website/src/stylesheets/_buttons.less
+1556892097|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1556892097|Voknehzyr|M|/Website/src/stylesheets/_navbar.less
+1556894540|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1556894540|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1556894540|Voknehzyr|M|/Website/src/stylesheets/_mobile.less
+1557018073|Paz|M|/Website/src/pages/Home.vue
+1557019437|Paz|M|/Website/src/pages/Home.vue
+1557084834|Fruxh|M|/Website/package-lock.json
+1557084834|Fruxh|M|/Website/package.json
+1557084834|Fruxh|M|/Website/src/App.vue
+1557084834|Fruxh|A|/Website/src/assets/images/netflix_logo.svg
+1557084834|Fruxh|M|/Website/src/assets/images/soundcloud_logo.svg
+1557084834|Fruxh|M|/Website/src/components/layout/Listing.vue
+1557084834|Fruxh|M|/Website/src/pages/Home.vue
+1557084834|Fruxh|M|/Website/src/pages/Store.vue
+1557101127|Fruxh|M|/Website/src/App.vue
+1557101127|Fruxh|A|/Website/src/assets/images/balance.svg
+1557101127|Fruxh|A|/Website/src/assets/images/bitrock_installbuilder_logo.png
+1557101127|Fruxh|A|/Website/src/assets/images/bitrock_installbuilder_logo40x40.png
+1557101127|Fruxh|D|/Website/src/assets/images/brilliance.svg
+1557101127|Fruxh|A|/Website/src/assets/images/bughunter.svg
+1557101127|Fruxh|D|/Website/src/assets/images/fruxh.gif
+1557101127|Fruxh|A|/Website/src/assets/images/hypesquad.svg
+1557101127|Fruxh|D|/Website/src/assets/images/master-logo.svg
+1557101127|Fruxh|D|/Website/src/assets/images/mulv.gif
+1557101127|Fruxh|D|/Website/src/assets/images/partner.svg
+1557101127|Fruxh|A|/Website/src/assets/images/staff.svg
+1557101127|Fruxh|M|/Website/src/pages/Home.vue
+1557101127|Fruxh|M|/Website/src/stylesheets/_body.less
+1557101127|Fruxh|M|/Website/src/stylesheets/_sections.less
+1557102092|Fruxh|M|/Website/src/pages/Home.vue
+1557133083|Paz|M|/Website/src/stylesheets/_body.less
+1557348118|Voknehzyr|M|/Website/src/App.vue
+1557348118|Voknehzyr|M|/Website/src/assets/images/balance.svg
+1557348118|Voknehzyr|A|/Website/src/assets/images/bravery.svg
+1557348118|Voknehzyr|A|/Website/src/assets/images/brilliance.svg
+1557348118|Voknehzyr|M|/Website/src/assets/images/hypesquad.svg
+1557348118|Voknehzyr|A|/Website/src/assets/images/mask.svg
+1557348118|Voknehzyr|A|/Website/src/assets/images/netflix.png
+1557348118|Voknehzyr|M|/Website/src/assets/images/nitro.svg
+1557348118|Voknehzyr|A|/Website/src/assets/images/soundcloud.png
+1557348118|Voknehzyr|M|/Website/src/components/Card.vue
+1557348118|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1557348118|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1557348118|Voknehzyr|M|/Website/src/pages/Home.vue
+1557348118|Voknehzyr|M|/Website/src/stylesheets/_animations.less
+1557348118|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1557348118|Voknehzyr|M|/Website/src/stylesheets/_mobile.less
+1557348118|Voknehzyr|M|/Website/src/stylesheets/_sections.less
+1557348118|Voknehzyr|A|/Website/src/stylesheets/_waves-divider.less
+1557348118|Voknehzyr|M|/Website/src/stylesheets/root.less
+1557348603|Voknehzyr|M|/Website/src/pages/Home.vue
+1557733629|Paz|M|/Website/src/stylesheets/_cards.less
+1558116223|Voknehzyr|D|/Website/src/assets/images/netflix_logo.svg
+1558116223|Voknehzyr|D|/Website/src/assets/images/soundcloud_logo.svg
+1558116223|Voknehzyr|D|/Website/src/assets/images/staff.svg
+1558116223|Voknehzyr|D|/Website/src/assets/images/submit.svg
+1558116223|Voknehzyr|D|/Website/src/assets/images/twitch-logo.svg
+1558116223|Voknehzyr|A|/Website/src/assets/images/twitch.png
+1558116223|Voknehzyr|D|/Website/src/assets/images/youtube-logo.svg
+1558116223|Voknehzyr|A|/Website/src/assets/images/youtube.png
+1558116223|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1558116223|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1558116223|Voknehzyr|M|/Website/src/pages/Home.vue
+1558116223|Voknehzyr|M|/Website/src/pages/Store.vue
+1558116223|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1558116223|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1558116223|Voknehzyr|M|/Website/src/stylesheets/_sections.less
+1558263508|Paz|M|/Website/src/components/layout/Listing.vue
+1558263515|Paz|M|/Website/src/stylesheets/_cards.less
+1558263893|Paz|M|/Website/src/components/layout/Listing.vue
+1558263906|Paz|M|/Website/src/stylesheets/_cards.less
+1558279765|Paz|M|/Website/index.html
+1558279946|Paz|M|/Website/src/components/layout/Listing.vue
+1558292222|Timeraa|M|/Website/package-lock.json
+1558292222|Timeraa|M|/Website/package.json
+1558292222|Timeraa|M|/Website/src/components/layout/Listing.vue
+1558293341|Timeraa|M|/Website/src/components/layout/Listing.vue
+1558293521|Timeraa|M|/Website/package.json
+1558888049|Voknehzyr|M|/Website/package-lock.json
+1558888049|Voknehzyr|M|/Website/src/App.vue
+1558888049|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1558888049|Voknehzyr|M|/Website/src/main.js
+1558888049|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1558888049|Voknehzyr|M|/Website/src/pages/Home.vue
+1558888049|Voknehzyr|M|/Website/src/pages/Store.vue
+1558888049|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1558888049|Voknehzyr|M|/Website/src/stylesheets/_buttons.less
+1558888049|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1558888049|Voknehzyr|M|/Website/src/stylesheets/_sections.less
+1558888513|Voknehzyr|M|/Website/index.html
+1558888513|Voknehzyr|M|/Website/package-lock.json
+1558888513|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1558888513|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1558890498|Voknehzyr|M|/Website/package-lock.json
+1558891047|Voknehzyr|M|/Website/package-lock.json
+1558891047|Voknehzyr|M|/Website/package.json
+1558962948|Voknehzyr|M|/Website/.gitignore
+1558962948|Voknehzyr|M|/Website/src/App.vue
+1558962948|Voknehzyr|A|/Website/src/assets/images/bitrock_installbuilder.png
+1558962948|Voknehzyr|D|/Website/src/assets/images/bitrock_installbuilder_logo.png
+1558962948|Voknehzyr|D|/Website/src/assets/images/bitrock_installbuilder_logo40x40.png
+1558962948|Voknehzyr|M|/Website/src/assets/images/gitbook.png
+1558962948|Voknehzyr|A|/Website/src/assets/images/poeditor.png
+1558962948|Voknehzyr|D|/Website/src/assets/images/poeditor.svg
+1558962948|Voknehzyr|M|/Website/src/components/layout/Navigation.vue
+1558962948|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1558962948|Voknehzyr|M|/Website/src/pages/Home.vue
+1558962948|Voknehzyr|M|/Website/src/pages/Store.vue
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_animations.less
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_grid.less
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_mobile.less
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_navbar.less
+1558962948|Voknehzyr|M|/Website/src/stylesheets/_sections.less
+1560300112|Fruxh|M|/Website/src/App.vue
+1560327201|Timeraa|M|/Website/src/App.vue
+1560327237|Timeraa|M|/Website/src/components/layout/Listing.vue
+1560327395|Timeraa|M|/Website/src/App.vue
+1560327470|ImgBotApp|M|/Website/src/assets/images/bitrock_installbuilder.png
+1560327470|ImgBotApp|M|/Website/src/assets/images/gitbook.png
+1560327470|ImgBotApp|M|/Website/src/assets/images/netflix.png
+1560327470|ImgBotApp|M|/Website/src/assets/images/poeditor.png
+1560327470|ImgBotApp|M|/Website/src/assets/images/soundcloud.png
+1560327470|ImgBotApp|M|/Website/src/assets/images/youtube.png
+1560805000|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1560805000|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1560805000|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1561076463|Fruxh|M|/Website/index.html
+1561126129|Fruxh|M|/Website/src/App.vue
+1561126129|Fruxh|A|/Website/src/assets/images/boost-lvl1.svg
+1561126129|Fruxh|A|/Website/src/assets/images/boost-lvl2.svg
+1561126129|Fruxh|A|/Website/src/assets/images/boost-lvl3.svg
+1561126129|Fruxh|A|/Website/src/assets/images/boost-lvl4.svg
+1561126129|Fruxh|A|/Website/src/assets/images/statuspageio.svg
+1561126129|Fruxh|M|/Website/src/pages/Home.vue
+1561211127|Timeraa|M|/Website/src/components/layout/Navigation.vue
+1561211127|Timeraa|M|/Website/src/pages/Home.vue
+1561242041|Voknehzyr|M|/Website/.gitignore
+1561242041|Voknehzyr|A|/Website/babel.config.js
+1561242041|Voknehzyr|D|/Website/build/build.js
+1561242041|Voknehzyr|D|/Website/build/check-versions.js
+1561242041|Voknehzyr|D|/Website/build/utils.js
+1561242041|Voknehzyr|D|/Website/build/vue-loader.conf.js
+1561242041|Voknehzyr|D|/Website/build/webpack.base.conf.js
+1561242041|Voknehzyr|D|/Website/build/webpack.dev.conf.js
+1561242041|Voknehzyr|D|/Website/build/webpack.prod.conf.js
+1561242041|Voknehzyr|D|/Website/config/dev.env.js
+1561242041|Voknehzyr|D|/Website/config/index.js
+1561242041|Voknehzyr|D|/Website/config/prod.env.js
+1561242041|Voknehzyr|D|/Website/index.html
+1561242041|Voknehzyr|M|/Website/package-lock.json
+1561242041|Voknehzyr|M|/Website/package.json
+1561242041|Voknehzyr|A|/Website/public/favicon.ico
+1561242041|Voknehzyr|A|/Website/public/index.html
+1561242041|Voknehzyr|A|/Website/public/static/.gitkeep
+1561242041|Voknehzyr|A|/Website/public/static/assets/fonts/stylesheet.css
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/brilliance.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/early.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/fruxh.gif
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/gitbook.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/learn-more.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/localization.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/logo-big.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/logo.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/master-logo.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/mulv.gif
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/nitro.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/partner.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/poeditor.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/premid-white.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/premid.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/soundcloud_logo.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/submit.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/twitch-logo.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/verified.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/images/youtube-logo.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/android-chrome-192x192.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/android-chrome-512x512.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/apple-touch-icon.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/browserconfig.xml
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/favicon-16x16.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/favicon-32x32.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/favicon.ico
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/mstile-144x144.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/mstile-150x150.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/mstile-310x150.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/mstile-310x310.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/mstile-70x70.png
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/safari-pinned-tab.svg
+1561242041|Voknehzyr|A|/Website/public/static/assets/meta/site.webmanifest
+1561242041|Voknehzyr|A|/Website/src/assets/logo.png
+1561242041|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1561242041|Voknehzyr|M|/Website/src/main.js
+1561242041|Voknehzyr|M|/Website/src/pages/Store.vue
+1561242041|Voknehzyr|D|/Website/src/router/index.js
+1561242041|Voknehzyr|A|/Website/src/router/router.js
+1561242041|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1561242041|Voknehzyr|M|/Website/src/stylesheets/_mobile.less
+1561242041|Voknehzyr|A|/Website/src/stylesheets/addons/vuejs-noty.less
+1561242041|Voknehzyr|M|/Website/src/stylesheets/root.less
+1561242041|Voknehzyr|D|/Website/static/.gitkeep
+1561890730|ImgBotApp|M|/Website/public/static/assets/images/gitbook.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/android-chrome-192x192.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/android-chrome-512x512.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/apple-touch-icon.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/mstile-144x144.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/mstile-150x150.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/mstile-310x150.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/mstile-310x310.png
+1561890730|ImgBotApp|M|/Website/public/static/assets/meta/mstile-70x70.png
+1561890730|ImgBotApp|M|/Website/src/assets/logo.png
+1561891510|Voknehzyr|M|/Website/src/pages/Store.vue
+1561892876|Timeraa|M|/Website/src/App.vue
+1561977094|Voknehzyr|M|/Website/src/components/layout/Listing.vue
+1561977094|Voknehzyr|M|/Website/src/stylesheets/_animations.less
+1561977094|Voknehzyr|M|/Website/src/stylesheets/_body.less
+1561977094|Voknehzyr|M|/Website/src/stylesheets/_cards.less
+1561977094|Voknehzyr|M|/Website/src/stylesheets/_navbar.less
+1561977094|Voknehzyr|M|/Website/src/stylesheets/root.less
+1562023129|Fruxh|M|/Website/src/App.vue
+1562023129|Fruxh|A|/Website/src/assets/images/atlassian_statuspage.svg
+1562023129|Fruxh|A|/Website/src/assets/images/atlassian_transifex.png
+1562023129|Fruxh|D|/Website/src/assets/images/statuspageio.svg
+1562023214|ImgBotApp|M|/Website/src/assets/images/atlassian_transifex.png
+1562363955|Fruxh|M|/Website/src/assets/images/boost-lvl1.svg
+1562363955|Fruxh|M|/Website/src/assets/images/boost-lvl2.svg
+1562363955|Fruxh|M|/Website/src/assets/images/boost-lvl3.svg
+1562363955|Fruxh|M|/Website/src/assets/images/boost-lvl4.svg
+1562363955|Fruxh|A|/Website/src/assets/images/youtube-music.png
+1562363955|Fruxh|M|/Website/src/pages/Home.vue
+1562363955|Fruxh|M|/Website/src/stylesheets/_cards.less
+1562401092|dependabot-preview[bot]|M|/Website/package-lock.json
+1562401092|dependabot-preview[bot]|M|/Website/package.json
+1562401187|dependabot-preview[bot]|M|/Website/package-lock.json
+1562401187|dependabot-preview[bot]|M|/Website/package.json
+1562401225|dependabot-preview[bot]|M|/Website/package-lock.json
+1562401225|dependabot-preview[bot]|M|/Website/package.json
+1562438880|dependabot-preview[bot]|M|/Website/package-lock.json
+1562438880|dependabot-preview[bot]|M|/Website/package.json
+1562438931|dependabot-preview[bot]|M|/Website/package-lock.json
+1562438931|dependabot-preview[bot]|M|/Website/package.json
+1562439799|dependabot-preview[bot]|M|/Website/package-lock.json
+1562439799|dependabot-preview[bot]|M|/Website/package.json
+1562442771|Finn|M|/Website/package-lock.json
+1562442771|Finn|M|/Website/package.json
+1562442855|Finn|M|/Website/package-lock.json
+1562442855|Finn|M|/Website/package.json
+1562442878|Finn|M|/Website/package-lock.json
+1562442878|Finn|M|/Website/package.json
+1562442893|Finn|M|/Website/package-lock.json
+1562442893|Finn|M|/Website/package.json
+1562442912|Finn|M|/Website/package-lock.json
+1562442912|Finn|M|/Website/package.json
+1562528761|Fruxh|M|/Website/src/assets/images/boost-lvl1.svg
+1562528761|Fruxh|M|/Website/src/assets/images/boost-lvl2.svg
+1562528761|Fruxh|M|/Website/src/assets/images/boost-lvl3.svg
+1562528761|Fruxh|M|/Website/src/assets/images/boost-lvl4.svg
+1563048797|Voknehzyr|M|/Website/README.md
+1563453971|Timeraa|M|/Website/src/pages/Downloads.vue
+1563574647|Fruxh|M|/Website/LICENSE
+1563574935|Fruxh|M|/Website/README.md
+1563575010|Fruxh|M|/Website/README.md
+1563580172|Fruxh|M|/Website/src/App.vue
+1563580172|Fruxh|A|/Website/src/pages/Cookies.vue
+1563580172|Fruxh|A|/Website/src/pages/Privacy.vue
+1563580172|Fruxh|A|/Website/src/pages/ToS.vue
+1563580172|Fruxh|M|/Website/src/router/router.js
+1563580172|Fruxh|A|/Website/src/stylesheets/_legal.less
+1563580172|Fruxh|M|/Website/src/stylesheets/root.less
+1563658912|Fruxh|M|/Website/src/App.vue
+1563660828|Timeraa|M|/Website/src/App.vue
+1563674589|Fruxh|M|/Website/package-lock.json
+1563674589|Fruxh|M|/Website/package.json
+1563676002|Fruxh|M|/Website/src/main.js
+1563717180|Fruxh|M|/Website/src/App.vue
+1563882121|Voknehzyr|M|/Website/package-lock.json
+1563882121|Voknehzyr|M|/Website/package.json
+1563882121|Voknehzyr|M|/Website/public/index.html
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/brilliance.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/early.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/fruxh.gif
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/gitbook.png
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/learn-more.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/localization.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/logo-big.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/logo.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/master-logo.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/mulv.gif
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/nitro.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/partner.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/poeditor.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/premid-white.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/premid.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/soundcloud_logo.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/submit.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/twitch-logo.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/verified.svg
+1563882121|Voknehzyr|D|/Website/public/static/assets/images/youtube-logo.svg
+1563882121|Voknehzyr|M|/Website/src/App.vue
+1563882121|Voknehzyr|A|/Website/src/assets/images/cards/card1.png
+1563882121|Voknehzyr|A|/Website/src/assets/images/cards/card2.png
+1563882121|Voknehzyr|A|/Website/src/assets/images/cards/card3.png
+1563882121|Voknehzyr|A|/Website/src/assets/images/cards/card4.png
+1563882121|Voknehzyr|A|/Website/src/assets/images/cards/card5.png
+1563882121|Voknehzyr|M|/Website/src/components/Card.vue
+1563882121|Voknehzyr|M|/Website/src/components/Checkbox.vue
+1563882121|Voknehzyr|A|/Website/src/components/LanguageNotification.vue
+1563882121|Voknehzyr|A|/Website/src/components/LanguageSwitcher.vue
+1563882121|Voknehzyr|A|/Website/src/components/Listing.vue
+1563882121|Voknehzyr|A|/Website/src/components/Loading.vue
+1563882121|Voknehzyr|A|/Website/src/components/Navigation.vue
+1563882121|Voknehzyr|D|/Website/src/components/layout/Listing.vue
+1563882121|Voknehzyr|D|/Website/src/components/layout/Navigation.vue
+1563882121|Voknehzyr|D|/Website/src/components/small/Loading.vue
+1563882121|Voknehzyr|A|/Website/src/i18n.js
+1563882121|Voknehzyr|A|/Website/src/langs/de.json
+1563882121|Voknehzyr|A|/Website/src/langs/en.json
+1563882121|Voknehzyr|M|/Website/src/main.js
+1563882121|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1563882121|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1563882121|Voknehzyr|M|/Website/src/pages/Home.vue
+1563882121|Voknehzyr|M|/Website/src/pages/Store.vue
+1563882121|Voknehzyr|D|/Website/src/pages/Submit.vue
+1563882121|Voknehzyr|A|/Website/src/pages/errors/NotFound.vue
+1563882121|Voknehzyr|A|/Website/src/pages/store/PresenceFullpage.vue
+1563882121|Voknehzyr|A|/Website/src/pages/store/Submit.vue
+1563882121|Voknehzyr|M|/Website/src/router/router.js
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_animations.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_body.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_buttons.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_cards.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_grid.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_mobile.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_navbar.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_sections.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/_waves-divider.less
+1563882121|Voknehzyr|M|/Website/src/stylesheets/addons/vuejs-noty.less
+1563882121|Voknehzyr|D|/Website/src/stylesheets/colors.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/animation.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/body.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/button.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/card.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/container.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/divider.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/grid.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/label.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/navbar.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/components/visibility.less
+1563882121|Voknehzyr|M|/Website/src/stylesheets/root.less
+1563882121|Voknehzyr|A|/Website/src/stylesheets/variables.less
+1563882121|Voknehzyr|A|/Website/vue.config.js
+1563882637|Voknehzyr|D|/Website/src/stylesheets/_legal.less
+1563882637|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1563882900|Voknehzyr|M|/Website/src/main.js
+1563882900|Voknehzyr|D|/Website/src/pages/Cookies.vue
+1563882900|Voknehzyr|D|/Website/src/pages/Privacy.vue
+1563882900|Voknehzyr|D|/Website/src/pages/ToS.vue
+1563882900|Voknehzyr|A|/Website/src/pages/legal/Cookies.vue
+1563882900|Voknehzyr|A|/Website/src/pages/legal/Privacy.vue
+1563882900|Voknehzyr|A|/Website/src/pages/legal/ToS.vue
+1563882900|Voknehzyr|A|/Website/src/router.js
+1563882900|Voknehzyr|D|/Website/src/router/router.js
+1563883311|Voknehzyr|M|/Website/src/App.vue
+1563883425|ImgBotApp|M|/Website/src/assets/images/cards/card1.png
+1563883425|ImgBotApp|M|/Website/src/assets/images/cards/card2.png
+1563883425|ImgBotApp|M|/Website/src/assets/images/cards/card4.png
+1563883425|ImgBotApp|M|/Website/src/assets/images/cards/card5.png
+1563883425|ImgBotApp|M|/Website/src/assets/images/youtube-music.png
+1563883581|Voknehzyr|M|/Website/src/components/LanguageSwitcher.vue
+1563893152|Voknehzyr|M|/Website/src/assets/images/cards/card2.png
+1563893152|Voknehzyr|M|/Website/src/assets/images/cards/card4.png
+1563893152|Voknehzyr|M|/Website/src/components/Listing.vue
+1563893152|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1563893152|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1563893152|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1563893237|ImgBotApp|M|/Website/src/assets/images/cards/card2.png
+1563893237|ImgBotApp|M|/Website/src/assets/images/cards/card4.png
+1563895235|Voknehzyr|M|/Website/src/App.vue
+1563902071|Voknehzyr|M|/Website/public/index.html
+1563902071|Voknehzyr|A|/Website/src/components/ContributorCard.vue
+1563902071|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1563902071|Voknehzyr|M|/Website/src/pages/Store.vue
+1563902071|Voknehzyr|M|/Website/src/router.js
+1563902071|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1563902071|Voknehzyr|M|/Website/src/stylesheets/components/label.less
+1563907635|Voknehzyr|M|/Website/src/App.vue
+1563907917|Voknehzyr|M|/Website/src/App.vue
+1563907917|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1563917234|Voknehzyr|A|/Website/languageParser.js
+1563917234|Voknehzyr|M|/Website/package-lock.json
+1563917234|Voknehzyr|M|/Website/package.json
+1563917234|Voknehzyr|A|/Website/src/langs/ar.json
+1563917234|Voknehzyr|A|/Website/src/langs/cs.json
+1563917234|Voknehzyr|M|/Website/src/langs/de.json
+1563917234|Voknehzyr|M|/Website/src/langs/en.json
+1563917234|Voknehzyr|A|/Website/src/langs/he.json
+1563917234|Voknehzyr|A|/Website/src/langs/nl.json
+1563917234|Voknehzyr|A|/Website/src/langs/pl.json
+1563917234|Voknehzyr|A|/Website/src/langs/pt.json
+1563917234|Voknehzyr|A|/Website/src/langs/ro.json
+1563917234|Voknehzyr|A|/Website/src/langs/ru.json
+1563917234|Voknehzyr|A|/Website/src/langs/sk.json
+1563917234|Voknehzyr|A|/Website/src/langs/th.json
+1563917234|Voknehzyr|A|/Website/src/langs/tr.json
+1563917234|Voknehzyr|A|/Website/src/langs/uk.json
+1563919424|Voknehzyr|M|/Website/src/App.vue
+1563919424|Voknehzyr|M|/Website/src/components/Listing.vue
+1563919424|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1563919424|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1563919424|Voknehzyr|M|/Website/src/pages/Home.vue
+1563919486|Voknehzyr|M|/Website/src/langs/ar.json
+1563919486|Voknehzyr|M|/Website/src/langs/cs.json
+1563919486|Voknehzyr|M|/Website/src/langs/de.json
+1563919486|Voknehzyr|M|/Website/src/langs/en.json
+1563919486|Voknehzyr|M|/Website/src/langs/he.json
+1563919486|Voknehzyr|M|/Website/src/langs/nl.json
+1563919486|Voknehzyr|M|/Website/src/langs/pl.json
+1563919486|Voknehzyr|M|/Website/src/langs/pt.json
+1563919486|Voknehzyr|M|/Website/src/langs/ro.json
+1563919486|Voknehzyr|M|/Website/src/langs/ru.json
+1563919486|Voknehzyr|M|/Website/src/langs/sk.json
+1563919486|Voknehzyr|M|/Website/src/langs/th.json
+1563919486|Voknehzyr|M|/Website/src/langs/tr.json
+1563919486|Voknehzyr|M|/Website/src/langs/uk.json
+1563919578|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1563919828|Voknehzyr|M|/Website/src/stylesheets/components/visibility.less
+1563971424|Timeraa|M|/Website/src/components/ContributorCard.vue
+1564004260|Voknehzyr|M|/Website/src/langs/ar.json
+1564004260|Voknehzyr|M|/Website/src/langs/cs.json
+1564004260|Voknehzyr|M|/Website/src/langs/de.json
+1564004260|Voknehzyr|M|/Website/src/langs/en.json
+1564004260|Voknehzyr|M|/Website/src/langs/he.json
+1564004260|Voknehzyr|A|/Website/src/langs/ja.json
+1564004260|Voknehzyr|M|/Website/src/langs/nl.json
+1564004260|Voknehzyr|M|/Website/src/langs/pl.json
+1564004260|Voknehzyr|M|/Website/src/langs/pt.json
+1564004260|Voknehzyr|M|/Website/src/langs/ro.json
+1564004260|Voknehzyr|M|/Website/src/langs/ru.json
+1564004260|Voknehzyr|M|/Website/src/langs/sk.json
+1564004260|Voknehzyr|M|/Website/src/langs/th.json
+1564004260|Voknehzyr|M|/Website/src/langs/tr.json
+1564004260|Voknehzyr|M|/Website/src/langs/uk.json
+1564004260|Voknehzyr|M|/Website/src/pages/Store.vue
+1564004355|Voknehzyr|M|/Website/src/stylesheets/addons/vuejs-noty.less
+1564004355|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1564004439|Voknehzyr|M|/Website/languageParser.js
+1564004439|Voknehzyr|M|/Website/package.json
+1564520470|Timeraa|M|/Website/package-lock.json
+1564520470|Timeraa|M|/Website/src/App.vue
+1564520470|Timeraa|M|/Website/src/components/Listing.vue
+1564520470|Timeraa|M|/Website/src/pages/Downloads.vue
+1564520470|Timeraa|M|/Website/src/router.js
+1564563502|Timeraa|M|/Website/public/index.html
+1564563612|Timeraa|M|/Website/index.html
+1564607951|Timeraa|M|/Website/src/components/Listing.vue
+1564607951|Timeraa|M|/Website/src/pages/Store.vue
+1564607951|Timeraa|M|/Website/src/stylesheets/components/body.less
+1564607951|Timeraa|A|/Website/src/stylesheets/components/switch.less
+1564607951|Timeraa|M|/Website/src/stylesheets/root.less
+1564862910|Voknehzyr|M|/Website/package-lock.json
+1564862910|Voknehzyr|M|/Website/package.json
+1564862910|Voknehzyr|M|/Website/public/index.html
+1564862910|Voknehzyr|M|/Website/src/App.vue
+1564862910|Voknehzyr|M|/Website/src/components/Listing.vue
+1564862910|Voknehzyr|M|/Website/src/components/Loading.vue
+1564862910|Voknehzyr|M|/Website/src/components/Navigation.vue
+1564862910|Voknehzyr|M|/Website/src/langs/ar.json
+1564862910|Voknehzyr|M|/Website/src/langs/cs.json
+1564862910|Voknehzyr|M|/Website/src/langs/de.json
+1564862910|Voknehzyr|M|/Website/src/langs/en.json
+1564862910|Voknehzyr|A|/Website/src/langs/fi.json
+1564862910|Voknehzyr|A|/Website/src/langs/fr.json
+1564862910|Voknehzyr|M|/Website/src/langs/he.json
+1564862910|Voknehzyr|M|/Website/src/langs/ja.json
+1564862910|Voknehzyr|M|/Website/src/langs/nl.json
+1564862910|Voknehzyr|M|/Website/src/langs/pl.json
+1564862910|Voknehzyr|M|/Website/src/langs/pt.json
+1564862910|Voknehzyr|M|/Website/src/langs/ro.json
+1564862910|Voknehzyr|M|/Website/src/langs/ru.json
+1564862910|Voknehzyr|M|/Website/src/langs/sk.json
+1564862910|Voknehzyr|M|/Website/src/langs/th.json
+1564862910|Voknehzyr|M|/Website/src/langs/tr.json
+1564862910|Voknehzyr|M|/Website/src/langs/uk.json
+1564862910|Voknehzyr|M|/Website/src/main.js
+1564862910|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1564862910|Voknehzyr|M|/Website/src/pages/Home.vue
+1564862910|Voknehzyr|M|/Website/src/pages/Store.vue
+1564862910|Voknehzyr|M|/Website/src/pages/legal/Cookies.vue
+1564862910|Voknehzyr|M|/Website/src/pages/legal/Privacy.vue
+1564862910|Voknehzyr|M|/Website/src/pages/legal/ToS.vue
+1564862910|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1564862910|Voknehzyr|M|/Website/src/pages/store/Submit.vue
+1564862910|Voknehzyr|A|/Website/src/pages/store/Userpage.vue
+1564862910|Voknehzyr|M|/Website/src/router.js
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/animation.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/button.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1564862910|Voknehzyr|A|/Website/src/stylesheets/components/checkbox.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/label.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/navbar.less
+1564862910|Voknehzyr|D|/Website/src/stylesheets/components/switch.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/components/visibility.less
+1564862910|Voknehzyr|M|/Website/src/stylesheets/root.less
+1564890353|Paz|M|/Website/src/stylesheets/components/card.less
+1564925719|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1564925719|Voknehzyr|M|/Website/src/stylesheets/components/visibility.less
+1564928275|Voknehzyr|M|/Website/src/components/Listing.vue
+1564928275|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1564928275|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1564928275|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1564928275|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1564928275|Voknehzyr|M|/Website/src/stylesheets/components/label.less
+1564989295|Voknehzyr|M|/Website/src/langs/ar.json
+1564989295|Voknehzyr|M|/Website/src/langs/cs.json
+1564989295|Voknehzyr|M|/Website/src/langs/de.json
+1564989295|Voknehzyr|M|/Website/src/langs/en.json
+1564989295|Voknehzyr|M|/Website/src/langs/fi.json
+1564989295|Voknehzyr|M|/Website/src/langs/fr.json
+1564989295|Voknehzyr|M|/Website/src/langs/he.json
+1564989295|Voknehzyr|A|/Website/src/langs/it.json
+1564989295|Voknehzyr|M|/Website/src/langs/ja.json
+1564989295|Voknehzyr|M|/Website/src/langs/nl.json
+1564989295|Voknehzyr|M|/Website/src/langs/pl.json
+1564989295|Voknehzyr|M|/Website/src/langs/pt.json
+1564989295|Voknehzyr|M|/Website/src/langs/ro.json
+1564989295|Voknehzyr|M|/Website/src/langs/ru.json
+1564989295|Voknehzyr|M|/Website/src/langs/sk.json
+1564989295|Voknehzyr|M|/Website/src/langs/th.json
+1564989295|Voknehzyr|M|/Website/src/langs/tr.json
+1564989295|Voknehzyr|M|/Website/src/langs/uk.json
+1564989339|Voknehzyr|M|/Website/src/components/Listing.vue
+1564989339|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1565002586|Timeraa|M|/Website/src/App.vue
+1565002821|Timeraa|M|/Website/src/App.vue
+1565003079|Timeraa|M|/Website/src/App.vue
+1565003281|Timeraa|M|/Website/src/App.vue
+1565003760|Timeraa|M|/Website/src/App.vue
+1565021997|Voknehzyr|A|/Website/src/components/Pagination.vue
+1565021997|Voknehzyr|M|/Website/src/pages/Store.vue
+1565021997|Voknehzyr|M|/Website/src/router.js
+1565021997|Voknehzyr|M|/Website/src/stylesheets/components/button.less
+1565021997|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1565022636|Voknehzyr|M|/Website/src/pages/Store.vue
+1565023032|Voknehzyr|M|/Website/src/pages/Store.vue
+1565030537|Voknehzyr|M|/Website/src/pages/Store.vue
+1565030936|Voknehzyr|M|/Website/src/pages/Store.vue
+1565115394|Florian Metz|M|/Website/src/components/Listing.vue
+1565115394|Florian Metz|M|/Website/src/pages/Store.vue
+1565115394|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1565115394|Florian Metz|M|/Website/src/stylesheets/components/card.less
+1565115394|Florian Metz|M|/Website/src/stylesheets/components/container.less
+1565115394|Florian Metz|M|/Website/src/stylesheets/components/visibility.less
+1565122895|Voknehzyr|M|/Website/languageParser.js
+1565122895|Voknehzyr|M|/Website/src/i18n.js
+1565122895|Voknehzyr|D|/Website/src/langs/ar.json
+1565122895|Voknehzyr|A|/Website/src/langs/ar_AR.json
+1565122895|Voknehzyr|D|/Website/src/langs/cs.json
+1565122895|Voknehzyr|A|/Website/src/langs/cs_CS.json
+1565122895|Voknehzyr|D|/Website/src/langs/de.json
+1565122895|Voknehzyr|A|/Website/src/langs/de_DE.json
+1565122895|Voknehzyr|D|/Website/src/langs/en.json
+1565122895|Voknehzyr|A|/Website/src/langs/en_EN.json
+1565122895|Voknehzyr|D|/Website/src/langs/fi.json
+1565122895|Voknehzyr|A|/Website/src/langs/fi_FI.json
+1565122895|Voknehzyr|D|/Website/src/langs/fr.json
+1565122895|Voknehzyr|A|/Website/src/langs/fr_FR.json
+1565122895|Voknehzyr|D|/Website/src/langs/he.json
+1565122895|Voknehzyr|A|/Website/src/langs/he_HE.json
+1565122895|Voknehzyr|D|/Website/src/langs/it.json
+1565122895|Voknehzyr|A|/Website/src/langs/it_IT.json
+1565122895|Voknehzyr|D|/Website/src/langs/ja.json
+1565122895|Voknehzyr|A|/Website/src/langs/ja_JA.json
+1565122895|Voknehzyr|D|/Website/src/langs/nl.json
+1565122895|Voknehzyr|A|/Website/src/langs/nl_NL.json
+1565122895|Voknehzyr|D|/Website/src/langs/pl.json
+1565122895|Voknehzyr|A|/Website/src/langs/pl_PL.json
+1565122895|Voknehzyr|D|/Website/src/langs/pt.json
+1565122895|Voknehzyr|A|/Website/src/langs/pt_BR.json
+1565122895|Voknehzyr|A|/Website/src/langs/pt_PT.json
+1565122895|Voknehzyr|D|/Website/src/langs/ro.json
+1565122895|Voknehzyr|A|/Website/src/langs/ro_RO.json
+1565122895|Voknehzyr|D|/Website/src/langs/ru.json
+1565122895|Voknehzyr|A|/Website/src/langs/ru_RU.json
+1565122895|Voknehzyr|D|/Website/src/langs/sk.json
+1565122895|Voknehzyr|A|/Website/src/langs/sk_SK.json
+1565122895|Voknehzyr|D|/Website/src/langs/th.json
+1565122895|Voknehzyr|A|/Website/src/langs/th_TH.json
+1565122895|Voknehzyr|D|/Website/src/langs/tr.json
+1565122895|Voknehzyr|A|/Website/src/langs/tr_TR.json
+1565122895|Voknehzyr|D|/Website/src/langs/uk.json
+1565122895|Voknehzyr|A|/Website/src/langs/uk_UK.json
+1565122895|Voknehzyr|M|/Website/src/main.js
+1565123327|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1565123478|Voknehzyr|M|/Website/.gitignore
+1565176192|Voknehzyr|M|/Website/src/components/Listing.vue
+1565330711|Igor Ryzhenkov|M|/Website/src/components/Listing.vue
+1565349096|Fruxh|M|/Website/package-lock.json
+1565349096|Fruxh|M|/Website/src/pages/Home.vue
+1565349096|Fruxh|D|/Website/src/pages/Submit.vue
+1565349096|Fruxh|M|/Website/src/router/index.js
+1565349997|Fruxh|M|/Website/src/router.js
+1565352412|Fruxh|M|/Website/src/pages/errors/NotFound.vue
+1565376164|Voknehzyr|M|/Website/.gitignore
+1565376164|Voknehzyr|M|/Website/languageParser.js
+1565376164|Voknehzyr|M|/Website/src/main.js
+1565376164|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1565376529|Voknehzyr|M|/Website/src/components/Listing.vue
+1565376529|Voknehzyr|M|/Website/src/i18n.js
+1565377958|Voknehzyr|M|/Website/src/pages/Store.vue
+1565380017|Fruxh|M|/Website/package-lock.json
+1565380017|Fruxh|M|/Website/package.json
+1565725447|Florian Metz|M|/Website/src/pages/Contributors.vue
+1565725791|Florian Metz|M|/Website/src/pages/Contributors.vue
+1565769882|Voknehzyr|M|/Website/package-lock.json
+1565769882|Voknehzyr|D|/Website/src/langs/ar_AR.json
+1565769882|Voknehzyr|D|/Website/src/langs/cs_CS.json
+1565769882|Voknehzyr|D|/Website/src/langs/de_DE.json
+1565769882|Voknehzyr|D|/Website/src/langs/en_EN.json
+1565769882|Voknehzyr|D|/Website/src/langs/fi_FI.json
+1565769882|Voknehzyr|D|/Website/src/langs/fr_FR.json
+1565769882|Voknehzyr|D|/Website/src/langs/he_HE.json
+1565769882|Voknehzyr|D|/Website/src/langs/it_IT.json
+1565769882|Voknehzyr|D|/Website/src/langs/ja_JA.json
+1565769882|Voknehzyr|D|/Website/src/langs/nl_NL.json
+1565769882|Voknehzyr|D|/Website/src/langs/pl_PL.json
+1565769882|Voknehzyr|M|/Website/src/langs/pt_BR.json
+1565769882|Voknehzyr|D|/Website/src/langs/ro_RO.json
+1565769882|Voknehzyr|D|/Website/src/langs/ru_RU.json
+1565769882|Voknehzyr|D|/Website/src/langs/sk_SK.json
+1565769882|Voknehzyr|D|/Website/src/langs/th_TH.json
+1565769882|Voknehzyr|D|/Website/src/langs/tr_TR.json
+1565769882|Voknehzyr|D|/Website/src/langs/uk_UK.json
+1565881338|Florian Metz|D|/Website/package-lock.json
+1565882772|Florian Metz|M|/Website/src/components/Listing.vue
+1565882772|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1565883133|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1565915008|Florian Metz|M|/Website/src/components/ContributorCard.vue
+1565915008|Florian Metz|M|/Website/src/pages/Contributors.vue
+1565915008|Florian Metz|M|/Website/src/stylesheets/components/card.less
+1565915008|Florian Metz|M|/Website/src/stylesheets/components/container.less
+1565915008|Florian Metz|A|/Website/src/stylesheets/components/contributorCard.less
+1565915008|Florian Metz|M|/Website/src/stylesheets/root.less
+1565915863|Florian Metz|M|/Website/src/components/ContributorCard.vue
+1566305725|Voknehzyr|M|/Website/package.json
+1566305725|Voknehzyr|M|/Website/public/index.html
+1566305725|Voknehzyr|M|/Website/src/App.vue
+1566305725|Voknehzyr|A|/Website/src/assets/fonts/DiscordFontBlack.woff
+1566305725|Voknehzyr|A|/Website/src/assets/fonts/DiscordFontBlack.woff2
+1566305725|Voknehzyr|D|/Website/src/assets/fonts/stylesheet.css
+1566305725|Voknehzyr|D|/Website/src/components/ContributorCard.vue
+1566305725|Voknehzyr|A|/Website/src/components/CreditCard.vue
+1566305725|Voknehzyr|M|/Website/src/components/LanguageNotification.vue
+1566305725|Voknehzyr|M|/Website/src/components/LanguageSwitcher.vue
+1566305725|Voknehzyr|M|/Website/src/components/Listing.vue
+1566305725|Voknehzyr|A|/Website/src/components/Loader.vue
+1566305725|Voknehzyr|D|/Website/src/components/Loading.vue
+1566305725|Voknehzyr|M|/Website/src/components/Navigation.vue
+1566305725|Voknehzyr|A|/Website/src/components/mixins/Detection.js
+1566305725|Voknehzyr|A|/Website/src/components/mixins/Presence.js
+1566305725|Voknehzyr|A|/Website/src/components/mixins/Store.js
+1566305725|Voknehzyr|M|/Website/src/langs/pt_BR.json
+1566305725|Voknehzyr|M|/Website/src/langs/pt_PT.json
+1566305725|Voknehzyr|M|/Website/src/main.js
+1566305725|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1566305725|Voknehzyr|M|/Website/src/pages/Home.vue
+1566305725|Voknehzyr|M|/Website/src/pages/Store.vue
+1566305725|Voknehzyr|M|/Website/src/pages/errors/NotFound.vue
+1566305725|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1566305725|Voknehzyr|M|/Website/src/pages/store/Userpage.vue
+1566305725|Voknehzyr|A|/Website/src/plugins/Debug.js
+1566305725|Voknehzyr|A|/Website/src/plugins/Languages.js
+1566305725|Voknehzyr|A|/Website/src/plugins/Loader.js
+1566305725|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1566305725|Voknehzyr|A|/Website/src/stylesheets/components/breadcrumb.less
+1566305725|Voknehzyr|M|/Website/src/stylesheets/components/button.less
+1566305725|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1566305725|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1566305725|Voknehzyr|D|/Website/src/stylesheets/components/contributorCard.less
+1566305725|Voknehzyr|M|/Website/src/stylesheets/root.less
+1566305859|Voknehzyr|D|/Website/src/langs/pt_BR.json
+1566305859|Voknehzyr|D|/Website/src/langs/pt_PT.json
+1566430717|Fruxh|M|/Website/src/App.vue
+1566430717|Fruxh|A|/Website/src/assets/images/crowdin.png
+1566430856|Fruxh|M|/Website/src/assets/images/crowdin.png
+1566528497|Fruxh|M|/Website/src/App.vue
+1566670783|Voknehzyr|M|/Website/package.json
+1566670783|Voknehzyr|A|/Website/src/components/CategoryCard.vue
+1566670783|Voknehzyr|M|/Website/src/components/CreditCard.vue
+1566670783|Voknehzyr|D|/Website/src/components/Listing.vue
+1566670783|Voknehzyr|M|/Website/src/components/Pagination.vue
+1566670783|Voknehzyr|A|/Website/src/components/StoreCard.vue
+1566670783|Voknehzyr|M|/Website/src/main.js
+1566670783|Voknehzyr|M|/Website/src/pages/Home.vue
+1566670783|Voknehzyr|M|/Website/src/pages/Store.vue
+1566670783|Voknehzyr|M|/Website/src/pages/errors/NotFound.vue
+1566670783|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1566670783|Voknehzyr|M|/Website/src/pages/store/Userpage.vue
+1566670783|Voknehzyr|M|/Website/src/router.js
+1566670783|Voknehzyr|M|/Website/src/stylesheets/components/animation.less
+1566670783|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1566670783|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1566670783|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1566670783|Voknehzyr|M|/Website/src/stylesheets/components/navbar.less
+1566670783|Voknehzyr|M|/Website/src/stylesheets/components/visibility.less
+1566818383|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1566818383|Voknehzyr|M|/Website/src/stylesheets/components/divider.less
+1566818383|Voknehzyr|M|/Website/src/stylesheets/components/visibility.less
+1566821569|Voknehzyr|M|/Website/src/App.vue
+1566821569|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1566821569|Voknehzyr|M|/Website/src/pages/Home.vue
+1566821569|Voknehzyr|M|/Website/src/pages/Store.vue
+1566821569|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1566821569|Voknehzyr|M|/Website/src/stylesheets/components/card.less
+1567181855|Voknehzyr|M|/Website/src/pages/Store.vue
+1567244258|Voknehzyr|M|/Website/src/pages/Store.vue
+1567593982|TheDrop|M|/Website/src/pages/Contributors.vue
+1567768435|Florian Metz|M|/Website/src/App.vue
+1567810749|TheDrop|M|/Website/src/pages/Contributors.vue
+1568063580|Florian Metz|M|/Website/src/pages/Store.vue
+1568506324|Florian Metz|M|/Website/public/index.html
+1568543880|Florian Metz|M|/Website/babel.config.js
+1568543880|Florian Metz|M|/Website/languageParser.js
+1568543880|Florian Metz|M|/Website/package.json
+1568543880|Florian Metz|M|/Website/src/components/Card.vue
+1568543880|Florian Metz|M|/Website/src/components/CategoryCard.vue
+1568543880|Florian Metz|M|/Website/src/components/Checkbox.vue
+1568543880|Florian Metz|M|/Website/src/components/CreditCard.vue
+1568543880|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1568543880|Florian Metz|M|/Website/src/components/Navigation.vue
+1568543880|Florian Metz|M|/Website/src/components/StoreCard.vue
+1568543880|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1568543880|Florian Metz|M|/Website/src/components/mixins/Presence.js
+1568543880|Florian Metz|M|/Website/src/i18n.js
+1568543880|Florian Metz|M|/Website/src/main.js
+1568543880|Florian Metz|M|/Website/src/pages/Contributors.vue
+1568543880|Florian Metz|M|/Website/src/pages/Downloads.vue
+1568543880|Florian Metz|M|/Website/src/pages/Home.vue
+1568543880|Florian Metz|M|/Website/src/pages/Store.vue
+1568543880|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1568543880|Florian Metz|M|/Website/src/plugins/Debug.js
+1568543880|Florian Metz|M|/Website/src/plugins/Languages.js
+1568543880|Florian Metz|M|/Website/src/plugins/Loader.js
+1568546590|Florian Metz|M|/Website/public/index.html
+1568546590|Florian Metz|A|/Website/public/static/assets/fonts/Discord/DiscordFontBlack.woff2
+1568546590|Florian Metz|A|/Website/public/static/assets/fonts/Inter/Inter-Bold.woff2
+1568546590|Florian Metz|A|/Website/public/static/assets/fonts/Inter/Inter-Regular.woff2
+1568546590|Florian Metz|D|/Website/public/static/assets/fonts/stylesheet.css
+1568546590|Florian Metz|D|/Website/src/assets/fonts/DiscordFontBlack.woff
+1568546590|Florian Metz|D|/Website/src/assets/fonts/DiscordFontBlack.woff2
+1568546590|Florian Metz|M|/Website/src/pages/Store.vue
+1568546590|Florian Metz|M|/Website/src/stylesheets/addons/vuejs-noty.less
+1568546590|Florian Metz|M|/Website/src/stylesheets/components/body.less
+1568546590|Florian Metz|M|/Website/src/stylesheets/components/button.less
+1568546590|Florian Metz|M|/Website/src/stylesheets/components/grid.less
+1568546590|Florian Metz|M|/Website/src/stylesheets/components/label.less
+1568546590|Florian Metz|M|/Website/src/stylesheets/components/navbar.less
+1568546590|Florian Metz|M|/Website/src/stylesheets/root.less
+1568658761|Voknehzyr|D|/Website/public/static/assets/fonts/Inter/Inter-Bold.woff2
+1568658761|Voknehzyr|D|/Website/public/static/assets/fonts/Inter/Inter-Regular.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Black.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Black.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ThinBETA.woff
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ThinBETA.woff2
+1568658761|Voknehzyr|A|/Website/public/static/assets/fonts/Inter/stylesheet.css
+1568658761|Voknehzyr|M|/Website/src/components/Navigation.vue
+1568658761|Voknehzyr|M|/Website/src/main.js
+1568658761|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1568658761|Voknehzyr|M|/Website/src/pages/Home.vue
+1568658761|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1568658761|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1568658761|Voknehzyr|M|/Website/src/stylesheets/components/grid.less
+1568658761|Voknehzyr|M|/Website/src/stylesheets/components/navbar.less
+1568658761|Voknehzyr|M|/Website/src/stylesheets/root.less
+1568752446|TheDrop|M|/Website/src/pages/Contributors.vue
+1569174343|Voknehzyr|M|/Website/src/assets/images/cards/card1.png
+1569174343|Voknehzyr|M|/Website/src/assets/images/cards/card2.png
+1569174343|Voknehzyr|A|/Website/src/assets/images/cards/card2_video.mp4
+1569174343|Voknehzyr|M|/Website/src/assets/images/cards/card3.png
+1569174343|Voknehzyr|M|/Website/src/assets/images/cards/card4.png
+1569174343|Voknehzyr|A|/Website/src/assets/images/pmd_logo.svg
+1569174343|Voknehzyr|D|/Website/src/assets/logo.png
+1569174343|Voknehzyr|M|/Website/src/main.js
+1569174343|Voknehzyr|M|/Website/src/pages/Home.vue
+1569174343|Voknehzyr|M|/Website/src/stylesheets/components/animation.less
+1569174343|Voknehzyr|M|/Website/src/stylesheets/components/body.less
+1569174343|Voknehzyr|M|/Website/src/stylesheets/components/button.less
+1569174343|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1569174343|Voknehzyr|M|/Website/src/stylesheets/components/grid.less
+1569174343|Voknehzyr|M|/Website/src/stylesheets/components/visibility.less
+1569174419|ImgBotApp|M|/Website/src/assets/images/cards/card1.png
+1569174419|ImgBotApp|M|/Website/src/assets/images/cards/card2.png
+1569174419|ImgBotApp|M|/Website/src/assets/images/cards/card3.png
+1569174419|ImgBotApp|M|/Website/src/assets/images/crowdin.png
+1569175148|Florian Metz|M|/Website/README.md
+1569235549|Fruxh|M|/Website/src/App.vue
+1569235549|Fruxh|M|/Website/src/pages/Home.vue
+1569436003|Florian Metz|D|/Website/src/assets/images/atlassian_transifex.png
+1569436003|Florian Metz|A|/Website/src/assets/images/logo.gif
+1569436003|Florian Metz|M|/Website/src/components/CategoryCard.vue
+1569436003|Florian Metz|M|/Website/src/components/StoreCard.vue
+1569436003|Florian Metz|M|/Website/src/pages/Contributors.vue
+1569436003|Florian Metz|M|/Website/src/pages/Home.vue
+1569436003|Florian Metz|M|/Website/src/pages/Store.vue
+1569436003|Florian Metz|M|/Website/src/stylesheets/components/body.less
+1569436003|Florian Metz|M|/Website/src/stylesheets/components/container.less
+1569436928|TheDrop|M|/Website/src/stylesheets/components/container.less
+1569443830|Voknehzyr|M|/Website/src/main.js
+1569443830|Voknehzyr|M|/Website/src/pages/Home.vue
+1569718380|Alanexei|M|/Website/src/pages/Home.vue
+1569718836|Alanexei|M|/Website/src/pages/Home.vue
+1569719225|Alanexei|M|/Website/src/pages/Home.vue
+1569751916|Fruxh|A|/Website/src/assets/images/premid-presence.png
+1569751916|Fruxh|A|/Website/src/assets/images/steam.png
+1569751916|Fruxh|M|/Website/src/pages/Home.vue
+1569751996|ImgBotApp|M|/Website/src/assets/images/atlassian_statuspage.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/balance.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/boost-lvl1.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/boost-lvl2.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/boost-lvl3.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/boost-lvl4.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/bravery.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/brilliance.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/early.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/hypesquad.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/learn-more.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/localization.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/logo-big.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/logo.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/mask.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/nitro.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/pmd_logo.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/premid-presence.png
+1569751996|ImgBotApp|M|/Website/src/assets/images/premid-white.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/premid.svg
+1569751996|ImgBotApp|M|/Website/src/assets/images/steam.png
+1569751996|ImgBotApp|M|/Website/src/assets/images/verified.svg
+1569754651|TheDrop|M|/Website/src/pages/Home.vue
+1569756409|TheDrop|M|/Website/src/pages/Home.vue
+1569772223|TheDrop|M|/Website/src/pages/Home.vue
+1569957501|Voknehzyr|M|/Website/src/components/Pagination.vue
+1569957501|Voknehzyr|M|/Website/src/components/StoreCard.vue
+1569957501|Voknehzyr|M|/Website/src/pages/Store.vue
+1569957501|Voknehzyr|M|/Website/src/pages/store/PresenceFullpage.vue
+1569957501|Voknehzyr|M|/Website/src/router.js
+1569957501|Voknehzyr|M|/Website/src/stylesheets/components/animation.less
+1569957501|Voknehzyr|M|/Website/src/stylesheets/components/container.less
+1569957850|Voknehzyr|M|/Website/src/pages/Store.vue
+1570129013|Florian Metz|M|/Website/src/pages/Downloads.vue
+1570129588|Florian Metz|M|/Website/src/App.vue
+1570129588|Florian Metz|M|/Website/src/components/Navigation.vue
+1570129588|Florian Metz|M|/Website/src/pages/Contributors.vue
+1570129588|Florian Metz|M|/Website/src/pages/Home.vue
+1570129588|Florian Metz|M|/Website/src/pages/errors/NotFound.vue
+1570129588|Florian Metz|M|/Website/src/router.js
+1570142172|Florian Metz|M|/Website/src/pages/Home.vue
+1570142172|Florian Metz|M|/Website/src/pages/errors/NotFound.vue
+1570192569|Fruxh|M|/Website/package.json
+1570309691|Alanexei|M|/Website/src/pages/store/Userpage.vue
+1570376778|TheDrop|M|/Website/src/pages/Contributors.vue
+1570376778|TheDrop|M|/Website/src/pages/Home.vue
+1570376778|TheDrop|M|/Website/src/pages/Store.vue
+1570376778|TheDrop|A|/Website/src/pages/errors/Maintenance.vue
+1570376778|TheDrop|M|/Website/src/pages/store/Userpage.vue
+1570376778|TheDrop|M|/Website/src/router.js
+1570376778|TheDrop|M|/Website/src/stylesheets/components/container.less
+1570376890|TheDrop|M|/Website/src/pages/Home.vue
+1570473035|TheDrop|M|/Website/src/router.js
+1570477196|TheDrop|M|/Website/src/pages/errors/Maintenance.vue
+1570477196|TheDrop|M|/Website/src/stylesheets/components/visibility.less
+1570480240|TheDrop|M|/Website/src/pages/errors/Maintenance.vue
+1570661671|Florian Metz|M|/Website/package.json
+1570661694|Florian Metz|M|/Website/languageParser.js
+1570663449|Florian Metz|M|/Website/src/components/StoreCard.vue
+1570663470|Florian Metz|M|/Website/src/pages/Home.vue
+1570663470|Florian Metz|M|/Website/src/pages/Store.vue
+1570663470|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1570663470|Florian Metz|M|/Website/src/pages/store/Userpage.vue
+1570847077|Fruxh|M|/Website/src/App.vue
+1570847153|Fruxh|M|/Website/package.json
+1570919196|Florian Metz|M|/Website/src/pages/Downloads.vue
+1570920000|Florian Metz|M|/Website/src/pages/Downloads.vue
+1571320672|dependabot-preview[bot]|M|/Website/package.json
+1571415834|dependabot-preview[bot]|M|/Website/package.json
+1571415841|dependabot-preview[bot]|M|/Website/package.json
+1571595795|TheDrop|M|/Website/src/pages/store/Userpage.vue
+1571595795|TheDrop|M|/Website/src/stylesheets/components/container.less
+1572195580|Voknehzyr|A|/Website/src/assets/images/pmd_newlogo.svg
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/animation.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/body.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/button.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/card.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/container.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/figure.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/footer.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/navbar.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/animation.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/body.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/breadcrumb.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/button.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/card.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/checkbox.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/container.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/divider.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/grid.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/label.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/navbar.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/old/visibility.less
+1572195580|Voknehzyr|A|/Website/src/stylesheets/components/visibility.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/root.scss
+1572195580|Voknehzyr|A|/Website/src/stylesheets/variables.scss
+1572195849|Voknehzyr|M|/Website/src/pages/Home.vue
+1572195946|Voknehzyr|M|/Website/package.json
+1572195946|Voknehzyr|M|/Website/public/index.html
+1572195946|Voknehzyr|M|/Website/src/assets/images/logo.svg
+1572195946|Voknehzyr|M|/Website/src/components/Loader.vue
+1572195946|Voknehzyr|M|/Website/src/components/Navigation.vue
+1572195946|Voknehzyr|M|/Website/src/main.js
+1572195946|Voknehzyr|M|/Website/src/pages/Downloads.vue
+1572195946|Voknehzyr|M|/Website/src/pages/Home.vue
+1572195946|Voknehzyr|M|/Website/src/pages/Store.vue
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/animation.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/body.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/breadcrumb.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/button.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/card.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/checkbox.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/divider.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/grid.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/label.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/components/navbar.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/root.less
+1572195946|Voknehzyr|D|/Website/src/stylesheets/variables.less
+1572475179|TheDrop|M|/Website/src/pages/store/Userpage.vue
+1572535323|ImgBotApp|M|/Website/src/assets/images/logo.svg
+1572535323|ImgBotApp|M|/Website/src/assets/images/pmd_newlogo.svg
+1572620270|TheDrop|M|/Website/src/pages/errors/Maintenance.vue
+1572620270|TheDrop|M|/Website/src/stylesheets/components/visibility.scss
+1572646785|Florian Metz|M|/Website/src/pages/Home.vue
+1572646785|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1572646785|Florian Metz|M|/Website/src/pages/store/Userpage.vue
+1572646785|Florian Metz|A|/Website/yarn.lock
+1572647405|Florian Metz|A|/Website/.github/workflows/deploy.yml
+1572647700|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572709474|Florian Metz|M|/Website/src/pages/Home.vue
+1572709474|Florian Metz|M|/Website/src/pages/store/PresenceFullpage.vue
+1572709474|Florian Metz|M|/Website/src/pages/store/Userpage.vue
+1572709474|Florian Metz|A|/Website/yarn.lock
+1572709653|Florian Metz|A|/Website/.github/workflows/deploy.yml
+1572709669|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572710242|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572710242|Florian Metz|M|/Website/yarn.lock
+1572710424|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572710424|Florian Metz|M|/Website/yarn.lock
+1572710532|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572710686|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572710822|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572712682|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572813159|Florian Metz|M|/Website/.gitignore
+1572813159|Florian Metz|A|/Website/nuxt.config.js
+1572813159|Florian Metz|M|/Website/package.json
+1572813159|Florian Metz|D|/Website/public/favicon.ico
+1572813159|Florian Metz|D|/Website/public/index.html
+1572813159|Florian Metz|D|/Website/public/static/.gitkeep
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Discord/DiscordFontBlack.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Black.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Black.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ThinBETA.woff
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/hinted-subset-Inter-ThinBETA.woff2
+1572813159|Florian Metz|D|/Website/public/static/assets/fonts/Inter/stylesheet.css
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/android-chrome-192x192.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/android-chrome-512x512.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/apple-touch-icon.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/browserconfig.xml
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/favicon-16x16.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/favicon-32x32.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/favicon.ico
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/mstile-144x144.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/mstile-150x150.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/mstile-310x150.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/mstile-310x310.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/mstile-70x70.png
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/safari-pinned-tab.svg
+1572813159|Florian Metz|D|/Website/public/static/assets/meta/site.webmanifest
+1572813159|Florian Metz|D|/Website/src/App.vue
+1572813159|Florian Metz|M|/Website/src/assets/images/logo.svg
+1572813159|Florian Metz|M|/Website/src/components/CategoryCard.vue
+1572813159|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1572813159|Florian Metz|M|/Website/src/components/LanguageSwitcher.vue
+1572813159|Florian Metz|M|/Website/src/components/Navigation.vue
+1572813159|Florian Metz|M|/Website/src/components/Pagination.vue
+1572813159|Florian Metz|M|/Website/src/components/StoreCard.vue
+1572813159|Florian Metz|A|/Website/src/components/mixins/Debug.js
+1572813159|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1572813159|Florian Metz|M|/Website/src/components/mixins/Presence.js
+1572813159|Florian Metz|D|/Website/src/i18n.js
+1572813159|Florian Metz|A|/Website/src/layouts/default.vue
+1572813159|Florian Metz|M|/Website/src/main.js
+1572813159|Florian Metz|M|/Website/src/pages/Contributors.vue
+1572813159|Florian Metz|M|/Website/src/pages/Downloads.vue
+1572813159|Florian Metz|D|/Website/src/pages/Home.vue
+1572813159|Florian Metz|M|/Website/src/pages/Store.vue
+1572813159|Florian Metz|A|/Website/src/pages/index.vue
+1572813159|Florian Metz|D|/Website/src/pages/store/PresenceFullpage.vue
+1572813159|Florian Metz|D|/Website/src/pages/store/Submit.vue
+1572813159|Florian Metz|D|/Website/src/pages/store/Userpage.vue
+1572813159|Florian Metz|A|/Website/src/pages/store/presences/_presenceName.vue
+1572813159|Florian Metz|A|/Website/src/pages/users/_userid.vue
+1572813159|Florian Metz|D|/Website/src/plugins/Debug.js
+1572813159|Florian Metz|M|/Website/src/plugins/Languages.js
+1572813159|Florian Metz|A|/Website/src/plugins/aos.js
+1572813159|Florian Metz|A|/Website/src/plugins/i18n.js
+1572813159|Florian Metz|A|/Website/src/plugins/noty.js
+1572813159|Florian Metz|A|/Website/src/plugins/tippy.js
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/DiscordFontBlack.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/FontAwesome/all.min.css
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/FontAwesome/fa-brands-400.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/FontAwesome/fa-regular-400.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/FontAwesome/fa-solid-900.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Black.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-ThinBETA.woff2
+1572813159|Florian Metz|A|/Website/src/static/assets/fonts/Inter/stylesheet.css
+1572813159|Florian Metz|A|/Website/src/static/assets/images/logo.gif
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/android-chrome-192x192.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/android-chrome-512x512.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/apple-touch-icon.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/browserconfig.xml
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/favicon-16x16.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/favicon-32x32.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/favicon.ico
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/mstile-144x144.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/mstile-150x150.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/mstile-310x150.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/mstile-310x310.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/mstile-70x70.png
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/safari-pinned-tab.svg
+1572813159|Florian Metz|A|/Website/src/static/assets/meta/site.webmanifest
+1572813159|Florian Metz|A|/Website/src/store/presences.js
+1572813159|Florian Metz|D|/Website/src/stylesheets/addons/vuejs-noty.less
+1572813159|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1572813159|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1572813159|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1572813159|Florian Metz|M|/Website/src/stylesheets/components/navbar.scss
+1572813159|Florian Metz|M|/Website/src/stylesheets/components/old/container.less
+1572813159|Florian Metz|M|/Website/src/stylesheets/components/old/navbar.less
+1572813159|Florian Metz|A|/Website/src/stylesheets/plugins/vuejs-noty.scss
+1572813159|Florian Metz|M|/Website/src/stylesheets/root.scss
+1572813159|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1572813159|Florian Metz|D|/Website/vue.config.js
+1572813159|Florian Metz|M|/Website/yarn.lock
+1572813622|Florian Metz|M|/Website/package.json
+1572813622|Florian Metz|M|/Website/yarn.lock
+1572814631|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1572815349|Florian Metz|M|/Website/src/pages/users/_userid.vue
+1573059287|Florian Metz|D|/Website/babel.config.js
+1573059287|Florian Metz|M|/Website/package.json
+1573059287|Florian Metz|M|/Website/src/components/StoreCard.vue
+1573059287|Florian Metz|D|/Website/src/main.js
+1573059287|Florian Metz|M|/Website/yarn.lock
+1573066125|Florian Metz|A|/Website/src/components/Footer.vue
+1573066125|Florian Metz|M|/Website/src/components/LanguageSwitcher.vue
+1573066125|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1573066125|Florian Metz|M|/Website/src/layouts/default.vue
+1573066125|Florian Metz|M|/Website/src/pages/Store.vue
+1573066125|Florian Metz|M|/Website/src/pages/index.vue
+1573215147|Fruxh|M|/Website/package.json
+1573215147|Fruxh|M|/Website/yarn.lock
+1573241306|Florian Metz|M|/Website/nuxt.config.js
+1573241306|Florian Metz|M|/Website/src/components/Footer.vue
+1573241306|Florian Metz|M|/Website/src/pages/index.vue
+1573241306|Florian Metz|D|/Website/src/plugins/Loader.js
+1573241306|Florian Metz|D|/Website/src/plugins/aos.js
+1573241306|Florian Metz|M|/Website/src/stylesheets/root.scss
+1573589421|João|M|/Website/src/pages/users/_userid.vue
+1573589809|João|M|/Website/src/pages/users/_userid.vue
+1573878703|Florian Metz|M|/Website/nuxt.config.js
+1573878703|Florian Metz|M|/Website/src/components/Footer.vue
+1573878703|Florian Metz|M|/Website/src/components/StoreCard.vue
+1573878703|Florian Metz|M|/Website/src/pages/Contributors.vue
+1573878703|Florian Metz|M|/Website/src/pages/Store.vue
+1573878703|Florian Metz|M|/Website/src/pages/index.vue
+1573878703|Florian Metz|M|/Website/src/pages/store/presences/_presenceName.vue
+1573878703|Florian Metz|M|/Website/src/pages/users/_userid.vue
+1573878703|Florian Metz|D|/Website/src/router.js
+1573878703|Florian Metz|M|/Website/yarn.lock
+1573879013|Florian Metz|M|/Website/nuxt.config.js
+1574333001|Voknehzyr|M|/Website/nuxt.config.js
+1574333001|Voknehzyr|M|/Website/package.json
+1574333001|Voknehzyr|M|/Website/src/components/Footer.vue
+1574333001|Voknehzyr|M|/Website/src/pages/Contributors.vue
+1574333001|Voknehzyr|M|/Website/src/pages/Store.vue
+1574333001|Voknehzyr|M|/Website/src/pages/index.vue
+1574333001|Voknehzyr|M|/Website/src/pages/store/presences/_presenceName.vue
+1574333001|Voknehzyr|M|/Website/src/pages/users/_userid.vue
+1574333001|Voknehzyr|A|/Website/src/plugins/pagination.js
+1574333001|Voknehzyr|M|/Website/src/stylesheets/components/button.scss
+1574333001|Voknehzyr|M|/Website/src/stylesheets/components/navbar.scss
+1574333001|Voknehzyr|M|/Website/yarn.lock
+1574806425|Voknehzyr|M|/Website/nuxt.config.js
+1574806425|Voknehzyr|M|/Website/package.json
+1574806425|Voknehzyr|A|/Website/src/assets/images/logo_round.svg
+1574806425|Voknehzyr|M|/Website/src/assets/images/pmd_logo.svg
+1574806425|Voknehzyr|A|/Website/src/assets/images/pmd_logo2.svg
+1574806425|Voknehzyr|D|/Website/src/assets/images/pmd_newlogo.svg
+1574806425|Voknehzyr|M|/Website/src/components/Loader.vue
+1574806425|Voknehzyr|M|/Website/src/components/Navigation.vue
+1574806425|Voknehzyr|M|/Website/src/components/Pagination.vue
+1574806425|Voknehzyr|M|/Website/src/components/StoreCard.vue
+1574806425|Voknehzyr|A|/Website/src/components/plugins/I18n.js
+1574806425|Voknehzyr|A|/Website/src/components/plugins/Languages.js
+1574806425|Voknehzyr|A|/Website/src/components/plugins/Noty.js
+1574806425|Voknehzyr|A|/Website/src/components/plugins/Pagination.js
+1574806425|Voknehzyr|A|/Website/src/components/plugins/Tippy.js
+1574806425|Voknehzyr|A|/Website/src/components/store/presences.js
+1574806425|Voknehzyr|D|/Website/src/pages/Contributors.vue
+1574806425|Voknehzyr|D|/Website/src/pages/Downloads.vue
+1574806425|Voknehzyr|D|/Website/src/pages/Store.vue
+1574806425|Voknehzyr|D|/Website/src/pages/errors/Maintenance.vue
+1574806425|Voknehzyr|D|/Website/src/pages/errors/NotFound.vue
+1574806425|Voknehzyr|D|/Website/src/pages/index.vue
+1574806425|Voknehzyr|D|/Website/src/pages/legal/Cookies.vue
+1574806425|Voknehzyr|D|/Website/src/pages/legal/Privacy.vue
+1574806425|Voknehzyr|D|/Website/src/pages/legal/ToS.vue
+1574806425|Voknehzyr|D|/Website/src/pages/store/presences/_presenceName.vue
+1574806425|Voknehzyr|D|/Website/src/pages/users/_userid.vue
+1574806425|Voknehzyr|D|/Website/src/plugins/Languages.js
+1574806425|Voknehzyr|D|/Website/src/plugins/i18n.js
+1574806425|Voknehzyr|D|/Website/src/plugins/noty.js
+1574806425|Voknehzyr|D|/Website/src/plugins/pagination.js
+1574806425|Voknehzyr|D|/Website/src/plugins/tippy.js
+1574806425|Voknehzyr|A|/Website/src/router.js
+1574806425|Voknehzyr|D|/Website/src/store/presences.js
+1574806425|Voknehzyr|M|/Website/src/stylesheets/components/animation.scss
+1574806425|Voknehzyr|M|/Website/src/stylesheets/components/body.scss
+1574806425|Voknehzyr|M|/Website/src/stylesheets/components/button.scss
+1574806425|Voknehzyr|M|/Website/src/stylesheets/components/card.scss
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/container.less
+1574806425|Voknehzyr|M|/Website/src/stylesheets/components/container.scss
+1574806425|Voknehzyr|A|/Website/src/stylesheets/components/label.scss
+1574806425|Voknehzyr|M|/Website/src/stylesheets/components/navbar.scss
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/animation.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/body.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/breadcrumb.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/button.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/card.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/checkbox.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/container.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/divider.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/grid.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/label.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/navbar.less
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/old/visibility.less
+1574806425|Voknehzyr|A|/Website/src/stylesheets/components/switcher.scss
+1574806425|Voknehzyr|D|/Website/src/stylesheets/components/visibility.less
+1574806425|Voknehzyr|M|/Website/src/stylesheets/root.scss
+1574806425|Voknehzyr|A|/Website/src/views/Contributors.vue
+1574806425|Voknehzyr|A|/Website/src/views/Downloads.vue
+1574806425|Voknehzyr|A|/Website/src/views/Homepage.vue
+1574806425|Voknehzyr|A|/Website/src/views/Store.vue
+1574806425|Voknehzyr|A|/Website/src/views/errors/Maintenance.vue
+1574806425|Voknehzyr|A|/Website/src/views/errors/NotFound.vue
+1574806425|Voknehzyr|A|/Website/src/views/legal/Cookies.vue
+1574806425|Voknehzyr|A|/Website/src/views/legal/Privacy.vue
+1574806425|Voknehzyr|A|/Website/src/views/legal/ToS.vue
+1574806425|Voknehzyr|A|/Website/src/views/store/PresencePage.vue
+1574806425|Voknehzyr|A|/Website/src/views/users/Userpage.vue
+1574806425|Voknehzyr|M|/Website/yarn.lock
+1574806507|ImgBotApp|M|/Website/src/assets/images/logo_round.svg
+1574806507|ImgBotApp|M|/Website/src/assets/images/pmd_logo.svg
+1574806507|ImgBotApp|M|/Website/src/assets/images/pmd_logo2.svg
+1575059728|Voknehzyr|M|/Website/nuxt.config.js
+1575059728|Voknehzyr|M|/Website/src/components/Navigation.vue
+1575059728|Voknehzyr|D|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Black.woff2
+1575059728|Voknehzyr|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff
+1575059728|Voknehzyr|M|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Bold.woff2
+1575059728|Voknehzyr|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff
+1575059728|Voknehzyr|M|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-ExtraBold.woff2
+1575059728|Voknehzyr|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff
+1575059728|Voknehzyr|M|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Medium.woff2
+1575059728|Voknehzyr|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff
+1575059728|Voknehzyr|M|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-Regular.woff2
+1575059728|Voknehzyr|A|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff
+1575059728|Voknehzyr|M|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-SemiBold.woff2
+1575059728|Voknehzyr|D|/Website/src/static/assets/fonts/Inter/hinted-subset-Inter-ThinBETA.woff2
+1575059728|Voknehzyr|M|/Website/src/static/assets/fonts/Inter/stylesheet.css
+1575059728|Voknehzyr|M|/Website/src/stylesheets/components/body.scss
+1575059728|Voknehzyr|M|/Website/src/stylesheets/components/card.scss
+1575059728|Voknehzyr|M|/Website/src/stylesheets/components/container.scss
+1575059728|Voknehzyr|A|/Website/src/stylesheets/components/input.scss
+1575059728|Voknehzyr|M|/Website/src/stylesheets/components/label.scss
+1575059728|Voknehzyr|M|/Website/src/stylesheets/components/switcher.scss
+1575059728|Voknehzyr|M|/Website/src/stylesheets/root.scss
+1575059728|Voknehzyr|M|/Website/src/views/Store.vue
+1575103250|Voknehzyr|M|/Website/src/stylesheets/components/body.scss
+1575103250|Voknehzyr|M|/Website/src/stylesheets/components/label.scss
+1575103250|Voknehzyr|M|/Website/src/stylesheets/components/navbar.scss
+1575103250|Voknehzyr|M|/Website/src/stylesheets/components/visibility.scss
+1575147355|Voknehzyr|M|/Website/src/components/StoreCard.vue
+1575147355|Voknehzyr|M|/Website/src/components/mixins/Detection.js
+1575147355|Voknehzyr|M|/Website/src/components/mixins/Presence.js
+1575147355|Voknehzyr|D|/Website/src/components/store/presences.js
+1575147355|Voknehzyr|A|/Website/src/store/presences.js
+1575147355|Voknehzyr|M|/Website/src/views/Store.vue
+1575147355|Voknehzyr|M|/Website/src/views/store/PresencePage.vue
+1575225111|Florian Metz|M|/Website/nuxt.config.js
+1575225111|Florian Metz|M|/Website/package.json
+1575225111|Florian Metz|M|/Website/src/router.js
+1575225111|Florian Metz|M|/Website/src/views/Contributors.vue
+1575225111|Florian Metz|M|/Website/src/views/Downloads.vue
+1575225111|Florian Metz|M|/Website/src/views/Homepage.vue
+1575225111|Florian Metz|M|/Website/src/views/Store.vue
+1575225111|Florian Metz|A|/Website/src/views/callbackPage.vue
+1575225111|Florian Metz|M|/Website/src/views/legal/Cookies.vue
+1575225111|Florian Metz|M|/Website/src/views/legal/Privacy.vue
+1575225111|Florian Metz|M|/Website/src/views/legal/ToS.vue
+1575225111|Florian Metz|A|/Website/src/views/loginPage.vue
+1575225111|Florian Metz|A|/Website/src/views/logoutPage.vue
+1575225111|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1575225111|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1575225111|Florian Metz|M|/Website/yarn.lock
+1575225748|Florian Metz|M|/Website/nuxt.config.js
+1575225748|Florian Metz|M|/Website/src/views/Homepage.vue
+1575225748|Florian Metz|M|/Website/src/views/loginPage.vue
+1575225910|Florian Metz|M|/Website/nuxt.config.js
+1575225910|Florian Metz|M|/Website/src/views/loginPage.vue
+1575312178|Voknehzyr|M|/Website/src/components/CreditCard.vue
+1575312178|Voknehzyr|M|/Website/src/components/Footer.vue
+1575312178|Voknehzyr|M|/Website/src/components/LanguageSwitcher.vue
+1575312178|Voknehzyr|M|/Website/src/components/Navigation.vue
+1575312178|Voknehzyr|M|/Website/src/layouts/default.vue
+1575312178|Voknehzyr|M|/Website/src/router.js
+1575312178|Voknehzyr|M|/Website/src/stylesheets/components/body.scss
+1575312178|Voknehzyr|M|/Website/src/stylesheets/components/button.scss
+1575312178|Voknehzyr|M|/Website/src/stylesheets/components/card.scss
+1575312178|Voknehzyr|M|/Website/src/stylesheets/components/container.scss
+1575312178|Voknehzyr|M|/Website/src/stylesheets/components/navbar.scss
+1575312178|Voknehzyr|M|/Website/src/views/Homepage.vue
+1575312178|Voknehzyr|A|/Website/src/views/auth/AuthCallback.vue
+1575312178|Voknehzyr|A|/Website/src/views/auth/Login.vue
+1575312178|Voknehzyr|A|/Website/src/views/auth/Logout.vue
+1575312178|Voknehzyr|D|/Website/src/views/callbackPage.vue
+1575312178|Voknehzyr|D|/Website/src/views/loginPage.vue
+1575312178|Voknehzyr|D|/Website/src/views/logoutPage.vue
+1575507702|Abdulbaki Dursun|M|/Website/src/components/StoreCard.vue
+1575507702|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1575618135|dependabot-preview[bot]|M|/Website/package.json
+1575618135|dependabot-preview[bot]|M|/Website/yarn.lock
+1575729996|Abdulbaki Dursun|M|/Website/src/components/StoreCard.vue
+1575729996|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1575730207|dependabot-preview[bot]|M|/Website/package.json
+1575730207|dependabot-preview[bot]|M|/Website/yarn.lock
+1575913457|Fruxh|M|/Website/yarn.lock
+1576596265|Alanexei|M|/Website/src/components/Footer.vue
+1576958923|Florian Metz|M|/Website/package.json
+1576958923|Florian Metz|M|/Website/src/components/CreditCard.vue
+1576958923|Florian Metz|M|/Website/src/components/Navigation.vue
+1576958923|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1576958923|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1576958923|Florian Metz|M|/Website/yarn.lock
+1576959917|Florian Metz|M|/Website/nuxt.config.js
+1576959917|Florian Metz|D|/Website/src/assets/images/gitbook.png
+1576959917|Florian Metz|A|/Website/src/assets/images/pmd_logo.png
+1576959917|Florian Metz|D|/Website/src/assets/images/poeditor.png
+1576959917|Florian Metz|D|/Website/src/assets/images/premid-presence.png
+1576959917|Florian Metz|M|/Website/src/views/Homepage.vue
+1576960786|Florian Metz|M|/Website/nuxt.config.js
+1576960786|Florian Metz|D|/Website/src/static/assets/images/logo.gif
+1576960786|Florian Metz|A|/Website/src/static/assets/images/logo.png
+1577011293|ImgBotApp|M|/Website/src/assets/images/pmd_logo.png
+1577011293|ImgBotApp|M|/Website/src/static/assets/images/logo.png
+1577305018|Florian Metz|M|/Website/nuxt.config.js
+1577305035|Florian Metz|M|/Website/src/components/Footer.vue
+1577305048|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1578663458|Abdulbaki Dursun|M|/Website/nuxt.config.js
+1578663458|Abdulbaki Dursun|M|/Website/src/components/StoreCard.vue
+1578663458|Abdulbaki Dursun|M|/Website/src/views/Contributors.vue
+1578663458|Abdulbaki Dursun|M|/Website/src/views/Store.vue
+1578663458|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1578663458|Abdulbaki Dursun|M|/Website/src/views/users/Userpage.vue
+1578663695|Abdulbaki Dursun|M|/Website/src/views/users/Userpage.vue
+1578690221|Abdulbaki Dursun|M|/Website/src/views/users/Userpage.vue
+1578725059|Florian Metz|M|/Website/nuxt.config.js
+1578725059|Florian Metz|M|/Website/package.json
+1578725059|Florian Metz|M|/Website/src/components/CreditCard.vue
+1578725059|Florian Metz|M|/Website/src/views/Homepage.vue
+1578725059|Florian Metz|M|/Website/yarn.lock
+1578725481|Florian Metz|M|/Website/package.json
+1578725481|Florian Metz|M|/Website/yarn.lock
+1578747512|Abdulbaki Dursun|M|/Website/src/stylesheets/components/body.scss
+1578747512|Abdulbaki Dursun|M|/Website/src/views/Homepage.vue
+1578747512|Abdulbaki Dursun|M|/Website/src/views/Store.vue
+1578747578|Abdulbaki Dursun|M|/Website/src/stylesheets/components/body.scss
+1578752550|Abdulbaki Dursun|M|/Website/src/components/CreditCard.vue
+1578752550|Abdulbaki Dursun|M|/Website/src/views/Store.vue
+1578752550|Abdulbaki Dursun|M|/Website/src/views/errors/NotFound.vue
+1578752550|Abdulbaki Dursun|M|/Website/src/views/users/Userpage.vue
+1579099328|Voknehzyr|M|/Website/src/components/CreditCard.vue
+1579099328|Voknehzyr|A|/Website/src/layouts/error.vue
+1579099328|Voknehzyr|M|/Website/src/router.js
+1579099328|Voknehzyr|M|/Website/src/stylesheets/components/card.scss
+1579099328|Voknehzyr|M|/Website/src/stylesheets/components/container.scss
+1579099328|Voknehzyr|M|/Website/src/views/Store.vue
+1579099328|Voknehzyr|D|/Website/src/views/errors/NotFound.vue
+1579099328|Voknehzyr|M|/Website/src/views/store/PresencePage.vue
+1579537301|Voknehzyr|M|/Website/src/components/LanguageNotification.vue
+1579537301|Voknehzyr|M|/Website/src/components/Pagination.vue
+1579537301|Voknehzyr|M|/Website/src/components/StoreCard.vue
+1579537301|Voknehzyr|M|/Website/src/components/mixins/Detection.js
+1579537301|Voknehzyr|M|/Website/src/layouts/default.vue
+1579537301|Voknehzyr|M|/Website/src/layouts/error.vue
+1579537301|Voknehzyr|A|/Website/src/store/extension.js
+1579537301|Voknehzyr|M|/Website/src/stylesheets/components/body.scss
+1579537301|Voknehzyr|M|/Website/src/stylesheets/components/button.scss
+1579537301|Voknehzyr|M|/Website/src/stylesheets/components/container.scss
+1579537301|Voknehzyr|A|/Website/src/stylesheets/components/grid.scss
+1579537301|Voknehzyr|A|/Website/src/stylesheets/components/spacing.scss
+1579537301|Voknehzyr|A|/Website/src/stylesheets/components/text.scss
+1579537301|Voknehzyr|M|/Website/src/stylesheets/components/visibility.scss
+1579537301|Voknehzyr|M|/Website/src/stylesheets/root.scss
+1579537301|Voknehzyr|M|/Website/src/stylesheets/variables.scss
+1579537301|Voknehzyr|M|/Website/src/views/Homepage.vue
+1579537301|Voknehzyr|M|/Website/src/views/Store.vue
+1579537301|Voknehzyr|M|/Website/src/views/store/PresencePage.vue
+1579538048|Voknehzyr|M|/Website/src/components/mixins/Detection.js
+1579627842|dependabot-preview[bot]|M|/Website/package.json
+1579627842|dependabot-preview[bot]|M|/Website/yarn.lock
+1579628022|dependabot-preview[bot]|M|/Website/package.json
+1579628022|dependabot-preview[bot]|M|/Website/yarn.lock
+1579628188|dependabot-preview[bot]|M|/Website/package.json
+1579628188|dependabot-preview[bot]|M|/Website/yarn.lock
+1579628354|dependabot-preview[bot]|M|/Website/package.json
+1579628354|dependabot-preview[bot]|M|/Website/yarn.lock
+1579671883|dependabot-preview[bot]|M|/Website/package.json
+1579671883|dependabot-preview[bot]|M|/Website/yarn.lock
+1579806961|dependabot-preview[bot]|M|/Website/package.json
+1579806961|dependabot-preview[bot]|M|/Website/yarn.lock
+1580016092|Florian Metz|M|/Website/src/views/Downloads.vue
+1580016261|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580016261|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580016261|Florian Metz|M|/Website/src/components/Pagination.vue
+1580016261|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580016261|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580016261|Florian Metz|M|/Website/src/layouts/default.vue
+1580016261|Florian Metz|A|/Website/src/layouts/error.vue
+1580016261|Florian Metz|M|/Website/src/router.js
+1580016261|Florian Metz|A|/Website/src/store/extension.js
+1580016261|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580016261|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580016261|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580016261|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580016261|Florian Metz|A|/Website/src/stylesheets/components/grid.scss
+1580016261|Florian Metz|A|/Website/src/stylesheets/components/spacing.scss
+1580016261|Florian Metz|A|/Website/src/stylesheets/components/text.scss
+1580016261|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580016261|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580016261|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580016261|Florian Metz|M|/Website/src/views/Downloads.vue
+1580016261|Florian Metz|M|/Website/src/views/Homepage.vue
+1580016261|Florian Metz|M|/Website/src/views/Store.vue
+1580016261|Florian Metz|D|/Website/src/views/errors/NotFound.vue
+1580016261|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580016261|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580023615|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580023615|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580023615|Florian Metz|M|/Website/src/components/Pagination.vue
+1580023615|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580023615|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580023615|Florian Metz|M|/Website/src/layouts/default.vue
+1580023615|Florian Metz|D|/Website/src/layouts/error.vue
+1580023615|Florian Metz|M|/Website/src/router.js
+1580023615|Florian Metz|D|/Website/src/store/extension.js
+1580023615|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580023615|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580023615|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580023615|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580023615|Florian Metz|D|/Website/src/stylesheets/components/grid.scss
+1580023615|Florian Metz|D|/Website/src/stylesheets/components/spacing.scss
+1580023615|Florian Metz|D|/Website/src/stylesheets/components/text.scss
+1580023615|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580023615|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580023615|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580023615|Florian Metz|M|/Website/src/views/Downloads.vue
+1580023615|Florian Metz|M|/Website/src/views/Homepage.vue
+1580023615|Florian Metz|M|/Website/src/views/Store.vue
+1580023615|Florian Metz|A|/Website/src/views/errors/NotFound.vue
+1580023615|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580023615|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580023932|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1580023932|Florian Metz|M|/Website/nuxt.config.js
+1580023932|Florian Metz|M|/Website/package.json
+1580023932|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580023932|Florian Metz|M|/Website/src/components/Footer.vue
+1580023932|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580023932|Florian Metz|M|/Website/src/components/Pagination.vue
+1580023932|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580023932|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580023932|Florian Metz|M|/Website/src/layouts/default.vue
+1580023932|Florian Metz|D|/Website/src/layouts/error.vue
+1580023932|Florian Metz|M|/Website/src/router.js
+1580023932|Florian Metz|D|/Website/src/store/extension.js
+1580023932|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580023932|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580023932|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580023932|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580023932|Florian Metz|D|/Website/src/stylesheets/components/grid.scss
+1580023932|Florian Metz|D|/Website/src/stylesheets/components/spacing.scss
+1580023932|Florian Metz|D|/Website/src/stylesheets/components/text.scss
+1580023932|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580023932|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580023932|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580023932|Florian Metz|M|/Website/src/views/Homepage.vue
+1580023932|Florian Metz|M|/Website/src/views/Store.vue
+1580023932|Florian Metz|A|/Website/src/views/errors/NotFound.vue
+1580023932|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580023932|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580023932|Florian Metz|M|/Website/yarn.lock
+1580024167|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1580024167|Florian Metz|M|/Website/nuxt.config.js
+1580024167|Florian Metz|M|/Website/package.json
+1580024167|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580024167|Florian Metz|M|/Website/src/components/Footer.vue
+1580024167|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580024167|Florian Metz|M|/Website/src/components/Pagination.vue
+1580024167|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580024167|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580024167|Florian Metz|M|/Website/src/layouts/default.vue
+1580024167|Florian Metz|A|/Website/src/layouts/error.vue
+1580024167|Florian Metz|M|/Website/src/router.js
+1580024167|Florian Metz|A|/Website/src/store/extension.js
+1580024167|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580024167|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580024167|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580024167|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580024167|Florian Metz|A|/Website/src/stylesheets/components/grid.scss
+1580024167|Florian Metz|A|/Website/src/stylesheets/components/spacing.scss
+1580024167|Florian Metz|A|/Website/src/stylesheets/components/text.scss
+1580024167|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580024167|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580024167|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580024167|Florian Metz|M|/Website/src/views/Downloads.vue
+1580024167|Florian Metz|M|/Website/src/views/Homepage.vue
+1580024167|Florian Metz|M|/Website/src/views/Store.vue
+1580024167|Florian Metz|D|/Website/src/views/errors/NotFound.vue
+1580024167|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580024167|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580024412|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1580024412|Florian Metz|M|/Website/nuxt.config.js
+1580024412|Florian Metz|M|/Website/package.json
+1580024412|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580024412|Florian Metz|M|/Website/src/components/Footer.vue
+1580024412|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580024412|Florian Metz|M|/Website/src/components/Pagination.vue
+1580024412|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580024412|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580024412|Florian Metz|M|/Website/src/layouts/default.vue
+1580024412|Florian Metz|A|/Website/src/layouts/error.vue
+1580024412|Florian Metz|M|/Website/src/router.js
+1580024412|Florian Metz|A|/Website/src/store/extension.js
+1580024412|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580024412|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580024412|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580024412|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580024412|Florian Metz|A|/Website/src/stylesheets/components/grid.scss
+1580024412|Florian Metz|A|/Website/src/stylesheets/components/spacing.scss
+1580024412|Florian Metz|A|/Website/src/stylesheets/components/text.scss
+1580024412|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580024412|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580024412|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580024412|Florian Metz|M|/Website/src/views/Homepage.vue
+1580024412|Florian Metz|M|/Website/src/views/Store.vue
+1580024412|Florian Metz|D|/Website/src/views/errors/NotFound.vue
+1580024412|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580024412|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580024412|Florian Metz|M|/Website/yarn.lock
+1580025102|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1580025102|Florian Metz|M|/Website/nuxt.config.js
+1580025102|Florian Metz|M|/Website/package.json
+1580025102|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580025102|Florian Metz|M|/Website/src/components/Footer.vue
+1580025102|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580025102|Florian Metz|M|/Website/src/components/Pagination.vue
+1580025102|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580025102|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580025102|Florian Metz|M|/Website/src/layouts/default.vue
+1580025102|Florian Metz|D|/Website/src/layouts/error.vue
+1580025102|Florian Metz|M|/Website/src/router.js
+1580025102|Florian Metz|D|/Website/src/store/extension.js
+1580025102|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580025102|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580025102|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580025102|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580025102|Florian Metz|D|/Website/src/stylesheets/components/grid.scss
+1580025102|Florian Metz|D|/Website/src/stylesheets/components/spacing.scss
+1580025102|Florian Metz|D|/Website/src/stylesheets/components/text.scss
+1580025102|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580025102|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580025102|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580025102|Florian Metz|M|/Website/src/views/Downloads.vue
+1580025102|Florian Metz|M|/Website/src/views/Homepage.vue
+1580025102|Florian Metz|M|/Website/src/views/Store.vue
+1580025102|Florian Metz|A|/Website/src/views/errors/NotFound.vue
+1580025102|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580025102|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580025102|Florian Metz|M|/Website/yarn.lock
+1580025171|Florian Metz|M|/Website/src/views/Downloads.vue
+1580025290|Florian Metz|M|/Website/package.json
+1580025290|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580025290|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580025290|Florian Metz|M|/Website/src/components/Pagination.vue
+1580025290|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580025290|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580025290|Florian Metz|M|/Website/src/layouts/default.vue
+1580025290|Florian Metz|D|/Website/src/layouts/error.vue
+1580025290|Florian Metz|M|/Website/src/router.js
+1580025290|Florian Metz|D|/Website/src/store/extension.js
+1580025290|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580025290|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580025290|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580025290|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580025290|Florian Metz|D|/Website/src/stylesheets/components/grid.scss
+1580025290|Florian Metz|D|/Website/src/stylesheets/components/spacing.scss
+1580025290|Florian Metz|D|/Website/src/stylesheets/components/text.scss
+1580025290|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580025290|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580025290|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580025290|Florian Metz|M|/Website/src/views/Downloads.vue
+1580025290|Florian Metz|M|/Website/src/views/Homepage.vue
+1580025290|Florian Metz|M|/Website/src/views/Store.vue
+1580025290|Florian Metz|A|/Website/src/views/errors/NotFound.vue
+1580025290|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580025290|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580025290|Florian Metz|M|/Website/yarn.lock
+1580025375|Florian Metz|M|/Website/src/views/Downloads.vue
+1580025560|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1580025846|Florian Metz|M|/Website/package.json
+1580026783|Florian Metz|M|/Website/src/components/CreditCard.vue
+1580026783|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1580026783|Florian Metz|M|/Website/src/components/Pagination.vue
+1580026783|Florian Metz|M|/Website/src/components/StoreCard.vue
+1580026783|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1580026783|Florian Metz|M|/Website/src/layouts/default.vue
+1580026783|Florian Metz|A|/Website/src/layouts/error.vue
+1580026783|Florian Metz|M|/Website/src/router.js
+1580026783|Florian Metz|A|/Website/src/store/extension.js
+1580026783|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1580026783|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1580026783|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1580026783|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1580026783|Florian Metz|A|/Website/src/stylesheets/components/grid.scss
+1580026783|Florian Metz|A|/Website/src/stylesheets/components/spacing.scss
+1580026783|Florian Metz|A|/Website/src/stylesheets/components/text.scss
+1580026783|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1580026783|Florian Metz|M|/Website/src/stylesheets/root.scss
+1580026783|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1580026783|Florian Metz|M|/Website/src/views/Downloads.vue
+1580026783|Florian Metz|M|/Website/src/views/Homepage.vue
+1580026783|Florian Metz|M|/Website/src/views/Store.vue
+1580026783|Florian Metz|D|/Website/src/views/errors/NotFound.vue
+1580026783|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1580026783|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1580027085|Florian Metz|M|/Website/src/components/Footer.vue
+1580027119|Florian Metz|M|/Website/src/components/Footer.vue
+1580112980|dependabot-preview[bot]|M|/Website/package.json
+1580112980|dependabot-preview[bot]|M|/Website/yarn.lock
+1580113033|dependabot-preview[bot]|M|/Website/package.json
+1580113033|dependabot-preview[bot]|M|/Website/yarn.lock
+1580113151|dependabot-preview[bot]|M|/Website/package.json
+1580113151|dependabot-preview[bot]|M|/Website/yarn.lock
+1580183295|dependabot-preview[bot]|M|/Website/package.json
+1580183295|dependabot-preview[bot]|M|/Website/yarn.lock
+1580197343|dependabot-preview[bot]|M|/Website/package.json
+1580197343|dependabot-preview[bot]|M|/Website/yarn.lock
+1580197508|dependabot-preview[bot]|M|/Website/package.json
+1580197508|dependabot-preview[bot]|M|/Website/yarn.lock
+1580326392|dependabot-preview[bot]|M|/Website/package.json
+1580326392|dependabot-preview[bot]|M|/Website/yarn.lock
+1580326757|dependabot-preview[bot]|M|/Website/package.json
+1580326757|dependabot-preview[bot]|M|/Website/yarn.lock
+1580422154|dependabot-preview[bot]|M|/Website/package.json
+1580422154|dependabot-preview[bot]|M|/Website/yarn.lock
+1580561332|dependabot-preview[bot]|M|/Website/package.json
+1580561332|dependabot-preview[bot]|M|/Website/yarn.lock
+1580562429|dependabot-preview[bot]|M|/Website/package.json
+1580562429|dependabot-preview[bot]|M|/Website/yarn.lock
+1580651611|dependabot-preview[bot]|M|/Website/package.json
+1580651611|dependabot-preview[bot]|M|/Website/yarn.lock
+1580669142|Florian Metz|M|/Website/src/views/Homepage.vue
+1580677549|Florian Metz|M|/Website/nuxt.config.js
+1580677549|Florian Metz|M|/Website/src/views/Homepage.vue
+1580829368|Voknehzyr|D|/Website/src/components/Card.vue
+1580829368|Voknehzyr|M|/Website/src/components/mixins/Debug.js
+1580829368|Voknehzyr|M|/Website/src/layouts/error.vue
+1580829368|Voknehzyr|M|/Website/src/stylesheets/components/body.scss
+1580829368|Voknehzyr|M|/Website/src/stylesheets/components/button.scss
+1580829368|Voknehzyr|M|/Website/src/stylesheets/components/spacing.scss
+1580829368|Voknehzyr|M|/Website/yarn.lock
+1580829421|Voknehzyr|M|/Website/src/stylesheets/components/card.scss
+1580829421|Voknehzyr|M|/Website/src/stylesheets/components/container.scss
+1580829421|Voknehzyr|A|/Website/src/stylesheets/components/section.scss
+1580829421|Voknehzyr|M|/Website/src/stylesheets/root.scss
+1580829421|Voknehzyr|M|/Website/src/views/Homepage.vue
+1580839543|Abdulbaki Dursun|M|/Website/src/views/errors/Maintenance.vue
+1580911162|Abdulbaki Dursun|M|/Website/src/layouts/error.vue
+1580911162|Abdulbaki Dursun|M|/Website/src/stylesheets/components/card.scss
+1580911162|Abdulbaki Dursun|M|/Website/src/views/Contributors.vue
+1580911162|Abdulbaki Dursun|M|/Website/src/views/Homepage.vue
+1580911162|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1580911162|Abdulbaki Dursun|M|/Website/src/views/users/Userpage.vue
+1580911162|Abdulbaki Dursun|M|/Website/yarn.lock
+1580911405|Abdulbaki Dursun|M|/Website/.gitignore
+1580911456|Abdulbaki Dursun|M|/Website/yarn.lock
+1580911527|Abdulbaki Dursun|M|/Website/yarn.lock
+1580923613|Abdulbaki Dursun|M|/Website/nuxt.config.js
+1581006344|Abdulbaki Dursun|M|/Website/src/layouts/error.vue
+1581006344|Abdulbaki Dursun|M|/Website/src/stylesheets/components/body.scss
+1581006344|Abdulbaki Dursun|M|/Website/src/views/Homepage.vue
+1581006344|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1581006344|Abdulbaki Dursun|M|/Website/src/views/users/Userpage.vue
+1581024556|Abdulbaki Dursun|M|/Website/src/components/CreditCard.vue
+1581024556|Abdulbaki Dursun|M|/Website/src/views/Contributors.vue
+1581024632|Abdulbaki Dursun|M|/Website/src/components/CreditCard.vue
+1581026209|Abdulbaki Dursun|M|/Website/src/stylesheets/components/body.scss
+1581026209|Abdulbaki Dursun|M|/Website/src/views/Homepage.vue
+1581129616|Florian Metz|M|/Website/nuxt.config.js
+1581129616|Florian Metz|M|/Website/package.json
+1581129616|Florian Metz|M|/Website/yarn.lock
+1581129718|Florian Metz|M|/Website/nuxt.config.js
+1581129718|Florian Metz|M|/Website/package.json
+1581129718|Florian Metz|M|/Website/yarn.lock
+1581144261|Florian Metz|M|/Website/package.json
+1581144261|Florian Metz|M|/Website/src/components/StoreCard.vue
+1581144261|Florian Metz|M|/Website/src/stylesheets/components/animation.scss
+1581144261|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1581144261|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1581144261|Florian Metz|M|/Website/src/views/Homepage.vue
+1581144261|Florian Metz|M|/Website/src/views/Store.vue
+1581144261|Florian Metz|M|/Website/yarn.lock
+1581193441|Florian Metz|M|/Website/nuxt.config.js
+1581230334|dependabot-preview[bot]|M|/Website/package.json
+1581230334|dependabot-preview[bot]|M|/Website/yarn.lock
+1581294221|Florian Metz|M|/Website/.gitignore
+1581294221|Florian Metz|M|/Website/nuxt.config.js
+1581294221|Florian Metz|M|/Website/package.json
+1581294221|Florian Metz|D|/Website/src/components/Card.vue
+1581294221|Florian Metz|M|/Website/src/components/CreditCard.vue
+1581294221|Florian Metz|M|/Website/src/components/LanguageNotification.vue
+1581294221|Florian Metz|M|/Website/src/components/Pagination.vue
+1581294221|Florian Metz|M|/Website/src/components/StoreCard.vue
+1581294221|Florian Metz|M|/Website/src/components/mixins/Debug.js
+1581294221|Florian Metz|M|/Website/src/components/mixins/Detection.js
+1581294221|Florian Metz|M|/Website/src/layouts/default.vue
+1581294221|Florian Metz|A|/Website/src/layouts/error.vue
+1581294221|Florian Metz|M|/Website/src/router.js
+1581294221|Florian Metz|A|/Website/src/store/extension.js
+1581294221|Florian Metz|M|/Website/src/stylesheets/components/animation.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/components/body.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/components/button.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/components/card.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1581294221|Florian Metz|A|/Website/src/stylesheets/components/grid.scss
+1581294221|Florian Metz|A|/Website/src/stylesheets/components/section.scss
+1581294221|Florian Metz|A|/Website/src/stylesheets/components/spacing.scss
+1581294221|Florian Metz|A|/Website/src/stylesheets/components/text.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/components/visibility.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/root.scss
+1581294221|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1581294221|Florian Metz|M|/Website/src/views/Contributors.vue
+1581294221|Florian Metz|M|/Website/src/views/Downloads.vue
+1581294221|Florian Metz|M|/Website/src/views/Homepage.vue
+1581294221|Florian Metz|M|/Website/src/views/Store.vue
+1581294221|Florian Metz|M|/Website/src/views/errors/Maintenance.vue
+1581294221|Florian Metz|D|/Website/src/views/errors/NotFound.vue
+1581294221|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1581294221|Florian Metz|M|/Website/src/views/users/Userpage.vue
+1581294221|Florian Metz|M|/Website/yarn.lock
+1581296908|Florian Metz|M|/Website/src/components/CreditCard.vue
+1581296908|Florian Metz|M|/Website/src/stylesheets/components/container.scss
+1581296908|Florian Metz|M|/Website/src/stylesheets/variables.scss
+1581296908|Florian Metz|M|/Website/src/views/Contributors.vue
+1581296908|Florian Metz|M|/Website/src/views/Store.vue
+1581296908|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1581297208|Florian Metz|M|/Website/package.json
+1581325256|dependabot-preview[bot]|M|/Website/package.json
+1581325256|dependabot-preview[bot]|M|/Website/yarn.lock
+1581341247|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1581343398|Abdulbaki Dursun|M|/Website/src/components/StoreCard.vue
+1581343398|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1581343983|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1581351104|Abdulbaki Dursun|M|/Website/src/views/Homepage.vue
+1581394301|Abdulbaki Dursun|M|/Website/src/views/store/PresencePage.vue
+1581397047|Abdulbaki Dursun|M|/Website/nuxt.config.js
+1581526290|Fruxh|M|/Website/nuxt.config.js
+1581528651|Fruxh|M|/Website/package.json
+1581531143|Fruxh|M|/Website/package.json
+1581532052|Fruxh|M|/Website/package.json
+1581532353|Fruxh|M|/Website/package.json
+1581532688|Florian Metz|M|/Website/.github/workflows/deploy.yml
+1581532688|Florian Metz|M|/Website/package.json
+1581704993|TheDrop|A|/Website/src/assets/images/premid-beta.png
+1581704993|TheDrop|A|/Website/src/assets/images/premid-beta.svg
+1581704993|TheDrop|M|/Website/src/router.js
+1581704993|TheDrop|M|/Website/src/stylesheets/components/container.scss
+1581704993|TheDrop|A|/Website/src/views/Beta.vue
+1581704993|TheDrop|M|/Website/yarn.lock
+1581816438|Florian Metz|M|/Website/nuxt.config.js
+1581845694|Florian Metz|M|/Website/src/views/Downloads.vue
+1581847015|Florian Metz|M|/Website/src/views/store/PresencePage.vue
+1581863138|TheDrop|M|/Website/src/router.js
+1581863138|TheDrop|M|/Website/src/stylesheets/components/container.scss
+1581863138|TheDrop|M|/Website/src/views/Beta.vue
+1581863138|TheDrop|A|/Website/src/views/ThankYou.vue
+1581883662|TheDrop|M|/Website/src/router.js
+1581883662|TheDrop|D|/Website/src/views/Beta.vue
+1581883662|TheDrop|D|/Website/src/views/ThankYou.vue
+1581883662|TheDrop|A|/Website/src/views/beta/Beta.vue
+1581883662|TheDrop|A|/Website/src/views/beta/Register.vue
+1581883662|TheDrop|A|/Website/src/views/beta/afterRegistration.vue
+1581883850|TheDrop|M|/Website/src/views/beta/Beta.vue
+1581963063|Igor Ryzhenkov|M|/Website/.github/workflows/deploy.yml
+1581963119|Igor Ryzhenkov|M|/Website/.github/workflows/deploy.yml
+1581963298|ImgBotApp|M|/Website/src/assets/images/premid-beta.png
+1581963298|ImgBotApp|M|/Website/src/assets/images/premid-beta.svg
+1581963407|Igor Ryzhenkov|M|/Website/package.json
+1582036127|dependabot-preview[bot]|M|/Website/package.json
+1582036127|dependabot-preview[bot]|M|/Website/yarn.lock
+1582065902|The Codacy Badger|M|/Website/README.md
+1582206250|dependabot-preview[bot]|M|/Website/package.json
+1582206250|dependabot-preview[bot]|M|/Website/yarn.lock
+1582244215|TheDrop|M|/Website/src/views/store/PresencePage.vue
+1582287378|dependabot-preview[bot]|M|/Website/package.json
+1582287378|dependabot-preview[bot]|M|/Website/yarn.lock
+1582548316|dependabot-preview[bot]|M|/Website/package.json
+1582548316|dependabot-preview[bot]|M|/Website/yarn.lock
+1582559909|dependabot-preview[bot]|M|/Website/package.json
+1582559909|dependabot-preview[bot]|M|/Website/yarn.lock

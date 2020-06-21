@@ -1,0 +1,25 @@
+1573076832|Florian Metz|A|/Updaters/.gitignore
+1573076832|Florian Metz|A|/Updaters/LICENSE
+1573433033|Florian Metz|M|/Updaters/.gitignore
+1573433033|Florian Metz|A|/Updaters/package.json
+1573433033|Florian Metz|A|/Updaters/translations/index.ts
+1573433033|Florian Metz|A|/Updaters/translations/tsconfig.json
+1573433033|Florian Metz|A|/Updaters/tsconfig.json
+1573433033|Florian Metz|A|/Updaters/yarn.lock
+1573433099|Florian Metz|A|/Updaters/.github/workflows/updateTranslations.yml
+1573434503|Florian Metz|M|/Updaters/.github/workflows/updateTranslations.yml
+1573434645|Florian Metz|M|/Updaters/.github/workflows/updateTranslations.yml
+1573435312|Florian Metz|M|/Updaters/translations/index.ts
+1573675141|Florian Metz|M|/Updaters/translations/index.ts
+1575913388|Fruxh|M|/Updaters/yarn.lock
+1578288496|Florian Metz|M|/Updaters/.github/workflows/updateTranslations.yml
+1578292060|Florian Metz|M|/Updaters/.github/workflows/updateTranslations.yml
+1579103202|Florian Metz|M|/Updaters/package.json
+1579103202|Florian Metz|M|/Updaters/translations/index.ts
+1579103202|Florian Metz|M|/Updaters/yarn.lock
+1579561357|Florian Metz|M|/Updaters/translations/index.ts
+1579640615|Florian Metz|M|/Updaters/package.json
+1579640615|Florian Metz|M|/Updaters/translations/index.ts
+1579640615|Florian Metz|M|/Updaters/yarn.lock
+1581027772|Florian Metz|M|/Updaters/translations/index.ts
+1581027772|Florian Metz|D|/Updaters/translations/tsconfig.json

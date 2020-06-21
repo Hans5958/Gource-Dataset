@@ -1,0 +1,816 @@
+1546458457|Timeraa|A|/API/.gitignore
+1546458457|Timeraa|A|/API/package.json
+1546458457|Timeraa|A|/API/src/LICENSE
+1546458457|Timeraa|A|/API/src/database/db.js
+1546458457|Timeraa|A|/API/src/database/functions.js
+1546458457|Timeraa|A|/API/src/index.js
+1546458457|Timeraa|A|/API/src/package-lock.json
+1546458457|Timeraa|A|/API/src/package.json
+1546458457|Timeraa|A|/API/src/pages/credits.js
+1546458457|Timeraa|A|/API/src/pages/getServices.js
+1546460322|Timeraa|D|/API/src/database/db.js
+1546460322|Timeraa|D|/API/src/database/functions.js
+1546460322|Timeraa|M|/API/src/index.js
+1546460322|Timeraa|M|/API/src/package-lock.json
+1546460322|Timeraa|M|/API/src/package.json
+1546460322|Timeraa|D|/API/src/pages/credits.js
+1546460322|Timeraa|D|/API/src/pages/getServices.js
+1546647114|Timeraa|A|/API/src/fonts/Roboto/LICENSE.txt
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Black.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-BlackItalic.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Bold.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-BoldItalic.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Italic.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Light.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-LightItalic.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Medium.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-MediumItalic.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Regular.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-Thin.ttf
+1546647114|Timeraa|A|/API/src/fonts/Roboto/Roboto-ThinItalic.ttf
+1546647114|Timeraa|M|/API/src/index.js
+1546647114|Timeraa|M|/API/src/package-lock.json
+1546647114|Timeraa|M|/API/src/package.json
+1546647114|Timeraa|A|/API/src/pages/langStatus.js
+1546649806|Timeraa|M|/API/src/index.js
+1546649806|Timeraa|M|/API/src/pages/langStatus.js
+1546649806|Timeraa|A|/API/src/util/langUpdater.js
+1546679849|Paz|A|/API/src/.env.example
+1546679849|Paz|M|/API/src/index.js
+1546679849|Paz|M|/API/src/package-lock.json
+1546679849|Paz|M|/API/src/package.json
+1546838383|Paz|M|/API/src/index.js
+1546838383|Paz|A|/API/src/pages/credit.js
+1546838383|Paz|M|/API/src/pages/langStatus.js
+1546838995|Paz|M|/API/src/pages/langStatus.js
+1546843788|Paz|M|/API/src/pages/langStatus.js
+1547138143|Paz|A|/API/src/pages/credits.js
+1547139090|Paz|A|/API/src/database/db.js
+1547139090|Paz|A|/API/src/database/functions.js
+1547139090|Paz|A|/API/src/pages/getServices.js
+1547567593|Paz|M|/API/src/pages/credit.js
+1547567593|Paz|M|/API/src/pages/credits.js
+1548555081|Timeraa|M|/API/src/index.js
+1548555081|Timeraa|M|/API/src/pages/getServices.js
+1548555081|Timeraa|M|/API/src/pages/langStatus.js
+1548555081|Timeraa|A|/API/src/util/functions/hsl_col_perc.js
+1548555081|Timeraa|A|/API/src/util/functions/roundRect.js
+1548555081|Timeraa|M|/API/src/util/langUpdater.js
+1548555496|Timeraa|A|/API/src/.env.example
+1548555496|Timeraa|M|/API/src/fonts/Roboto/LICENSE.txt
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Black.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-BlackItalic.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Bold.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-BoldItalic.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Italic.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Light.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-LightItalic.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Medium.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-MediumItalic.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Regular.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-Thin.ttf
+1548555496|Timeraa|M|/API/src/fonts/Roboto/Roboto-ThinItalic.ttf
+1548555496|Timeraa|M|/API/src/index.js
+1548555496|Timeraa|M|/API/src/package-lock.json
+1548555496|Timeraa|M|/API/src/package.json
+1548555496|Timeraa|A|/API/src/pages/credit.js
+1548555496|Timeraa|M|/API/src/pages/credits.js
+1548555496|Timeraa|M|/API/src/pages/langStatus.js
+1549551646|Paz|M|/API/src/index.js
+1549551646|Paz|A|/API/src/pages/response.js
+1550045245|Timeraa|A|/API/src/fonts/Inter/Inter-Bold.ttf
+1550045245|Timeraa|A|/API/src/fonts/Inter/LICENSE.txt
+1550045245|Timeraa|D|/API/src/fonts/Roboto/LICENSE.txt
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Black.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-BlackItalic.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Bold.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-BoldItalic.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Italic.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Light.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-LightItalic.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Medium.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-MediumItalic.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Regular.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-Thin.ttf
+1550045245|Timeraa|D|/API/src/fonts/Roboto/Roboto-ThinItalic.ttf
+1550045245|Timeraa|M|/API/src/pages/langStatus.js
+1551738705|Timeraa|M|/API/src/database/db.js
+1551738705|Timeraa|M|/API/src/index.js
+1551738705|Timeraa|A|/API/src/pages.json
+1551738705|Timeraa|A|/API/src/util/debug.js
+1551738819|Timeraa|M|/API/src/index.js
+1551801737|Timeraa|M|/API/src/pages.json
+1551801737|Timeraa|D|/API/src/pages/getServices.js
+1551801737|Timeraa|A|/API/src/pages/presences.js
+1553036631|Timeraa|M|/API/src/index.js
+1553039542|Timeraa|M|/API/src/package.json
+1553191793|Timeraa|A|/API/package-lock.json
+1553191793|Timeraa|M|/API/package.json
+1553191793|Timeraa|M|/API/src/.env.example
+1553191793|Timeraa|M|/API/src/index.js
+1553191793|Timeraa|M|/API/src/package.json
+1553191793|Timeraa|M|/API/src/pages/credit.js
+1553191793|Timeraa|M|/API/src/pages/credits.js
+1553191793|Timeraa|M|/API/src/pages/langStatus.js
+1553191793|Timeraa|M|/API/src/pages/response.js
+1553191793|Timeraa|M|/API/src/util/langUpdater.js
+1553192201|Timeraa|M|/API/package-lock.json
+1553192201|Timeraa|M|/API/package.json
+1553192201|Timeraa|M|/API/src/package-lock.json
+1553192201|Timeraa|M|/API/src/package.json
+1553723688|Timeraa|A|/API/LICENSE
+1553723688|Timeraa|M|/API/package-lock.json
+1553723688|Timeraa|M|/API/package.json
+1553723688|Timeraa|D|/API/src/LICENSE
+1553723688|Timeraa|M|/API/src/database/db.js
+1553723688|Timeraa|M|/API/src/index.js
+1553723688|Timeraa|M|/API/src/package-lock.json
+1553723688|Timeraa|M|/API/src/package.json
+1553723688|Timeraa|M|/API/src/pages/langStatus.js
+1553995080|Timeraa|M|/API/src/pages.json
+1553995080|Timeraa|A|/API/src/pages/updates.js
+1553995080|Timeraa|A|/API/src/updates.json
+1553995979|Timeraa|M|/API/src/updates.json
+1553997923|Timeraa|M|/API/src/updates.json
+1554505606|Timeraa|M|/API/src/index.js
+1554505606|Timeraa|M|/API/src/package.json
+1554505606|Timeraa|M|/API/src/pages.json
+1554505606|Timeraa|D|/API/src/pages/credit.js
+1554505606|Timeraa|M|/API/src/pages/langStatus.js
+1554505606|Timeraa|M|/API/src/pages/presences.js
+1554505606|Timeraa|A|/API/src/util/slasher.js
+1554602249|Timeraa|M|/API/src/pages.json
+1554602249|Timeraa|A|/API/src/pages/version.js
+1555334720|Timeraa|M|/API/src/pages.json
+1555334720|Timeraa|M|/API/src/pages/presences.js
+1555352200|Timeraa|M|/API/src/index.js
+1555352200|Timeraa|A|/API/src/util/presenceUpdater.js
+1555359145|Timeraa|M|/API/src/index.js
+1555359145|Timeraa|M|/API/src/pages.json
+1555359191|Timeraa|M|/API/src/pages/presences.js
+1555359213|Timeraa|M|/API/src/util/presenceUpdater.js
+1555465326|Timeraa|M|/API/.gitignore
+1555465326|Timeraa|M|/API/src/index.js
+1555465326|Timeraa|A|/API/src/nodemon.json
+1555465326|Timeraa|M|/API/src/pages.json
+1555465326|Timeraa|A|/API/src/pages/langFile.js
+1555465326|Timeraa|A|/API/src/util/translationUpdater.js
+1556919143|Timeraa|M|/API/src/pages/credits.js
+1557702764|Florian Metz|M|/API/src/pages.json
+1557702764|Florian Metz|M|/API/src/pages/credits.js
+1557712921|Florian Metz|M|/API/.gitignore
+1557712921|Florian Metz|M|/API/src/pages.json
+1557712921|Florian Metz|A|/API/src/pages/appUpdate.js
+1557712921|Florian Metz|A|/API/src/updateApp.xml
+1557782308|Florian Metz|M|/API/src/pages/credits.js
+1557860035|Timeraa|M|/API/src/pages/appUpdate.js
+1557860035|Timeraa|M|/API/src/updateApp.xml
+1558645423|Timeraa|M|/API/src/updates.json
+1558742930|Timeraa|M|/API/src/pages/langFile.js
+1558744979|Timeraa|M|/API/src/updates.json
+1558746655|Timeraa|M|/API/package.json
+1558746857|Timeraa|M|/API/.gitignore
+1558751206|Timeraa|M|/API/src/.env.example
+1558751206|Timeraa|M|/API/src/index.js
+1558751696|Timeraa|M|/API/src/index.js
+1559076235|Florian Metz|M|/API/src/pages.json
+1559076235|Florian Metz|M|/API/src/pages/appUpdate.js
+1559076235|Florian Metz|D|/API/src/updateApp.xml
+1559076235|Florian Metz|A|/API/src/updateApp_32bit.xml
+1559076235|Florian Metz|A|/API/src/updateApp_64bit.xml
+1559216076|Timeraa|M|/API/src/index.js
+1559216076|Timeraa|M|/API/src/pages.json
+1559216076|Timeraa|A|/API/src/pages/users.js
+1559216076|Timeraa|A|/API/src/util/functions/getWebstoreUsers.js
+1559216076|Timeraa|A|/API/src/util/usageUpdater.js
+1560296536|Timeraa|M|/API/src/pages.json
+1560296536|Timeraa|A|/API/src/pages/betaAccess.js
+1561075677|Timeraa|M|/API/src/index.js
+1561075677|Timeraa|A|/API/src/responseTime.js
+1563576808|Fruxh|M|/API/LICENSE
+1563648431|Timeraa|M|/API/.gitignore
+1563648431|Timeraa|A|/API/devMode.ts
+1563648431|Timeraa|M|/API/package-lock.json
+1563648431|Timeraa|M|/API/package.json
+1563648431|Timeraa|D|/API/src/.env.example
+1563648431|Timeraa|D|/API/src/database/db.js
+1563648431|Timeraa|D|/API/src/database/functions.js
+1563648431|Timeraa|A|/API/src/db/client.ts
+1563648431|Timeraa|A|/API/src/endpoints.json
+1563648431|Timeraa|D|/API/src/fonts/Inter/Inter-Bold.ttf
+1563648431|Timeraa|D|/API/src/fonts/Inter/LICENSE.txt
+1563648431|Timeraa|A|/API/src/handlers/default.ts
+1563648431|Timeraa|A|/API/src/handlers/ping.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/appUpdate.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/betaAccess.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/credits.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/data/updateApp_32bit.xml
+1563648431|Timeraa|A|/API/src/handlers/v1/data/updateApp_64bit.xml
+1563648431|Timeraa|A|/API/src/handlers/v1/data/updates.json
+1563648431|Timeraa|A|/API/src/handlers/v1/langFile.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/presences.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/updates.ts
+1563648431|Timeraa|A|/API/src/handlers/v1/users.ts
+1563648431|Timeraa|A|/API/src/handlers/v2/credits.ts
+1563648431|Timeraa|A|/API/src/handlers/v2/langFile.ts
+1563648431|Timeraa|A|/API/src/handlers/v2/versions.ts
+1563648431|Timeraa|D|/API/src/index.js
+1563648431|Timeraa|A|/API/src/index.ts
+1563648431|Timeraa|D|/API/src/nodemon.json
+1563648431|Timeraa|D|/API/src/package-lock.json
+1563648431|Timeraa|M|/API/src/package.json
+1563648431|Timeraa|D|/API/src/pages.json
+1563648431|Timeraa|D|/API/src/pages/appUpdate.js
+1563648431|Timeraa|D|/API/src/pages/betaAccess.js
+1563648431|Timeraa|D|/API/src/pages/credits.js
+1563648431|Timeraa|D|/API/src/pages/langFile.js
+1563648431|Timeraa|D|/API/src/pages/langStatus.js
+1563648431|Timeraa|D|/API/src/pages/presences.js
+1563648431|Timeraa|D|/API/src/pages/response.js
+1563648431|Timeraa|D|/API/src/pages/updates.js
+1563648431|Timeraa|D|/API/src/pages/users.js
+1563648431|Timeraa|D|/API/src/pages/version.js
+1563648431|Timeraa|D|/API/src/responseTime.js
+1563648431|Timeraa|D|/API/src/updateApp_32bit.xml
+1563648431|Timeraa|D|/API/src/updateApp_64bit.xml
+1563648431|Timeraa|D|/API/src/updates.json
+1563648431|Timeraa|D|/API/src/util/debug.js
+1563648431|Timeraa|A|/API/src/util/debug.ts
+1563648431|Timeraa|D|/API/src/util/functions/getWebstoreUsers.js
+1563648431|Timeraa|A|/API/src/util/functions/getWebstoreUsers.ts
+1563648431|Timeraa|D|/API/src/util/functions/hsl_col_perc.js
+1563648431|Timeraa|A|/API/src/util/functions/presenceUpdater.ts
+1563648431|Timeraa|D|/API/src/util/functions/roundRect.js
+1563648431|Timeraa|D|/API/src/util/langUpdater.js
+1563648431|Timeraa|D|/API/src/util/presenceUpdater.js
+1563648431|Timeraa|A|/API/src/util/responseTime.ts
+1563648431|Timeraa|D|/API/src/util/slasher.js
+1563648431|Timeraa|D|/API/src/util/translationUpdater.js
+1563648431|Timeraa|A|/API/src/util/updateLangFiles.ts
+1563648431|Timeraa|D|/API/src/util/usageUpdater.js
+1563648431|Timeraa|A|/API/tsconfig.json
+1563652074|Timeraa|M|/API/package.json
+1563745386|Timeraa|M|/API/.gitignore
+1563745386|Timeraa|M|/API/package-lock.json
+1563745386|Timeraa|M|/API/package.json
+1563745386|Timeraa|M|/API/src/endpoints.json
+1563745386|Timeraa|M|/API/src/handlers/v2/langFile.ts
+1563745386|Timeraa|A|/API/src/handlers/v2/oauth2.ts
+1563745386|Timeraa|M|/API/src/index.ts
+1563745386|Timeraa|D|/API/src/package.json
+1564175686|Timeraa|M|/API/src/index.ts
+1564175699|Timeraa|M|/API/src/handlers/v1/appUpdate.ts
+1564430932|Renovate Bot|A|/API/renovate.json
+1564431720|Florian Metz|M|/API/renovate.json
+1564431780|Renovate Bot|M|/API/package.json
+1564432444|Renovate Bot|M|/API/package-lock.json
+1564432444|Renovate Bot|M|/API/package.json
+1564440184|Timeraa|M|/API/renovate.json
+1564440381|Timeraa|M|/API/package.json
+1564455369|Renovate Bot|M|/API/package-lock.json
+1564455369|Renovate Bot|M|/API/package.json
+1564491541|Florian Metz|M|/API/renovate.json
+1564565821|Timeraa|M|/API/package-lock.json
+1564565821|Timeraa|M|/API/package.json
+1564565821|Timeraa|M|/API/src/endpoints.json
+1564565821|Timeraa|D|/API/src/handlers/v2/oauth2.ts
+1564565821|Timeraa|M|/API/src/util/functions/getWebstoreUsers.ts
+1564565821|Timeraa|M|/API/src/util/functions/presenceUpdater.ts
+1564565821|Timeraa|M|/API/src/util/responseTime.ts
+1564565821|Timeraa|M|/API/src/util/updateLangFiles.ts
+1564565919|Timeraa|M|/API/src/util/responseTime.ts
+1564574101|Renovate Bot|M|/API/package-lock.json
+1564574101|Renovate Bot|M|/API/package.json
+1564698326|Timeraa|M|/API/renovate.json
+1564768645|Timeraa|M|/API/src/endpoints.json
+1564768645|Timeraa|M|/API/src/handlers/v2/credits.ts
+1564797797|Timeraa|M|/API/src/endpoints.json
+1564797797|Timeraa|M|/API/src/handlers/v1/presences.ts
+1564797797|Timeraa|A|/API/src/handlers/v2/presences.ts
+1564797797|Timeraa|M|/API/src/util/functions/presenceUpdater.ts
+1564859731|Timeraa|M|/API/src/handlers/v1/data/updateApp_32bit.xml
+1564859731|Timeraa|M|/API/src/handlers/v1/data/updateApp_64bit.xml
+1564861077|Timeraa|M|/API/src/util/functions/presenceUpdater.ts
+1564875386|Timeraa|M|/API/src/util/functions/presenceUpdater.ts
+1564880319|Timeraa|M|/API/src/handlers/v2/credits.ts
+1564880319|Timeraa|M|/API/src/handlers/v2/presences.ts
+1565011692|Timeraa|A|/API/devModeNew.ts
+1565011692|Timeraa|M|/API/package.json
+1565011692|Timeraa|M|/API/tsconfig.json
+1565012393|Timeraa|M|/API/package.json
+1565117383|Florian Metz|M|/API/package-lock.json
+1565117383|Florian Metz|M|/API/package.json
+1565117403|Florian Metz|M|/API/src/util/functions/presenceUpdater.ts
+1565117427|Renovate Bot|M|/API/package.json
+1565221215|Renovate Bot|M|/API/package-lock.json
+1565221215|Renovate Bot|M|/API/package.json
+1565649816|Renovate Bot|M|/API/package-lock.json
+1565649816|Renovate Bot|M|/API/package.json
+1565708390|Florian Metz|M|/API/package-lock.json
+1565708390|Florian Metz|M|/API/package.json
+1565708390|Florian Metz|M|/API/src/endpoints.json
+1565708390|Florian Metz|A|/API/src/handlers/presenceUpdater.ts
+1565708390|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1565708390|Florian Metz|M|/API/src/index.ts
+1565708390|Florian Metz|D|/API/src/util/functions/presenceUpdater.ts
+1565708390|Florian Metz|A|/API/src/util/functions/updatePresences.ts
+1565708452|Florian Metz|M|/API/package-lock.json
+1565708452|Florian Metz|M|/API/package.json
+1565709119|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1565724788|Florian Metz|M|/API/package.json
+1565724788|Florian Metz|D|/API/src/handlers/presenceUpdater.ts
+1565724788|Florian Metz|M|/API/src/index.ts
+1565729518|Florian Metz|M|/API/src/endpoints.json
+1565729518|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1565730010|Florian Metz|M|/API/src/endpoints.json
+1565730010|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1565730010|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1565730647|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1565730941|Florian Metz|M|/API/src/endpoints.json
+1565730941|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1565730941|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1565732386|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1565739858|Renovate Bot|M|/API/package.json
+1565747072|Renovate Bot|M|/API/package-lock.json
+1565747072|Renovate Bot|M|/API/package.json
+1565996107|Renovate Bot|M|/API/package-lock.json
+1565996107|Renovate Bot|M|/API/package.json
+1566011374|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1566182469|Renovate Bot|M|/API/package-lock.json
+1566182469|Renovate Bot|M|/API/package.json
+1566334147|Renovate Bot|M|/API/package-lock.json
+1566334147|Renovate Bot|M|/API/package.json
+1566700011|Florian Metz|M|/API/package.json
+1566700011|Florian Metz|M|/API/src/db/client.ts
+1566700011|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1566700011|Florian Metz|M|/API/src/index.ts
+1566700011|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1566700374|Florian Metz|M|/API/package.json
+1566701066|Florian Metz|M|/API/src/util/debug.ts
+1566701749|Florian Metz|M|/API/package.json
+1566704171|Renovate Bot|M|/API/package-lock.json
+1566704171|Renovate Bot|M|/API/package.json
+1566732584|Florian Metz|M|/API/package.json
+1566732738|Florian Metz|M|/API/package.json
+1566837638|Renovate Bot|M|/API/package-lock.json
+1566837638|Renovate Bot|M|/API/package.json
+1566855493|Florian Metz|M|/API/devMode.ts
+1566855493|Florian Metz|D|/API/devModeNew.ts
+1566855493|Florian Metz|M|/API/package-lock.json
+1566855493|Florian Metz|M|/API/package.json
+1566855493|Florian Metz|M|/API/src/endpoints.json
+1566855493|Florian Metz|M|/API/src/handlers/v1/appUpdate.ts
+1566855493|Florian Metz|A|/API/src/handlers/v2/betaAccess.ts
+1566855493|Florian Metz|M|/API/src/handlers/v2/credits.ts
+1566855493|Florian Metz|M|/API/src/handlers/v2/langFile.ts
+1566855493|Florian Metz|M|/API/src/index.ts
+1566855493|Florian Metz|M|/API/src/util/debug.ts
+1566855493|Florian Metz|M|/API/src/util/functions/getWebstoreUsers.ts
+1566855493|Florian Metz|A|/API/src/util/functions/updateTranslations.ts
+1566855493|Florian Metz|M|/API/src/util/responseTime.ts
+1566855493|Florian Metz|D|/API/src/util/updateLangFiles.ts
+1566855493|Florian Metz|M|/API/tsconfig.json
+1566855687|Florian Metz|M|/API/package.json
+1566855874|Florian Metz|M|/API/package.json
+1566856269|Florian Metz|M|/API/package-lock.json
+1566856751|Florian Metz|M|/API/src/handlers/v2/langFile.ts
+1566986860|Florian Metz|M|/API/src/util/functions/updateTranslations.ts
+1566998511|Florian Metz|M|/API/src/util/functions/updateTranslations.ts
+1567022153|Renovate Bot|M|/API/package-lock.json
+1567022153|Renovate Bot|M|/API/package.json
+1567074992|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1567077373|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1567143227|Florian Metz|M|/API/devMode.ts
+1567143227|Florian Metz|M|/API/package.json
+1567143227|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1567143227|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1567143632|Florian Metz|M|/API/devMode.ts
+1567144005|Florian Metz|M|/API/devMode.ts
+1567147148|Florian Metz|M|/API/src/index.ts
+1567154529|Florian Metz|M|/API/package.json
+1567154529|Florian Metz|M|/API/src/endpoints.json
+1567154529|Florian Metz|A|/API/src/handlers/v2/changelog.ts
+1567156675|Florian Metz|M|/API/src/handlers/v2/presences.ts
+1567254281|Florian Metz|M|/API/src/index.ts
+1567254281|Florian Metz|M|/API/src/util/functions/updateTranslations.ts
+1567257613|Florian Metz|M|/API/src/index.ts
+1567258436|Florian Metz|M|/API/package.json
+1567262202|Florian Metz|M|/API/package.json
+1567262202|Florian Metz|M|/API/src/db/client.ts
+1567262202|Florian Metz|M|/API/src/index.ts
+1567262202|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1567262202|Florian Metz|M|/API/src/util/functions/updateTranslations.ts
+1567262317|Florian Metz|M|/API/src/index.ts
+1567333305|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1567434133|Bruno Henrique Paiva|M|/API/src/db/client.ts
+1567434133|Bruno Henrique Paiva|A|/API/src/db/types.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/default.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/ping.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/v2/betaAccess.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/v2/credits.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/v2/langFile.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/v2/presences.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/handlers/v2/versions.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/index.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/util/debug.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/util/functions/getWebstoreUsers.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/util/functions/updatePresences.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/util/functions/updateTranslations.ts
+1567434133|Bruno Henrique Paiva|M|/API/src/util/responseTime.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/db/client.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/db/types.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/default.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/ping.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/appUpdate.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/betaAccess.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/credits.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/langFile.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/presences.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/updates.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v1/users.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v2/betaAccess.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v2/changelog.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v2/credits.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v2/langFile.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v2/presences.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/handlers/v2/versions.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/index.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/util/functions/getWebstoreUsers.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/util/functions/updatePresences.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/util/functions/updateTranslations.ts
+1567450141|Bruno Henrique Paiva|M|/API/src/util/responseTime.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/db/client.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/db/types.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/default.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/ping.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/appUpdate.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/betaAccess.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/credits.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/langFile.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/presences.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/updates.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v1/users.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v2/betaAccess.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v2/changelog.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v2/credits.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v2/langFile.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v2/presences.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/handlers/v2/versions.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/index.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/util/functions/getWebstoreUsers.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/util/functions/updatePresences.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/util/functions/updateTranslations.ts
+1567455661|Bruno Henrique Paiva|M|/API/src/util/responseTime.ts
+1567455661|Bruno Henrique Paiva|M|/API/tsconfig.json
+1567457185|Florian Metz|M|/API/src/handlers/v2/credits.ts
+1567457331|Florian Metz|M|/API/src/index.ts
+1567457473|Florian Metz|M|/API/src/index.ts
+1567518654|Renovate Bot|M|/API/package-lock.json
+1567518654|Renovate Bot|M|/API/package.json
+1567594205|Florian Metz|M|/API/src/index.ts
+1567594205|Florian Metz|M|/API/src/util/functions/updateTranslations.ts
+1567594353|Florian Metz|M|/API/package.json
+1567595314|Florian Metz|M|/API/src/handlers/v1/data/updateApp_32bit.xml
+1567595314|Florian Metz|M|/API/src/handlers/v1/data/updateApp_64bit.xml
+1567596097|Florian Metz|M|/API/src/index.ts
+1567712474|Florian Metz|M|/API/src/handlers/v1/data/updateApp_32bit.xml
+1567712474|Florian Metz|M|/API/src/handlers/v1/data/updateApp_64bit.xml
+1567767716|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1568062419|Florian Metz|M|/API/package-lock.json
+1568062419|Florian Metz|M|/API/package.json
+1568062419|Florian Metz|M|/API/src/handlers/v1/appUpdate.ts
+1568062419|Florian Metz|A|/API/src/handlers/v1/data/updateApp.xml
+1568062419|Florian Metz|D|/API/src/handlers/v1/data/updateApp_32bit.xml
+1568062419|Florian Metz|D|/API/src/handlers/v1/data/updateApp_64bit.xml
+1568062419|Florian Metz|M|/API/src/index.ts
+1568062419|Florian Metz|M|/API/src/util/functions/getWebstoreUsers.ts
+1568062444|Renovate Bot|M|/API/package.json
+1568106996|Florian Metz|M|/API/src/handlers/v1/data/updateApp.xml
+1568154578|Renovate Bot|M|/API/package-lock.json
+1568154578|Renovate Bot|M|/API/package.json
+1568925408|Renovate Bot|M|/API/package-lock.json
+1568925408|Renovate Bot|M|/API/package.json
+1569268028|Renovate Bot|M|/API/package-lock.json
+1569268028|Renovate Bot|M|/API/package.json
+1569602779|Renovate Bot|M|/API/package-lock.json
+1569602779|Renovate Bot|M|/API/package.json
+1569757960|Renovate Bot|M|/API/package-lock.json
+1569757960|Renovate Bot|M|/API/package.json
+1569890127|Renovate Bot|M|/API/package-lock.json
+1569890127|Renovate Bot|M|/API/package.json
+1570109997|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1570143222|Renovate Bot|M|/API/package-lock.json
+1570143222|Renovate Bot|M|/API/package.json
+1570144946|Florian Metz|M|/API/src/index.ts
+1570144946|Florian Metz|M|/API/src/util/functions/getWebstoreUsers.ts
+1570144946|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1570145681|Renovate Bot|M|/API/package-lock.json
+1570145681|Renovate Bot|M|/API/package.json
+1570244632|Florian Metz|M|/API/src/index.ts
+1570244826|Florian Metz|M|/API/src/index.ts
+1570244826|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1570362374|Renovate Bot|M|/API/package-lock.json
+1570362374|Renovate Bot|M|/API/package.json
+1570498512|Renovate Bot|M|/API/package-lock.json
+1570498512|Renovate Bot|M|/API/package.json
+1570615974|dependabot-preview[bot]|M|/API/package-lock.json
+1570615974|dependabot-preview[bot]|M|/API/package.json
+1570616075|dependabot-preview[bot]|M|/API/package-lock.json
+1570616075|dependabot-preview[bot]|M|/API/package.json
+1570616331|dependabot-preview[bot]|M|/API/package-lock.json
+1570616331|dependabot-preview[bot]|M|/API/package.json
+1570616575|dependabot-preview[bot]|M|/API/package-lock.json
+1570616575|dependabot-preview[bot]|M|/API/package.json
+1570645792|Florian Metz|M|/API/src/handlers/v1/data/updateApp.xml
+1570645792|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1570646940|Florian Metz|M|/API/src/index.ts
+1570646940|Florian Metz|M|/API/src/util/functions/updatePresences.ts
+1570653688|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1570680551|dependabot-preview[bot]|M|/API/package-lock.json
+1570680551|dependabot-preview[bot]|M|/API/package.json
+1570689188|Florian Metz|D|/API/renovate.json
+1570775257|dependabot-preview[bot]|M|/API/package-lock.json
+1570775257|dependabot-preview[bot]|M|/API/package.json
+1570919291|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1570919460|Florian Metz|M|/API/src/handlers/v1/data/updateApp.xml
+1571034787|dependabot-preview[bot]|M|/API/package-lock.json
+1571034787|dependabot-preview[bot]|M|/API/package.json
+1571249663|dependabot-preview[bot]|M|/API/package-lock.json
+1571249663|dependabot-preview[bot]|M|/API/package.json
+1571249688|dependabot-preview[bot]|M|/API/package-lock.json
+1571249688|dependabot-preview[bot]|M|/API/package.json
+1571258235|Florian Metz|M|/API/src/handlers/v1/data/updates.json
+1571416362|dependabot-preview[bot]|M|/API/package-lock.json
+1571416362|dependabot-preview[bot]|M|/API/package.json
+1571416651|dependabot-preview[bot]|M|/API/package-lock.json
+1571416651|dependabot-preview[bot]|M|/API/package.json
+1571494955|Florian Metz|M|/API/devMode.ts
+1571494955|Florian Metz|M|/API/src/db/client.ts
+1571494955|Florian Metz|M|/API/src/handlers/v1/appUpdate.ts
+1571494955|Florian Metz|M|/API/src/handlers/v1/betaAccess.ts
+1571494955|Florian Metz|M|/API/src/handlers/v1/credits.ts
+1571494955|Florian Metz|M|/API/src/handlers/v1/langFile.ts
+1571494955|Florian Metz|M|/API/src/handlers/v1/presences.ts
+1571494955|Florian Metz|M|/API/src/handlers/v1/users.ts
+1571494955|Florian Metz|M|/API/src/index.ts
+1571494955|Florian Metz|M|/API/src/util/functions/getWebstoreUsers.ts
+1572575370|Florian Metz|A|/API/.github/workflows/deploy.yml
+1572575370|Florian Metz|M|/API/.gitignore
+1572575370|Florian Metz|D|/API/devMode.ts
+1572575370|Florian Metz|D|/API/package-lock.json
+1572575370|Florian Metz|M|/API/package.json
+1572575370|Florian Metz|M|/API/src/db/client.ts
+1572575370|Florian Metz|D|/API/src/db/types.ts
+1572575370|Florian Metz|M|/API/src/endpoints.json
+1572575370|Florian Metz|A|/API/src/endpoints/default/appUpdate.ts
+1572575370|Florian Metz|A|/API/src/endpoints/default/data/appUpdate.xml
+1572575370|Florian Metz|A|/API/src/endpoints/default/default.ts
+1572575370|Florian Metz|A|/API/src/endpoints/default/ffUpdate.ts
+1572575370|Florian Metz|A|/API/src/endpoints/default/ping.ts
+1572575370|Florian Metz|A|/API/src/endpoints/default/users.ts
+1572575370|Florian Metz|A|/API/src/endpoints/v2/betaAccess.ts
+1572575370|Florian Metz|A|/API/src/endpoints/v2/changelog.ts
+1572575370|Florian Metz|A|/API/src/endpoints/v2/credits.ts
+1572575370|Florian Metz|A|/API/src/endpoints/v2/langFile.ts
+1572575370|Florian Metz|A|/API/src/endpoints/v2/presences.ts
+1572575370|Florian Metz|A|/API/src/endpoints/v2/versions.ts
+1572575370|Florian Metz|D|/API/src/handlers/default.ts
+1572575370|Florian Metz|D|/API/src/handlers/ping.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/appUpdate.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/betaAccess.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/credits.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/data/updateApp.xml
+1572575370|Florian Metz|D|/API/src/handlers/v1/data/updates.json
+1572575370|Florian Metz|D|/API/src/handlers/v1/langFile.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/presences.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/updates.ts
+1572575370|Florian Metz|D|/API/src/handlers/v1/users.ts
+1572575370|Florian Metz|D|/API/src/handlers/v2/betaAccess.ts
+1572575370|Florian Metz|D|/API/src/handlers/v2/changelog.ts
+1572575370|Florian Metz|D|/API/src/handlers/v2/credits.ts
+1572575370|Florian Metz|D|/API/src/handlers/v2/langFile.ts
+1572575370|Florian Metz|D|/API/src/handlers/v2/presences.ts
+1572575370|Florian Metz|D|/API/src/handlers/v2/versions.ts
+1572575370|Florian Metz|M|/API/src/index.ts
+1572575370|Florian Metz|M|/API/src/util/debug.ts
+1572575370|Florian Metz|D|/API/src/util/functions/getWebstoreUsers.ts
+1572575370|Florian Metz|A|/API/src/util/functions/loadEndpoints.ts
+1572575370|Florian Metz|D|/API/src/util/functions/updatePresences.ts
+1572575370|Florian Metz|A|/API/src/util/functions/updateResponseTime.ts
+1572575370|Florian Metz|D|/API/src/util/functions/updateTranslations.ts
+1572575370|Florian Metz|D|/API/src/util/responseTime.ts
+1572575370|Florian Metz|M|/API/tsconfig.json
+1572575370|Florian Metz|A|/API/yarn.lock
+1572575653|dependabot-preview[bot]|M|/API/package.json
+1572575653|dependabot-preview[bot]|M|/API/yarn.lock
+1572576251|Florian Metz|M|/API/src/util/functions/loadEndpoints.ts
+1572576632|Florian Metz|M|/API/.github/workflows/deploy.yml
+1572576857|Florian Metz|M|/API/package.json
+1572578321|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1572580270|Florian Metz|M|/API/src/index.ts
+1572580270|Florian Metz|D|/API/src/util/functions/updateResponseTime.ts
+1572580270|Florian Metz|A|/API/src/util/updateResponseTime.ts
+1572651592|Florian Metz|M|/API/.github/workflows/deploy.yml
+1572651592|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1572723853|Florian Metz|M|/API/src/index.ts
+1572723853|Florian Metz|M|/API/src/util/debug.ts
+1572723853|Florian Metz|M|/API/src/util/functions/loadEndpoints.ts
+1572723853|Florian Metz|M|/API/src/util/updateResponseTime.ts
+1572797407|Florian Metz|M|/API/src/endpoints.json
+1572797407|Florian Metz|A|/API/src/endpoints/v2/science.ts
+1572797407|Florian Metz|M|/API/src/index.ts
+1572797407|Florian Metz|M|/API/src/util/functions/loadEndpoints.ts
+1572799409|Florian Metz|M|/API/src/endpoints/v2/science.ts
+1573215125|Fruxh|M|/API/yarn.lock
+1573332310|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1573459413|dependabot-preview[bot]|M|/API/package.json
+1573459413|dependabot-preview[bot]|M|/API/yarn.lock
+1573538440|dependabot-preview[bot]|M|/API/package.json
+1573538440|dependabot-preview[bot]|M|/API/yarn.lock
+1573551828|dependabot-preview[bot]|M|/API/package.json
+1573551828|dependabot-preview[bot]|M|/API/yarn.lock
+1573873412|Florian Metz|M|/API/package.json
+1573873412|Florian Metz|M|/API/src/endpoints.json
+1573873412|Florian Metz|A|/API/src/endpoints/v2/presenceUsage.ts
+1573873412|Florian Metz|M|/API/yarn.lock
+1573874442|Florian Metz|M|/API/src/endpoints.json
+1573874442|Florian Metz|A|/API/src/endpoints/v2/usage.ts
+1574057158|dependabot-preview[bot]|M|/API/yarn.lock
+1574143436|dependabot-preview[bot]|M|/API/package.json
+1574143436|dependabot-preview[bot]|M|/API/yarn.lock
+1575508594|Abdulbaki Dursun|M|/API/src/endpoints/v2/presences.ts
+1575525283|dependabot-preview[bot]|M|/API/package.json
+1575525283|dependabot-preview[bot]|M|/API/yarn.lock
+1575577567|dependabot-preview[bot]|M|/API/package.json
+1575577567|dependabot-preview[bot]|M|/API/yarn.lock
+1575577570|dependabot-preview[bot]|M|/API/package.json
+1575577570|dependabot-preview[bot]|M|/API/yarn.lock
+1575579408|Abdulbaki Dursun|M|/API/src/endpoints/v2/presences.ts
+1575611932|dependabot-preview[bot]|M|/API/package.json
+1575611932|dependabot-preview[bot]|M|/API/yarn.lock
+1575722222|Abdulbaki Dursun|M|/API/src/endpoints/v2/presences.ts
+1575727166|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1575727443|Florian Metz|M|/API/package.json
+1575913272|Fruxh|M|/API/yarn.lock
+1576071233|dependabot-preview[bot]|M|/API/package.json
+1576071233|dependabot-preview[bot]|M|/API/yarn.lock
+1579286543|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1579286543|Florian Metz|M|/API/src/util/functions/loadEndpoints.ts
+1579301461|dependabot-preview[bot]|M|/API/package.json
+1579301461|dependabot-preview[bot]|M|/API/yarn.lock
+1579301616|dependabot-preview[bot]|M|/API/package.json
+1579301616|dependabot-preview[bot]|M|/API/yarn.lock
+1579526572|Florian Metz|M|/API/package.json
+1579526572|Florian Metz|M|/API/src/index.ts
+1579526572|Florian Metz|M|/API/yarn.lock
+1579537695|dependabot-preview[bot]|M|/API/package.json
+1579537695|dependabot-preview[bot]|M|/API/yarn.lock
+1579669696|dependabot-preview[bot]|M|/API/package.json
+1579669696|dependabot-preview[bot]|M|/API/yarn.lock
+1579895792|Florian Metz|M|/API/src/endpoints/default/appUpdate.ts
+1579895792|Florian Metz|M|/API/src/endpoints/default/data/appUpdate.xml
+1579895975|Florian Metz|M|/API/src/endpoints/default/data/appUpdate.xml
+1579955174|Florian Metz|M|/API/src/index.ts
+1579955509|Florian Metz|M|/API/src/index.ts
+1579955684|Florian Metz|M|/API/src/index.ts
+1580164543|dependabot-preview[bot]|M|/API/package.json
+1580164543|dependabot-preview[bot]|M|/API/yarn.lock
+1581368471|dependabot-preview[bot]|M|/API/package.json
+1581368471|dependabot-preview[bot]|M|/API/yarn.lock
+1581511573|dependabot-preview[bot]|M|/API/package.json
+1581511573|dependabot-preview[bot]|M|/API/yarn.lock
+1581708127|Florian Metz|M|/API/src/index.ts
+1581725086|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581725086|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581725086|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581725086|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581725086|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581725086|Florian Metz|M|/API/src/index.ts
+1581725086|Florian Metz|A|/API/src/util/CacheManager.ts
+1581729267|Florian Metz|M|/API/.gitignore
+1581729267|Florian Metz|M|/API/src/index.ts
+1581729267|Florian Metz|M|/API/src/util/CacheManager.ts
+1581730899|Florian Metz|M|/API/.gitignore
+1581730899|Florian Metz|M|/API/package.json
+1581730899|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581730899|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581730899|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581730899|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581730899|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581730899|Florian Metz|M|/API/src/util/CacheManager.ts
+1581730899|Florian Metz|M|/API/yarn.lock
+1581731292|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581731292|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581731292|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581731292|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581731292|Florian Metz|M|/API/src/endpoints/v2/usage.ts
+1581731292|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581731771|Florian Metz|M|/API/src/endpoints/default/default.ts
+1581731771|Florian Metz|M|/API/src/endpoints/default/ping.ts
+1581731771|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581731771|Florian Metz|M|/API/src/endpoints/v2/usage.ts
+1581731771|Florian Metz|M|/API/src/index.ts
+1581731997|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581731997|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581731997|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581731997|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581731997|Florian Metz|M|/API/src/index.ts
+1581732422|Florian Metz|M|/API/src/index.ts
+1581806372|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581806372|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581806372|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581806372|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581806372|Florian Metz|M|/API/src/endpoints/v2/usage.ts
+1581806372|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581806372|Florian Metz|M|/API/src/index.ts
+1581806372|Florian Metz|M|/API/src/util/CacheManager.ts
+1581806492|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581809054|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581809054|Florian Metz|M|/API/src/index.ts
+1581813642|Florian Metz|M|/API/src/index.ts
+1581815318|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581820782|Florian Metz|M|/API/package.json
+1581820782|Florian Metz|M|/API/src/endpoints.json
+1581820782|Florian Metz|M|/API/src/endpoints/default/appUpdate.ts
+1581820782|Florian Metz|M|/API/src/endpoints/default/ffUpdate.ts
+1581820782|Florian Metz|D|/API/src/endpoints/default/users.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/science.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/usage.ts
+1581820782|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581820782|Florian Metz|M|/API/src/index.ts
+1581820782|Florian Metz|M|/API/src/util/CacheManager.ts
+1581820782|Florian Metz|M|/API/yarn.lock
+1581821722|Florian Metz|M|/API/src/util/CacheManager.ts
+1581826651|Florian Metz|M|/API/src/util/CacheManager.ts
+1581831965|Florian Metz|M|/API/package.json
+1581831965|Florian Metz|M|/API/src/db/client.ts
+1581831965|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581831965|Florian Metz|M|/API/src/index.ts
+1581831965|Florian Metz|M|/API/src/util/CacheManager.ts
+1581831965|Florian Metz|A|/API/src/util/cluster/master.ts
+1581831965|Florian Metz|A|/API/src/util/cluster/worker.ts
+1581831965|Florian Metz|M|/API/yarn.lock
+1581834542|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581834548|Florian Metz|M|/API/src/util/cluster/master.ts
+1581834869|Florian Metz|M|/API/src/util/cluster/master.ts
+1581836083|Florian Metz|M|/API/src/endpoints/default/appUpdate.ts
+1581836083|Florian Metz|M|/API/src/endpoints/v2/changelog.ts
+1581836083|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1581836083|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581836083|Florian Metz|M|/API/src/util/CacheManager.ts
+1581840819|Florian Metz|M|/API/package.json
+1581840819|Florian Metz|M|/API/src/endpoints/default/appUpdate.ts
+1581840819|Florian Metz|M|/API/src/endpoints/default/default.ts
+1581840819|Florian Metz|M|/API/src/endpoints/default/ffUpdate.ts
+1581840819|Florian Metz|M|/API/src/endpoints/default/ping.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/betaAccess.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/changelog.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/presenceUsage.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/science.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/usage.ts
+1581840819|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1581840819|Florian Metz|M|/API/src/util/cluster/worker.ts
+1581840819|Florian Metz|M|/API/yarn.lock
+1581848693|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1581853063|Florian Metz|M|/API/src/endpoints/v2/langFile.ts
+1581854871|TheDrop|M|/API/src/endpoints.json
+1581854871|TheDrop|A|/API/src/endpoints/v2/addBetaUser.ts
+1581855599|Bas950|M|/API/src/endpoints/v2/langFile.ts
+1581861192|TheDrop|M|/API/src/endpoints/v2/addBetaUser.ts
+1581861677|TheDrop|M|/API/src/endpoints/v2/addBetaUser.ts
+1581873571|Florian Metz|M|/API/src/util/CacheManager.ts
+1582059439|dependabot-preview[bot]|M|/API/package.json
+1582059439|dependabot-preview[bot]|M|/API/yarn.lock
+1582059579|dependabot-preview[bot]|M|/API/package.json
+1582059579|dependabot-preview[bot]|M|/API/yarn.lock
+1582141642|dependabot-preview[bot]|M|/API/package.json
+1582141642|dependabot-preview[bot]|M|/API/yarn.lock
+1582193365|TheDrop|M|/API/src/endpoints.json
+1582193365|TheDrop|A|/API/src/endpoints/v2/discordUsers.ts
+1582193365|TheDrop|M|/API/src/util/CacheManager.ts
+1582238231|Florian Metz|M|/API/src/endpoints/default/ffUpdate.ts
+1582238231|Florian Metz|M|/API/src/endpoints/v2/changelog.ts
+1582238231|Florian Metz|M|/API/src/endpoints/v2/credits.ts
+1582238231|Florian Metz|M|/API/src/endpoints/v2/presences.ts
+1582238231|Florian Metz|M|/API/src/endpoints/v2/versions.ts
+1582238231|Florian Metz|M|/API/src/util/CacheManager.ts
+1582238975|dependabot-preview[bot]|M|/API/package.json
+1582238975|dependabot-preview[bot]|M|/API/yarn.lock
+1582239610|TheDrop|M|/API/src/endpoints/v2/discordUsers.ts
+1582239610|TheDrop|M|/API/src/util/CacheManager.ts
+1582240174|TheDrop|M|/API/src/endpoints/v2/discordUsers.ts
+1582240174|TheDrop|M|/API/src/util/CacheManager.ts
+1582240259|TheDrop|M|/API/src/endpoints/v2/discordUsers.ts
+1582240259|TheDrop|M|/API/src/util/CacheManager.ts
+1582296472|Florian Metz|M|/API/src/util/CacheManager.ts
+1582376280|Florian Metz|M|/API/src/util/CacheManager.ts
+1582376430|Florian Metz|M|/API/src/util/CacheManager.ts
+1582416892|Florian Metz|M|/API/src/util/CacheManager.ts
+1582587691|dependabot-preview[bot]|M|/API/package.json
+1582587691|dependabot-preview[bot]|M|/API/yarn.lock

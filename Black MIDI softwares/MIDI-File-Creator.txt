@@ -1,0 +1,20 @@
+1525715218|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/.gitattributes
+1525715218|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/.gitignore
+1525715218|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/LICENSE
+1525715218|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/README.md
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator.sln
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/App.config
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/MIDI File Creator.csproj
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/MainForm.Designer.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/MainForm.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/MainForm.resx
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/OptionsForm.Designer.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/OptionsForm.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/OptionsForm.resx
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/Program.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/Properties/AssemblyInfo.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/Properties/Resources.Designer.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/Properties/Resources.resx
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/Properties/Settings.Designer.cs
+1525715264|VirtuosicAI|A|/VirtuosicAI/MIDI-File-Creator/MIDI File Creator/Properties/Settings.settings
+1525715316|VirtuosicAI|M|/VirtuosicAI/MIDI-File-Creator/README.md

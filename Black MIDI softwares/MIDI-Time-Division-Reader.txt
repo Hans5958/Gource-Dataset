@@ -1,0 +1,18 @@
+1525714413|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/.gitattributes
+1525714413|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/.gitignore
+1525714413|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/LICENSE
+1525714413|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/README.md
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader.sln
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/App.config
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/MIDI Time Division Reader.csproj
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/MainForm.Designer.cs
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/MainForm.cs
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/MainForm.resx
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/Program.cs
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/Properties/AssemblyInfo.cs
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/Properties/Resources.Designer.cs
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/Properties/Resources.resx
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/Properties/Settings.Designer.cs
+1525714479|VirtuosicAI|A|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/Properties/Settings.settings
+1525714556|VirtuosicAI|M|/VirtuosicAI/MIDI-Time-Division-Reader/README.md
+1528642009|VirtuosicAI|M|/VirtuosicAI/MIDI-Time-Division-Reader/MIDI Time Division Reader/MainForm.cs

@@ -1,0 +1,769 @@
+1546458097|Timeraa|A|/Discord-Bot/.gitignore
+1546458097|Timeraa|A|/Discord-Bot/package.json
+1546458097|Timeraa|A|/Discord-Bot/src/commands/ping.js
+1546458097|Timeraa|A|/Discord-Bot/src/commands/reload.js
+1546458097|Timeraa|A|/Discord-Bot/src/config.json
+1546458097|Timeraa|A|/Discord-Bot/src/database/db.js
+1546458097|Timeraa|A|/Discord-Bot/src/database/functions.js
+1546458097|Timeraa|A|/Discord-Bot/src/events/message.js
+1546458097|Timeraa|A|/Discord-Bot/src/events/ready.js
+1546458097|Timeraa|A|/Discord-Bot/src/index.js
+1546458097|Timeraa|A|/Discord-Bot/src/package-lock.json
+1546458097|Timeraa|A|/Discord-Bot/src/package.json
+1546458097|Timeraa|A|/Discord-Bot/src/poeditor.js
+1546458097|Timeraa|A|/Discord-Bot/src/test.js
+1546458097|Timeraa|A|/Discord-Bot/src/updates.json
+1546458097|Timeraa|A|/Discord-Bot/src/util/credits.js
+1546458097|Timeraa|A|/Discord-Bot/src/util/eventLoader.js
+1546458411|Timeraa|M|/Discord-Bot/package.json
+1546460591|Timeraa|D|/Discord-Bot/src/commands/ping.js
+1546460591|Timeraa|D|/Discord-Bot/src/commands/reload.js
+1546460591|Timeraa|D|/Discord-Bot/src/database/db.js
+1546460591|Timeraa|D|/Discord-Bot/src/database/functions.js
+1546460591|Timeraa|D|/Discord-Bot/src/events/message.js
+1546460591|Timeraa|D|/Discord-Bot/src/events/ready.js
+1546460591|Timeraa|M|/Discord-Bot/src/index.js
+1546460591|Timeraa|D|/Discord-Bot/src/util/credits.js
+1546460591|Timeraa|D|/Discord-Bot/src/util/eventLoader.js
+1546472355|Timeraa|A|/Discord-Bot/src/commands/assign.js
+1546472355|Timeraa|M|/Discord-Bot/src/commands/ping.js
+1546472355|Timeraa|M|/Discord-Bot/src/commands/reload.js
+1546472355|Timeraa|A|/Discord-Bot/src/commands/todo.js
+1546472355|Timeraa|A|/Discord-Bot/src/commands/unassign.js
+1546472355|Timeraa|M|/Discord-Bot/src/config.json
+1546472355|Timeraa|D|/Discord-Bot/src/test.js
+1546504058|Timeraa|A|/Discord-Bot/src/commands/clearwarnings.js
+1546504058|Timeraa|A|/Discord-Bot/src/commands/warn.js
+1546504058|Timeraa|A|/Discord-Bot/src/commands/warns.js
+1546504058|Timeraa|M|/Discord-Bot/src/events/message.js
+1546974141|Fruxh|M|/Discord-Bot/src/util/credits.js
+1547494953|Fruxh|M|/Discord-Bot/src/util/credits.js
+1547567535|Paz|M|/Discord-Bot/src/package-lock.json
+1547567535|Paz|M|/Discord-Bot/src/package.json
+1547567535|Paz|M|/Discord-Bot/src/util/credits.js
+1547568004|Paz|M|/Discord-Bot/src/util/credits.js
+1547570785|Paz|M|/Discord-Bot/src/index.js
+1547570785|Paz|M|/Discord-Bot/src/package-lock.json
+1547570785|Paz|M|/Discord-Bot/src/package.json
+1547570785|Paz|M|/Discord-Bot/src/util/credits.js
+1547572704|Paz|A|/Discord-Bot/src/database/db.js
+1547572704|Paz|A|/Discord-Bot/src/database/functions.js
+1547572704|Paz|A|/Discord-Bot/src/events/ready.js
+1547572704|Paz|M|/Discord-Bot/src/index.js
+1547572704|Paz|M|/Discord-Bot/src/util/credits.js
+1547572704|Paz|A|/Discord-Bot/src/util/eventLoader.js
+1547848330|Timeraa|M|/Discord-Bot/src/commands/clearwarnings.js
+1547848330|Timeraa|M|/Discord-Bot/src/commands/warns.js
+1547848330|Timeraa|A|/Discord-Bot/src/events/error.js
+1547848330|Timeraa|A|/Discord-Bot/src/events/guildMemberAdd.js
+1547848330|Timeraa|M|/Discord-Bot/src/util/eventLoader.js
+1548005725|Timeraa|A|/Discord-Bot/package-lock.json
+1548005725|Timeraa|M|/Discord-Bot/package.json
+1548005725|Timeraa|A|/Discord-Bot/src/commands/embed.js
+1548007615|Timeraa|M|/Discord-Bot/src/package-lock.json
+1548007615|Timeraa|M|/Discord-Bot/src/package.json
+1548190425|Timeraa|A|/Discord-Bot/src/commands/divorce.js
+1548190425|Timeraa|A|/Discord-Bot/src/commands/marry.js
+1548557125|Timeraa|M|/Discord-Bot/src/index.js
+1549839399|Fruxh|A|/Discord-Bot/src/commands/givev2.js
+1549839589|Fruxh|M|/Discord-Bot/src/commands/givev2.js
+1550096686|Timeraa|M|/Discord-Bot/src/commands/assign.js
+1550096686|Timeraa|M|/Discord-Bot/src/commands/unassign.js
+1550218943|Finn|A|/Discord-Bot/src/events/owo_counter.js
+1550258574|Fruxh|M|/Discord-Bot/src/commands/assign.js
+1550258795|Fruxh|M|/Discord-Bot/src/commands/unassign.js
+1550259161|Timeraa|M|/Discord-Bot/src/index.js
+1550269884|Timeraa|A|/Discord-Bot/src/commands/owo.js
+1550269884|Timeraa|M|/Discord-Bot/src/events/message.js
+1550269884|Timeraa|D|/Discord-Bot/src/events/owo_counter.js
+1550269884|Timeraa|A|/Discord-Bot/src/util/owo_counter.js
+1550270089|Timeraa|M|/Discord-Bot/src/commands/owo.js
+1550275621|Fruxh|A|/Discord-Bot/src/commands/html5.js
+1550275867|Fruxh|D|/Discord-Bot/src/commands/html5.js
+1550315686|Paz|M|/Discord-Bot/src/commands/assign.js
+1550530502|Timeraa|M|/Discord-Bot/src/util/credits.js
+1550532502|Timeraa|A|/Discord-Bot/src/assignRoles.json
+1550532502|Timeraa|M|/Discord-Bot/src/commands/assign.js
+1550532502|Timeraa|M|/Discord-Bot/src/commands/unassign.js
+1550532573|Timeraa|D|/Discord-Bot/src/commands/givev2.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/assign.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/clearwarnings.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/divorce.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/marry.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/owo.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/ping.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/reload.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/todo.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/unassign.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/warn.js
+1550872708|Timeraa|M|/Discord-Bot/src/commands/warns.js
+1550872708|Timeraa|M|/Discord-Bot/src/config.json
+1550872708|Timeraa|M|/Discord-Bot/src/events/message.js
+1550872708|Timeraa|A|/Discord-Bot/src/events/messageDelete.js
+1550872708|Timeraa|A|/Discord-Bot/src/events/messageUpdate.js
+1550872708|Timeraa|M|/Discord-Bot/src/util/eventLoader.js
+1551457760|Timeraa|M|/Discord-Bot/src/assignRoles.json
+1552056493|Finn|A|/Discord-Bot/LICENSE
+1553998362|Timeraa|M|/Discord-Bot/src/assignRoles.json
+1555194358|Fruxh|A|/Discord-Bot/.discord/green_circle.svg
+1555194358|Fruxh|A|/Discord-Bot/.discord/red_circle.svg
+1555194358|Fruxh|A|/Discord-Bot/.discord/yellow_circle.svg
+1555194530|Fruxh|A|/Discord-Bot/.discord/green_circle.png
+1555194530|Fruxh|D|/Discord-Bot/.discord/green_circle.svg
+1555194530|Fruxh|A|/Discord-Bot/.discord/red_circle.png
+1555194530|Fruxh|D|/Discord-Bot/.discord/red_circle.svg
+1555194530|Fruxh|A|/Discord-Bot/.discord/yellow_circle.png
+1555194530|Fruxh|D|/Discord-Bot/.discord/yellow_circle.svg
+1555202544|Fruxh|M|/Discord-Bot/src/util/credits.js
+1555218155|Timeraa|M|/Discord-Bot/package-lock.json
+1555218155|Timeraa|M|/Discord-Bot/package.json
+1555218155|Timeraa|M|/Discord-Bot/src/config.json
+1555218155|Timeraa|M|/Discord-Bot/src/events/message.js
+1555218155|Timeraa|M|/Discord-Bot/src/events/messageDelete.js
+1555218155|Timeraa|A|/Discord-Bot/src/events/messageReactionAdd.js
+1555218155|Timeraa|M|/Discord-Bot/src/events/messageUpdate.js
+1555218155|Timeraa|A|/Discord-Bot/src/events/presenceUpdate.js
+1555218155|Timeraa|M|/Discord-Bot/src/events/ready.js
+1555218155|Timeraa|M|/Discord-Bot/src/util/eventLoader.js
+1555218155|Timeraa|A|/Discord-Bot/src/util/supportHandler.js
+1555218560|Timeraa|M|/Discord-Bot/src/database/db.js
+1555218943|Timeraa|M|/Discord-Bot/src/config.json
+1555219700|Timeraa|M|/Discord-Bot/package-lock.json
+1555219700|Timeraa|M|/Discord-Bot/package.json
+1555219700|Timeraa|M|/Discord-Bot/src/package-lock.json
+1555219700|Timeraa|M|/Discord-Bot/src/package.json
+1555325954|Timeraa|M|/Discord-Bot/src/database/db.js
+1555325974|Timeraa|M|/Discord-Bot/src/util/supportHandler.js
+1555330295|Timeraa|M|/Discord-Bot/src/assignRoles.json
+1555330330|Timeraa|M|/Discord-Bot/src/commands/ping.js
+1555331238|Timeraa|D|/Discord-Bot/src/commands/todo.js
+1555331238|Timeraa|D|/Discord-Bot/src/poeditor.js
+1555331238|Timeraa|D|/Discord-Bot/src/updates.json
+1555331497|Timeraa|D|/Discord-Bot/package-lock.json
+1555333175|Timeraa|M|/Discord-Bot/package.json
+1555333175|Timeraa|M|/Discord-Bot/src/package-lock.json
+1555333175|Timeraa|M|/Discord-Bot/src/package.json
+1555333250|Timeraa|D|/Discord-Bot/src/commands/reload.js
+1555333250|Timeraa|M|/Discord-Bot/src/index.js
+1555333281|Timeraa|M|/Discord-Bot/src/commands/embed.js
+1555333726|Timeraa|M|/Discord-Bot/src/package-lock.json
+1555333726|Timeraa|M|/Discord-Bot/src/package.json
+1555460542|Timeraa|M|/Discord-Bot/src/commands/ping.js
+1555461029|Timeraa|D|/Discord-Bot/src/events/presenceUpdate.js
+1555461029|Timeraa|M|/Discord-Bot/src/util/eventLoader.js
+1555876890|Timeraa|M|/Discord-Bot/src/commands/ping.js
+1556919128|Timeraa|M|/Discord-Bot/src/util/credits.js
+1558896624|Voknehzyr|A|/Discord-Bot/package-lock.json
+1558896624|Voknehzyr|M|/Discord-Bot/package.json
+1558896624|Voknehzyr|M|/Discord-Bot/src/events/messageDelete.js
+1558896624|Voknehzyr|M|/Discord-Bot/src/events/messageUpdate.js
+1558897036|Igor Ryzhenkov|M|/Discord-Bot/src/events/messageDelete.js
+1560134971|eviu@github.com|M|/Discord-Bot/src/events/message.js
+1560134971|eviu@github.com|A|/Discord-Bot/src/messageFiltered.json
+1560216698|eviu@github.com|M|/Discord-Bot/src/events/message.js
+1560216698|eviu@github.com|M|/Discord-Bot/src/messageFiltered.json
+1560217827|eviu@github.com|M|/Discord-Bot/src/messageFiltered.json
+1560219597|eviu@github.com|M|/Discord-Bot/src/events/message.js
+1560219597|eviu@github.com|M|/Discord-Bot/src/messageFiltered.json
+1560225225|eviu@github.com|M|/Discord-Bot/src/events/message.js
+1560225338|eviu@github.com|A|/Discord-Bot/src/commands/mute.js
+1560225338|eviu@github.com|A|/Discord-Bot/src/commands/unmute.js
+1560225604|eviu@github.com|M|/Discord-Bot/src/events/message.js
+1560291389|Timeraa|D|/Discord-Bot/.discord/green_circle.png
+1560291389|Timeraa|D|/Discord-Bot/.discord/red_circle.png
+1560291389|Timeraa|D|/Discord-Bot/.discord/yellow_circle.png
+1560291389|Timeraa|A|/Discord-Bot/package-lock.json
+1560291389|Timeraa|M|/Discord-Bot/package.json
+1560291389|Timeraa|D|/Discord-Bot/src/assignRoles.json
+1560291389|Timeraa|D|/Discord-Bot/src/commands/assign.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/clearwarnings.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/divorce.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/embed.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/marry.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/owo.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/ping.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/unassign.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/warn.js
+1560291389|Timeraa|D|/Discord-Bot/src/commands/warns.js
+1560291389|Timeraa|M|/Discord-Bot/src/config.json
+1560291389|Timeraa|M|/Discord-Bot/src/database/db.js
+1560291389|Timeraa|A|/Discord-Bot/src/database/db.ts
+1560291389|Timeraa|D|/Discord-Bot/src/database/functions.js
+1560291389|Timeraa|D|/Discord-Bot/src/events/error.js
+1560291389|Timeraa|D|/Discord-Bot/src/events/guildMemberAdd.js
+1560291389|Timeraa|A|/Discord-Bot/src/events/invalidated.js
+1560291389|Timeraa|A|/Discord-Bot/src/events/invalidated.ts
+1560291389|Timeraa|M|/Discord-Bot/src/events/message.js
+1560291389|Timeraa|A|/Discord-Bot/src/events/message.ts
+1560291389|Timeraa|D|/Discord-Bot/src/events/messageDelete.js
+1560291389|Timeraa|D|/Discord-Bot/src/events/messageReactionAdd.js
+1560291389|Timeraa|D|/Discord-Bot/src/events/messageUpdate.js
+1560291389|Timeraa|M|/Discord-Bot/src/events/ready.js
+1560291389|Timeraa|A|/Discord-Bot/src/events/ready.ts
+1560291389|Timeraa|M|/Discord-Bot/src/index.js
+1560291389|Timeraa|A|/Discord-Bot/src/index.ts
+1560291389|Timeraa|A|/Discord-Bot/src/modules/assign/assignRoles.json
+1560291389|Timeraa|A|/Discord-Bot/src/modules/assign/commands/assign.js
+1560291389|Timeraa|A|/Discord-Bot/src/modules/assign/commands/assign.ts
+1560291389|Timeraa|A|/Discord-Bot/src/modules/assign/commands/unassign.js
+1560291389|Timeraa|A|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1560291389|Timeraa|A|/Discord-Bot/src/modules/credits/creditRoles.json
+1560291389|Timeraa|A|/Discord-Bot/src/modules/credits/index.js
+1560291389|Timeraa|A|/Discord-Bot/src/modules/credits/index.ts
+1560291389|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/mute.js
+1560291389|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/mute.ts
+1560291389|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/warn.js
+1560291389|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1560291389|Timeraa|A|/Discord-Bot/src/modules/ping/commands/ping.js
+1560291389|Timeraa|A|/Discord-Bot/src/modules/ping/commands/ping.ts
+1560291389|Timeraa|M|/Discord-Bot/src/package-lock.json
+1560291389|Timeraa|M|/Discord-Bot/src/package.json
+1560291389|Timeraa|A|/Discord-Bot/src/roles.json
+1560291389|Timeraa|D|/Discord-Bot/src/util/credits.js
+1560291389|Timeraa|A|/Discord-Bot/src/util/debug.js
+1560291389|Timeraa|A|/Discord-Bot/src/util/debug.ts
+1560291389|Timeraa|D|/Discord-Bot/src/util/eventLoader.js
+1560291389|Timeraa|A|/Discord-Bot/src/util/moduleLoader.js
+1560291389|Timeraa|A|/Discord-Bot/src/util/moduleLoader.ts
+1560291389|Timeraa|D|/Discord-Bot/src/util/owo_counter.js
+1560291389|Timeraa|D|/Discord-Bot/src/util/supportHandler.js
+1560291389|Timeraa|A|/Discord-Bot/tsconfig.json
+1560291389|Timeraa|A|/Discord-Bot/types/mysql2.d.ts
+1560296407|Timeraa|M|/Discord-Bot/src/util/credits.js
+1560296482|Timeraa|M|/Discord-Bot/src/events/ready.js
+1560296482|Timeraa|A|/Discord-Bot/src/util/betaAccessManager.js
+1560376018|Evil|M|/Discord-Bot/src/commands/unmute.js
+1560480517|eviu@github.com|M|/Discord-Bot/src/commands/mute.js
+1560480517|eviu@github.com|M|/Discord-Bot/src/commands/unmute.js
+1560480517|eviu@github.com|M|/Discord-Bot/src/config.json
+1560480517|eviu@github.com|M|/Discord-Bot/src/events/message.js
+1560480517|eviu@github.com|M|/Discord-Bot/src/messageFiltered.json
+1560480528|eviu@github.com|M|/Discord-Bot/src/events/guildMemberAdd.js
+1561665796|Timeraa|M|/Discord-Bot/.gitignore
+1561665796|Timeraa|A|/Discord-Bot/LICENSE
+1561665796|Timeraa|A|/Discord-Bot/devMode.js
+1561665796|Timeraa|A|/Discord-Bot/devMode.ts
+1561665796|Timeraa|M|/Discord-Bot/package-lock.json
+1561665796|Timeraa|M|/Discord-Bot/package.json
+1561665796|Timeraa|M|/Discord-Bot/src/config.json
+1561665796|Timeraa|D|/Discord-Bot/src/database/db.js
+1561665796|Timeraa|M|/Discord-Bot/src/database/db.ts
+1561665796|Timeraa|D|/Discord-Bot/src/events/invalidated.js
+1561665796|Timeraa|M|/Discord-Bot/src/events/invalidated.ts
+1561665796|Timeraa|D|/Discord-Bot/src/events/message.js
+1561665796|Timeraa|D|/Discord-Bot/src/events/ready.js
+1561665796|Timeraa|M|/Discord-Bot/src/events/ready.ts
+1561665796|Timeraa|D|/Discord-Bot/src/index.js
+1561665796|Timeraa|M|/Discord-Bot/src/index.ts
+1561665796|Timeraa|D|/Discord-Bot/src/modules/assign/commands/assign.js
+1561665796|Timeraa|M|/Discord-Bot/src/modules/assign/commands/assign.ts
+1561665796|Timeraa|D|/Discord-Bot/src/modules/assign/commands/unassign.js
+1561665796|Timeraa|M|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1561665796|Timeraa|A|/Discord-Bot/src/modules/credits/config.json
+1561665796|Timeraa|D|/Discord-Bot/src/modules/credits/index.js
+1561665796|Timeraa|M|/Discord-Bot/src/modules/credits/index.ts
+1561665796|Timeraa|A|/Discord-Bot/src/modules/githubProjects/config.json
+1561665796|Timeraa|A|/Discord-Bot/src/modules/githubProjects/index.ts
+1561665796|Timeraa|D|/Discord-Bot/src/modules/moderation/commands/mute.js
+1561665796|Timeraa|D|/Discord-Bot/src/modules/moderation/commands/warn.js
+1561665796|Timeraa|A|/Discord-Bot/src/modules/moderation/events/raw.ts
+1561665796|Timeraa|D|/Discord-Bot/src/modules/ping/commands/ping.js
+1561665796|Timeraa|D|/Discord-Bot/src/package-lock.json
+1561665796|Timeraa|D|/Discord-Bot/src/package.json
+1561665796|Timeraa|A|/Discord-Bot/src/types/djs-extender.d.ts
+1561665796|Timeraa|D|/Discord-Bot/src/util/debug.js
+1561665796|Timeraa|M|/Discord-Bot/src/util/debug.ts
+1561665796|Timeraa|D|/Discord-Bot/src/util/moduleLoader.js
+1561665796|Timeraa|M|/Discord-Bot/src/util/moduleLoader.ts
+1561665796|Timeraa|M|/Discord-Bot/tsconfig.json
+1561665796|Timeraa|D|/Discord-Bot/types/mysql2.d.ts
+1561666626|Timeraa|A|/Discord-Bot/src/events/guildMemberUpdate.js
+1561666626|Timeraa|M|/Discord-Bot/src/util/eventLoader.js
+1562099183|Timeraa|A|/Discord-Bot/src/commands/betaInvite.js
+1562105001|Timeraa|M|/Discord-Bot/src/commands/betaInvite.js
+1562439262|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1562439262|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1562440678|Florian Metz|M|/Discord-Bot/src/package.json
+1563375631|Igor Ryzhenkov|M|/Discord-Bot/src/events/messageReactionAdd.js
+1563576811|Fruxh|M|/Discord-Bot/LICENSE
+1563653973|Timeraa|A|/Discord-Bot/.discord/green_circle.png
+1563653973|Timeraa|A|/Discord-Bot/.discord/red_circle.png
+1563653973|Timeraa|A|/Discord-Bot/.discord/yellow_circle.png
+1563653973|Timeraa|M|/Discord-Bot/.gitignore
+1563653973|Timeraa|A|/Discord-Bot/@types/djs-extender.d.ts
+1563653973|Timeraa|M|/Discord-Bot/devMode.ts
+1563653973|Timeraa|M|/Discord-Bot/package-lock.json
+1563653973|Timeraa|M|/Discord-Bot/package.json
+1563653973|Timeraa|A|/Discord-Bot/src/database/client.ts
+1563653973|Timeraa|D|/Discord-Bot/src/database/db.ts
+1563653973|Timeraa|M|/Discord-Bot/src/index.ts
+1563653973|Timeraa|M|/Discord-Bot/src/modules/assign/commands/assign.ts
+1563653973|Timeraa|M|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/betaAccess/channels.json
+1563653973|Timeraa|A|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/betaAccess/index.ts
+1563653973|Timeraa|D|/Discord-Bot/src/modules/credits/config.json
+1563653973|Timeraa|M|/Discord-Bot/src/modules/credits/index.ts
+1563653973|Timeraa|D|/Discord-Bot/src/modules/githubProjects/config.json
+1563653973|Timeraa|D|/Discord-Bot/src/modules/githubProjects/index.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/channels.json
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/clearWarns.ts
+1563653973|Timeraa|D|/Discord-Bot/src/modules/moderation/commands/mute.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/unmute.ts
+1563653973|Timeraa|M|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/commands/warns.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/events/guildMemberAdd.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/events/message.ts
+1563653973|Timeraa|D|/Discord-Bot/src/modules/moderation/events/raw.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/moderation/messageFilter.json
+1563653973|Timeraa|M|/Discord-Bot/src/modules/ping/commands/ping.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/support/channels.json
+1563653973|Timeraa|A|/Discord-Bot/src/modules/support/events/guildMemberRemove.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/support/events/message.ts
+1563653973|Timeraa|A|/Discord-Bot/src/modules/support/events/raw.ts
+1563653973|Timeraa|A|/Discord-Bot/src/package.json
+1563653973|Timeraa|M|/Discord-Bot/src/roles.json
+1563653973|Timeraa|D|/Discord-Bot/src/types/djs-extender.d.ts
+1563653973|Timeraa|M|/Discord-Bot/src/util/moduleLoader.ts
+1563653973|Timeraa|M|/Discord-Bot/tsconfig.json
+1563654315|ImgBotApp|M|/Discord-Bot/.discord/green_circle.png
+1563654315|ImgBotApp|M|/Discord-Bot/.discord/red_circle.png
+1563654315|ImgBotApp|M|/Discord-Bot/.discord/yellow_circle.png
+1563654355|Timeraa|M|/Discord-Bot/package-lock.json
+1563654355|Timeraa|M|/Discord-Bot/package.json
+1563654355|Timeraa|M|/Discord-Bot/src/config.json
+1563654355|Timeraa|M|/Discord-Bot/src/package.json
+1563654881|Timeraa|D|/Discord-Bot/devMode.js
+1563654881|Timeraa|D|/Discord-Bot/src/commands/betaInvite.js
+1563654881|Timeraa|D|/Discord-Bot/src/commands/mute.js
+1563654881|Timeraa|D|/Discord-Bot/src/commands/unmute.js
+1563654881|Timeraa|D|/Discord-Bot/src/events/guildMemberUpdate.js
+1563654881|Timeraa|D|/Discord-Bot/src/util/betaAccessManager.js
+1563655269|Timeraa|M|/Discord-Bot/package.json
+1563655809|Timeraa|M|/Discord-Bot/package-lock.json
+1563655809|Timeraa|M|/Discord-Bot/package.json
+1563681211|Timeraa|M|/Discord-Bot/package-lock.json
+1563681211|Timeraa|A|/Discord-Bot/src/modules/support/commands/seeAllTickets.ts
+1563681211|Timeraa|M|/Discord-Bot/src/modules/support/events/message.ts
+1563681211|Timeraa|M|/Discord-Bot/src/modules/support/events/raw.ts
+1563681211|Timeraa|M|/Discord-Bot/src/package.json
+1563710224|Timeraa|M|/Discord-Bot/package-lock.json
+1563710224|Timeraa|M|/Discord-Bot/package.json
+1563710224|Timeraa|A|/Discord-Bot/src/modules/utility/commands/embed.ts
+1563710224|Timeraa|M|/Discord-Bot/tsconfig.json
+1563959552|Florian Metz|M|/Discord-Bot/src/modules/credits/creditRoles.json
+1563978815|Timeraa|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1563978815|Timeraa|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1563978934|Timeraa|M|/Discord-Bot/src/modules/utility/commands/embed.ts
+1563978946|Timeraa|D|/Discord-Bot/src/package.json
+1563978984|Timeraa|M|/Discord-Bot/.gitignore
+1564335032|Timeraa|M|/Discord-Bot/@types/djs-extender.d.ts
+1564335032|Timeraa|M|/Discord-Bot/src/index.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/assign/commands/assign.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/moderation/commands/clearWarns.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/moderation/commands/unmute.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/moderation/commands/warns.ts
+1564335032|Timeraa|D|/Discord-Bot/src/modules/ping/commands/ping.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/support/commands/seeAllTickets.ts
+1564335032|Timeraa|M|/Discord-Bot/src/modules/utility/commands/embed.ts
+1564335032|Timeraa|A|/Discord-Bot/src/modules/utility/commands/help.ts
+1564335032|Timeraa|A|/Discord-Bot/src/modules/utility/commands/ping.ts
+1564430931|Renovate Bot|A|/Discord-Bot/renovate.json
+1564431221|Renovate Bot|M|/Discord-Bot/package.json
+1564431335|Renovate Bot|M|/Discord-Bot/package-lock.json
+1564431335|Renovate Bot|M|/Discord-Bot/package.json
+1564431383|Florian Metz|M|/Discord-Bot/renovate.json
+1564436914|Renovate Bot|M|/Discord-Bot/package-lock.json
+1564436914|Renovate Bot|M|/Discord-Bot/package.json
+1564454664|Renovate Bot|M|/Discord-Bot/package-lock.json
+1564454664|Renovate Bot|M|/Discord-Bot/package.json
+1564491531|Florian Metz|M|/Discord-Bot/renovate.json
+1564570665|Renovate Bot|M|/Discord-Bot/package-lock.json
+1564570665|Renovate Bot|M|/Discord-Bot/package.json
+1564692732|Timeraa|M|/Discord-Bot/src/modules/moderation/events/message.ts
+1564792974|Timeraa|M|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1564792974|Timeraa|A|/Discord-Bot/src/modules/moderation/events/guildMemberUpdate.ts
+1564792974|Timeraa|A|/Discord-Bot/src/modules/moderation/index.ts
+1564807494|Timeraa|M|/Discord-Bot/src/modules/credits/creditRoles.json
+1564807494|Timeraa|M|/Discord-Bot/src/modules/credits/index.ts
+1565220879|Renovate Bot|M|/Discord-Bot/package-lock.json
+1565220879|Renovate Bot|M|/Discord-Bot/package.json
+1565362310|Fruxh|D|/Discord-Bot/LICENSE
+1565362310|Fruxh|A|/Discord-Bot/LICENSE.md
+1565362358|Fruxh|D|/Discord-Bot/LICENSE.md
+1565362401|Fruxh|A|/Discord-Bot/LICENSE
+1565649816|Renovate Bot|M|/Discord-Bot/package-lock.json
+1565649816|Renovate Bot|M|/Discord-Bot/package.json
+1565740685|Renovate Bot|M|/Discord-Bot/package-lock.json
+1565740685|Renovate Bot|M|/Discord-Bot/package.json
+1565747379|Renovate Bot|M|/Discord-Bot/package-lock.json
+1565747379|Renovate Bot|M|/Discord-Bot/package.json
+1565910493|Florian Metz|M|/Discord-Bot/package-lock.json
+1565910493|Florian Metz|M|/Discord-Bot/package.json
+1565910493|Florian Metz|M|/Discord-Bot/src/index.ts
+1565910493|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1565910493|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/help.ts
+1565910534|Florian Metz|M|/Discord-Bot/package-lock.json
+1565910534|Florian Metz|M|/Discord-Bot/package.json
+1565994885|Renovate Bot|M|/Discord-Bot/package-lock.json
+1565994885|Renovate Bot|M|/Discord-Bot/package.json
+1566103440|Renovate Bot|M|/Discord-Bot/package-lock.json
+1566103440|Renovate Bot|M|/Discord-Bot/package.json
+1566334598|Renovate Bot|M|/Discord-Bot/package-lock.json
+1566334598|Renovate Bot|M|/Discord-Bot/package.json
+1566592645|Renovate Bot|M|/Discord-Bot/package-lock.json
+1566592645|Renovate Bot|M|/Discord-Bot/package.json
+1566707167|Florian Metz|M|/Discord-Bot/package.json
+1566707412|Florian Metz|M|/Discord-Bot/src/database/client.ts
+1566710894|Florian Metz|M|/Discord-Bot/package.json
+1566710970|Florian Metz|M|/Discord-Bot/package.json
+1566837906|Renovate Bot|M|/Discord-Bot/package-lock.json
+1566837906|Renovate Bot|M|/Discord-Bot/package.json
+1567015008|Renovate Bot|M|/Discord-Bot/package-lock.json
+1567015008|Renovate Bot|M|/Discord-Bot/package.json
+1567022027|Renovate Bot|M|/Discord-Bot/package-lock.json
+1567022027|Renovate Bot|M|/Discord-Bot/package.json
+1567339451|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1567339476|Florian Metz|M|/Discord-Bot/src/modules/credits/creditRoles.json
+1567339487|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/ping.ts
+1567339495|Florian Metz|M|/Discord-Bot/src/index.ts
+1567339503|Florian Metz|M|/Discord-Bot/package-lock.json
+1567339503|Florian Metz|M|/Discord-Bot/package.json
+1567339531|Renovate Bot|M|/Discord-Bot/package.json
+1567339610|TheDrop|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1567517804|Renovate Bot|M|/Discord-Bot/package-lock.json
+1567517804|Renovate Bot|M|/Discord-Bot/package.json
+1567598744|TheDrop|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1567600763|TheDrop|M|/Discord-Bot/src/roles.json
+1567600865|TheDrop|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1567600896|TheDrop|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1567601268|TheDrop|M|/Discord-Bot/src/roles.json
+1567626178|TheDrop|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1567636652|TheDrop|M|/Discord-Bot/src/modules/credits/creditRoles.json
+1567719051|TheDrop|M|/Discord-Bot/src/modules/credits/creditRoles.json
+1568154863|Renovate Bot|M|/Discord-Bot/package-lock.json
+1568154863|Renovate Bot|M|/Discord-Bot/package.json
+1568521492|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/message.ts
+1568529154|Florian Metz|M|/Discord-Bot/src/index.ts
+1569101944|Florian Metz|M|/Discord-Bot/src/modules/credits/index.ts
+1569102026|Florian Metz|M|/Discord-Bot/src/index.ts
+1569102690|Florian Metz|A|/Discord-Bot/.github/workflows/main.yml
+1569102718|Florian Metz|M|/Discord-Bot/.github/workflows/main.yml
+1569102865|Florian Metz|M|/Discord-Bot/.github/workflows/main.yml
+1569103212|Florian Metz|M|/Discord-Bot/.github/workflows/main.yml
+1569349190|Renovate Bot|M|/Discord-Bot/package-lock.json
+1569349190|Renovate Bot|M|/Discord-Bot/package.json
+1569837282|Renovate Bot|M|/Discord-Bot/package-lock.json
+1569837282|Renovate Bot|M|/Discord-Bot/package.json
+1570141408|Fruxh|M|/Discord-Bot/src/modules/assign/assignRoles.json
+1570141495|Fruxh|M|/Discord-Bot/src/modules/assign/assignRoles.json
+1570141731|Fruxh|M|/Discord-Bot/src/modules/assign/assignRoles.json
+1570147637|Florian Metz|M|/Discord-Bot/src/modules/assign/assignRoles.json
+1570147637|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberAdd.ts
+1570147746|Florian Metz|A|/Discord-Bot/src/modules/credits/events/presenceUpdate.ts
+1570148557|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1570148557|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1570148557|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1570148557|Florian Metz|M|/Discord-Bot/src/roles.json
+1570294285|Florian Metz|A|/Discord-Bot/src/modules/utility/commands/prune.ts
+1570294666|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/prune.ts
+1570689247|Florian Metz|D|/Discord-Bot/renovate.json
+1570832709|Florian Metz|D|/Discord-Bot/.github/workflows/main.yml
+1570832868|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1570832868|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1570833022|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1570833022|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1570833053|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1570833053|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1571416277|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1571416277|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1571416279|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1571416279|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1571416412|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1571416450|dependabot-preview[bot]|M|/Discord-Bot/package-lock.json
+1571416450|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1571587420|Florian Metz|D|/Discord-Bot/package-lock.json
+1571587420|Florian Metz|A|/Discord-Bot/yarn.lock
+1571587466|Florian Metz|M|/Discord-Bot/package.json
+1571587466|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/embed.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/database/client.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/events/message.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/index.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/assign/commands/assign.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/credits/events/presenceUpdate.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/credits/index.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/clearWarns.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/unmute.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/warns.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberAdd.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberUpdate.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/message.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/moderation/index.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/support/commands/seeAllTickets.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/support/events/guildMemberRemove.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/help.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/ping.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/util/debug.ts
+1571587477|Florian Metz|M|/Discord-Bot/src/util/moduleLoader.ts
+1571589366|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1571589774|Florian Metz|M|/Discord-Bot/src/modules/credits/index.ts
+1571589783|Florian Metz|M|/Discord-Bot/package.json
+1571589783|Florian Metz|M|/Discord-Bot/yarn.lock
+1571589848|Florian Metz|M|/Discord-Bot/package.json
+1571590051|Florian Metz|M|/Discord-Bot/package.json
+1571590303|Florian Metz|M|/Discord-Bot/package.json
+1571606612|Florian Metz|M|/Discord-Bot/devMode.ts
+1571606612|Florian Metz|M|/Discord-Bot/package.json
+1572243742|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1572243742|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1572712362|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1572712403|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1572718904|Florian Metz|D|/Discord-Bot/devMode.ts
+1572718904|Florian Metz|M|/Discord-Bot/package.json
+1572718904|Florian Metz|M|/Discord-Bot/src/database/client.ts
+1572718904|Florian Metz|M|/Discord-Bot/src/events/message.ts
+1572718904|Florian Metz|M|/Discord-Bot/src/index.ts
+1572718904|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/message.ts
+1572718904|Florian Metz|A|/Discord-Bot/src/modules/moderation/events/presenceUpdate.ts
+1572718904|Florian Metz|A|/Discord-Bot/src/modules/moderation/events/ready.ts
+1572718904|Florian Metz|M|/Discord-Bot/src/modules/moderation/messageFilter.json
+1572718904|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/help.ts
+1572718904|Florian Metz|M|/Discord-Bot/src/util/moduleLoader.ts
+1572718904|Florian Metz|M|/Discord-Bot/yarn.lock
+1572719344|Florian Metz|A|/Discord-Bot/.github/workflows/deploy.yml
+1572719344|Florian Metz|M|/Discord-Bot/package.json
+1572719344|Florian Metz|M|/Discord-Bot/yarn.lock
+1572720646|Florian Metz|M|/Discord-Bot/package.json
+1573215121|Fruxh|M|/Discord-Bot/yarn.lock
+1573459496|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1573459591|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1573459591|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1573538545|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1573538545|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1573675610|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1573675610|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1573880059|Florian Metz|M|/Discord-Bot/package.json
+1573880059|Florian Metz|M|/Discord-Bot/yarn.lock
+1574056941|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1574747822|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1574747851|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1574747851|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1574834363|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1574834363|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1575483037|EGGSY|A|/Discord-Bot/README.md
+1575483058|EGGSY|M|/Discord-Bot/README.md
+1575483495|Abdulbaki Dursun|M|/Discord-Bot/src/modules/credits/index.ts
+1575483945|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1575483945|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1575612051|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1575612051|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1575727631|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1575913292|Fruxh|M|/Discord-Bot/yarn.lock
+1576062650|Abdulbaki Dursun|M|/Discord-Bot/src/index.ts
+1576062650|Abdulbaki Dursun|A|/Discord-Bot/src/modules/moderation/commands/info.ts
+1576062650|Abdulbaki Dursun|A|/Discord-Bot/src/modules/moderation/short-infos.json
+1576062650|Abdulbaki Dursun|M|/Discord-Bot/src/util/moduleLoader.ts
+1576680247|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1576680247|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1576783436|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1576783436|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1576888079|Florian Metz|M|/Discord-Bot/@types/djs-extender.d.ts
+1576888079|Florian Metz|M|/Discord-Bot/src/database/client.ts
+1576888079|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/info.ts
+1576888079|Florian Metz|M|/Discord-Bot/src/util/moduleLoader.ts
+1576888360|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1576888360|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1576888363|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1576944884|Abdulbaki Dursun|M|/Discord-Bot/src/modules/moderation/commands/info.ts
+1576944884|Abdulbaki Dursun|M|/Discord-Bot/src/modules/moderation/short-infos.json
+1576945656|Abdulbaki Dursun|M|/Discord-Bot/src/modules/moderation/short-infos.json
+1577170684|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1577197124|Florian Metz|M|/Discord-Bot/.github/workflows/deploy.yml
+1578690243|Abdulbaki Dursun|M|/Discord-Bot/src/modules/moderation/short-infos.json
+1578777025|CRUGG|M|/Discord-Bot/src/modules/moderation/events/guildMemberAdd.ts
+1579286145|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579286145|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579286279|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579286279|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579286409|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579286409|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579286549|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579286549|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579286688|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579301483|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579301483|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579505109|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579537699|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579537699|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579589218|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579670892|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579670892|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579762613|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1579805719|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1579805719|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580067053|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1580109133|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580109151|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580164542|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1580164542|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580241214|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1580241214|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580301777|Florian Metz|D|/Discord-Bot/src/modules/moderation/events/presenceUpdate.ts
+1580301777|Florian Metz|D|/Discord-Bot/src/modules/moderation/events/ready.ts
+1580302099|Florian Metz|M|/Discord-Bot/package.json
+1580302099|Florian Metz|M|/Discord-Bot/yarn.lock
+1580336309|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1580336309|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580368668|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580414119|Florian Metz|M|/Discord-Bot/package.json
+1580414119|Florian Metz|M|/Discord-Bot/src/index.ts
+1580414119|Florian Metz|A|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1580414119|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1580414119|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1580414119|Florian Metz|M|/Discord-Bot/yarn.lock
+1580417585|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1580420074|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1580420074|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580507171|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1580507171|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1580554899|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1580555708|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1580555708|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1580555865|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1580556398|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1580573391|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1580717962|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1581024531|Abdulbaki Dursun|M|/Discord-Bot/src/modules/credits/creditRoles.json
+1581117592|Florian Metz|A|/Discord-Bot/src/events/guildBanAdd.ts
+1581117592|Florian Metz|A|/Discord-Bot/src/events/guildMemberRemove.ts
+1581117592|Florian Metz|A|/Discord-Bot/src/events/guildMemberUpdate.ts
+1581117592|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1581117592|Florian Metz|M|/Discord-Bot/src/modules/support/commands/seeAllTickets.ts
+1581117592|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1581117592|Florian Metz|M|/Discord-Bot/tsconfig.json
+1581123582|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1581198180|Florian Metz|A|/Discord-Bot/src/channels.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/config.json
+1581198180|Florian Metz|A|/Discord-Bot/src/config.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/events/guildMemberUpdate.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/events/message.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/index.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/messageFiltered.json
+1581198180|Florian Metz|A|/Discord-Bot/src/messageFiltered.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/assign/assignRoles.json
+1581198180|Florian Metz|A|/Discord-Bot/src/modules/assign/assignRoles.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/assign/commands/assign.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/betaAccess/channels.json
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/credits/creditRoles.json
+1581198180|Florian Metz|A|/Discord-Bot/src/modules/credits/creditRoles.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/credits/events/presenceUpdate.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/credits/index.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/moderation/channels.json
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/clearWarns.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/info.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/unmute.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/warns.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberAdd.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberUpdate.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/message.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/moderation/index.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/moderation/messageFilter.json
+1581198180|Florian Metz|A|/Discord-Bot/src/modules/moderation/messageFilter.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/moderation/short-infos.json
+1581198180|Florian Metz|A|/Discord-Bot/src/modules/moderation/short-infos.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/modules/support/channels.json
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/support/commands/seeAllTickets.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/support/events/guildMemberRemove.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/help.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/modules/utility/commands/ping.ts
+1581198180|Florian Metz|D|/Discord-Bot/src/roles.json
+1581198180|Florian Metz|A|/Discord-Bot/src/roles.ts
+1581198180|Florian Metz|M|/Discord-Bot/src/util/moduleLoader.ts
+1581198180|Florian Metz|M|/Discord-Bot/yarn.lock
+1581368466|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1581368466|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1581441832|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1581441832|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1581491604|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1581512510|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1581512510|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1581528357|Florian Metz|M|/Discord-Bot/package.json
+1581528357|Florian Metz|M|/Discord-Bot/yarn.lock
+1581528458|Florian Metz|M|/Discord-Bot/package.json
+1581554228|Abdulbaki Dursun|M|/Discord-Bot/src/modules/assign/assignRoles.json
+1581620451|frozaum|M|/Discord-Bot/src/modules/assign/assignRoles.ts
+1581620750|frozaum|M|/Discord-Bot/src/modules/assign/assignRoles.ts
+1581621240|frozaum|M|/Discord-Bot/src/modules/assign/assignRoles.ts
+1581621747|frozaum|M|/Discord-Bot/src/modules/assign/assignRoles.ts
+1581623922|Abdulbaki Dursun|A|/Discord-Bot/src/modules/assign/commands/movieNight.ts
+1581624000|Abdulbaki Dursun|M|/Discord-Bot/src/modules/assign/commands/movieNight.ts
+1581624750|Florian Metz|M|/Discord-Bot/package.json
+1581624750|Florian Metz|M|/Discord-Bot/src/events/guildMemberUpdate.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/events/message.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/index.ts
+1581624750|Florian Metz|D|/Discord-Bot/src/modules/assign/assignRoles.json
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/assign/assignRoles.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/assign/commands/assign.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/assign/commands/unassign.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/commands/betaInvite.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/credits/index.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/info.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/unmute.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/warn.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/commands/warns.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberAdd.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/guildMemberUpdate.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/events/message.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/index.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/moderation/short-infos.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/support/classes/Ticket.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/support/commands/seeAllTickets.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/support/events/guildMemberRemove.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/support/events/message.ts
+1581624750|Florian Metz|M|/Discord-Bot/src/modules/support/events/raw.ts
+1581624750|Florian Metz|M|/Discord-Bot/yarn.lock
+1581627611|Florian Metz|D|/Discord-Bot/src/modules/assign/commands/movieNight.ts
+1581663588|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1581859195|TheDrop|A|/Discord-Bot/src/modules/betaAccess/events/guildMemberAdd.ts
+1581859195|TheDrop|A|/Discord-Bot/src/modules/betaAccess/events/guildMemberRemove.ts
+1581859195|TheDrop|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1581859195|TheDrop|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1581859943|TheDrop|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberRemove.ts
+1581859943|TheDrop|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1581874870|TheDrop|M|/Discord-Bot/src/modules/betaAccess/events/guildMemberUpdate.ts
+1581874870|TheDrop|M|/Discord-Bot/src/modules/betaAccess/index.ts
+1581874870|TheDrop|M|/Discord-Bot/src/modules/credits/index.ts
+1581875096|TheDrop|M|/Discord-Bot/src/modules/credits/index.ts
+1581925017|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1582010115|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1582059929|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1582059929|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1582140020|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1582140020|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1582143959|dependabot-preview[bot]|M|/Discord-Bot/package.json
+1582143959|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1582181958|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock
+1582380505|TheDrop|M|/Discord-Bot/src/modules/support/events/message.ts
+1582381362|TheDrop|M|/Discord-Bot/src/modules/support/events/message.ts
+1582528567|dependabot-preview[bot]|M|/Discord-Bot/yarn.lock

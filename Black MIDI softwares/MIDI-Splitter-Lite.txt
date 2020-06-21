@@ -1,0 +1,25 @@
+1525716345|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/.gitattributes
+1525716345|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/.gitignore
+1525716345|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/LICENSE
+1525716345|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/README.md
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite.sln
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/AboutForm.Designer.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/AboutForm.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/AboutForm.resx
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/App.config
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/MIDI Splitter Lite.csproj
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/MIDISplitIcon.ico
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/MainForm.Designer.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/MainForm.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/MainForm.resx
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/OptionsForm.Designer.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/OptionsForm.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/OptionsForm.resx
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Program.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Properties/AssemblyInfo.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Properties/Resources.Designer.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Properties/Resources.resx
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Properties/Settings.Designer.cs
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Properties/Settings.settings
+1525716382|VirtuosicAI|A|/VirtuosicAI/MIDI-Splitter-Lite/MIDI Splitter Lite/Resources/MIDISplitLOGO.png
+1525716445|VirtuosicAI|M|/VirtuosicAI/MIDI-Splitter-Lite/README.md

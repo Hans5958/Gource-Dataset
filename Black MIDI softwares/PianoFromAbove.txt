@@ -1,0 +1,118 @@
+1551367996|brian-pantano|A|/brian-pantano/PianoFromAbove/.gitignore
+1551367996|brian-pantano|A|/brian-pantano/PianoFromAbove/README.md
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Docs/Credits.txt
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Docs/License.txt
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Docs/Readme.txt
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Bach - Minuet in B-flat Major.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Bach - Minuet in F Major.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Bach - Minuet in G Major.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Bach - Minuet in G Minor.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Bach - Musette in D Major.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Chopin - Prelude in C Minor.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Clementie - Sonatina Op. 36, No. 1 1st Movement.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Schumann - First Sorrow.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Schumann - Humming Song.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Schumann - Melody.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Schumann - Sicilienne.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Schumann - Soldiers' March.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/1 Intermediate 1/Schumann - The Happy Farmer.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Bach - Invention 01.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Bach - Invention 04.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Bach - Invention 09.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Bach - Invention 15.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Beethoven - Fur Elise.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Beethoven - Moonlight Sonata 1st Movement.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Beethoven - Pathetique 2nd Movement.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Chopin - Prelude in A Major.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Chopin - Prelude in E Minor.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Mozart - Sonata Facile 1st Movement.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Mozart - Turkish March.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Schumann - Dreaming.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Schumann - Farmhand Rupert.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Schumann - Hunting Song.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/2 Intermediate 2/Schumann - The Wild Horseman.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Bach - Prelude and Fugue in C Major.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Bach - Prelude and Fugue in C Minor.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Chopin - Black Key Etude.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Chopin - Etude Op. 10, No. 1.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Chopin - Fantaisie-Impromptu.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Chopin - Funeral March.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Chopin - Revolutionary Etude.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Debussy - Clair de Lune.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Godowsky - Study of Chopin Etude Op. 10, No. 1.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Grieg - March of the Trolls.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Joplin - Maple Leaf Rag.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Joplin - The Entertainer.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Liszt - Hungarian Rhapsody No. 2.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Music/3 Advanced/Liszt - Love Dreams No. 3.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove.nsi
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove.sln
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Config.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Config.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/ConfigProcs.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/ConfigProcs.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/GameState.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/GameState.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Globals.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Godowsky - Study of Chopin Etude Op. 10, No. 1.mid
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Install Header.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Mirror Small.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Mirror Wizard.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/PFA Icon.ico
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Icon 88.png
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Icons Keys.png
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Icons.png
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Install Header.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Lock 16.png
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Lock 32.png
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Mirror Small.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Mirror.png
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 16.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 16x8.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 16x8.pal
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 32.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 32x8.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 32x8.pal
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 48.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 48x8.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 48x8.pal
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 96.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon 96x8.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/PFA Icon.ico
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/Welcome.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Partials/mediaiconssmall.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/Welcome.ico
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Images/mediaiconssmall.bmp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/MIDI.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/MIDI.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/MainProcs.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/MainProcs.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Misc.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Misc.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/PianoFromAbove.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/PianoFromAbove.rc
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/PianoFromAbove.vcxproj
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/PianoFromAbove.vcxproj.filters
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/ProtoBuf/MetaData.pb.cc
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/ProtoBuf/MetaData.pb.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/ProtoBuf/MetaData.proto
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/ProtoBuf/protoc.exe
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Renderer.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/Renderer.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/TinyXML/tinystr.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/TinyXML/tinystr.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/TinyXML/tinyxml.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/TinyXML/tinyxml.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/TinyXML/tinyxmlerror.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/TinyXML/tinyxmlparser.cpp
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/PianoFromAbove/resource.h
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/DSETUP.dll
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/DXSETUP.exe
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/Jun2010_d3dx9_43_x64.cab
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/Jun2010_d3dx9_43_x86.cab
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/dsetup32.dll
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/dxdllreg_x86.cab
+1551370167|Brian Pantano|A|/brian-pantano/PianoFromAbove/Redist/dxupdate.cab
+1551376595|brian-pantano|M|/brian-pantano/PianoFromAbove/README.md
+1551755968|brian-pantano|M|/brian-pantano/PianoFromAbove/README.md
+1552452215|brian-pantano|M|/brian-pantano/PianoFromAbove/README.md

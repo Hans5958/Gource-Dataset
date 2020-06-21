@@ -1,0 +1,44 @@
+1473745761|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/.gitattributes
+1473745761|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/.gitignore
+1473745842|Riccardo Loi (Riccah)|M|/LeBreezyAF/PianoFromAboveConfigurator/.gitignore
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator.sln
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/App.config
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/Interop/Constants.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/Interop/Functions.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/Interop/Structures.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/NET/Devices/Collections.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/NET/Devices/Output.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.Designer.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.resx
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/PianoFromAboveConfigurator.csproj
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/PianoFromAboveConfigurator.csproj.user
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Program.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/AssemblyInfo.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/Resources.Designer.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/Resources.resx
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/Settings.Designer.cs
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/Settings.settings
+1473745842|Riccardo Loi (Riccah)|A|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/pfaico.ico
+1473751667|Riccardo Loi|A|/LeBreezyAF/PianoFromAboveConfigurator/README.md
+1522792570|KaleidonKep99|A|/LeBreezyAF/PianoFromAboveConfigurator/.vs/PianoFromAboveConfigurator/v15/Server/sqlite3/db.lock
+1522792570|KaleidonKep99|A|/LeBreezyAF/PianoFromAboveConfigurator/.vs/PianoFromAboveConfigurator/v15/Server/sqlite3/storage.ide
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator.sln
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/App.config
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.Designer.cs
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.cs
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/PianoFromAboveConfigurator.csproj
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/AssemblyInfo.cs
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/Resources.Designer.cs
+1522792570|KaleidonKep99|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/Properties/Settings.Designer.cs
+1547997319|kep|M|/LeBreezyAF/PianoFromAboveConfigurator/.vs/PianoFromAboveConfigurator/v15/Server/sqlite3/storage.ide
+1547997319|kep|A|/LeBreezyAF/PianoFromAboveConfigurator/.vs/PianoFromAboveConfigurator/v15/Server/sqlite3/storage.ide-shm
+1547997319|kep|A|/LeBreezyAF/PianoFromAboveConfigurator/.vs/PianoFromAboveConfigurator/v15/Server/sqlite3/storage.ide-wal
+1547997319|kep|D|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/Interop/Constants.cs
+1547997319|kep|D|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/Interop/Functions.cs
+1547997319|kep|D|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/Interop/Structures.cs
+1547997319|kep|D|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/NET/Devices/Collections.cs
+1547997319|kep|D|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MIDI/NET/Devices/Output.cs
+1547997319|kep|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.Designer.cs
+1547997319|kep|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/MainWindow.cs
+1547997319|kep|M|/LeBreezyAF/PianoFromAboveConfigurator/PianoFromAboveConfigurator/PianoFromAboveConfigurator.csproj
