@@ -1,0 +1,13 @@
+[gource]
+path=log/ScratchAddons__ScratchAddons.txt
+caption-file=caption/ScratchAddons__ScratchAddons.txt
+title=ScratchAddons/ScratchAddons
+auto-skip-seconds=0.01
+seconds-per-day=0.2
+caption-duration=2
+bloom-multiplier=0.75
+bloom-intensity=0.5
+hide=filenames
+background-colour=000000
+user-image-dir=avatar/
+font-scale=2
