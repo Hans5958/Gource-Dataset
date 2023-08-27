@@ -1,8 +1,11 @@
-# PreMiD (v1)
+# Scratch Addons
 
 ## Links
 
-- Video: https://www.youtube.com/watch?v=Z6OxaLsCesM
+- Video: 
+	- Complete: [Evolution of Scratch Addons (July 2020–August 2023)](https://www.youtube.com/watch?v=Z6OxaLsCesM)
+	- No localization files: [Evolution of Scratch Addons (no localization files) (July 2020–August 2023)](https://www.youtube.com/watch?v=5Zzfs0tQgfQ)
+	- `addons/` only: [Evolution of Scratch Addons (addons/ only) (July 2020—July 2023)](https://www.youtube.com/watch?v=MwodbjCxPYc)
 - Sources: 
 	- https://github.com/ScratchAddons/ScratchAddons
 

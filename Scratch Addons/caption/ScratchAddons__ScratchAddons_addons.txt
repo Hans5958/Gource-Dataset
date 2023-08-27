@@ -1,0 +1,262 @@
+1595966334|New addon: scratch-notifier
+1597619332|New addon: discuss-button
+1597619332|New addon: msg-count-badge
+1598037435|New addon: editor-devtools
+1598121284|New addon: image-uploader
+1598122408|New addon: editor-stepping
+1598568864|New addon: editor-colored-context-menus
+1598640021|New addon: scratch-messaging
+1598800860|New addon: forum-time-zones
+1598809051|New addon: fix-buttons
+1598905738|New addon: move-your-cat
+1598906094|New addon: deleted-comments
+1599156427|New addon: external-player-button
+1599158849|New addon: remove-sprite-confirm
+1599171871|New addon: editor-searchable-dropdowns
+1599231914|New addon: true-youtube-links
+1599320645|New addon: more-links
+1599320754|New addon: bitmap-copy
+1599322645|New addon: progress-bar
+1599343702|New addon: youtube-fullscreen
+1599428728|New addon: editor-dark-mode
+1599749719|New addon: list-category
+1599797944|New addon: data-category-tweaks
+1600203575|New addon: full-signature
+1600782725|v1.0.0 released
+1601503807|New addon: scratchr2
+1601564122|New addon: forum-search
+1601824546|New addon: 60fps
+1601841235|New addon: better-emojis
+1601842677|New addon: editor-stage-left
+1601851397|New addon: cloud-games
+1602109301|New addon: search-profile
+1602303224|v1.1.0 released
+1602312566|v1.1.1 released
+1602459142|New addon: editor-theme3
+1602689433|New addon: studio-tools
+1602865409|New addon: last-edit-tooltip
+1602866811|New addon: semicolon
+1602948936|New addon: dark-www
+1602975296|New addon: infinite-scroll
+1603206735|New addon: remix-tree-button
+1603237768|New addon: clones
+1603237843|New addon: mouse-pos
+1603410124|New addon: exact-count
+1603705947|v1.2.0 released
+1603773682|v1.2.1 released
+1604189204|New addon: animated-thumb
+1604189978|New addon: resizable-comment-input
+1604679485|New addon: pause
+1604740380|v1.3.0 released
+1604760349|New addon: live-featured-project
+1604822105|v1.3.1 released
+1605109695|New addon: search-load-more-fix
+1605204759|New addon: curator-link
+1605205198|New addon: project-info
+1605893294|New addon: editor-messages
+1605893807|New addon: fix-uploaded-svgs
+1605982834|New addon: block-switching
+1606001042|New addon: project-notes-tabs
+1606001688|New addon: feature-unshared
+1606070373|New addon: confirm-actions
+1606123999|v1.3.2 released
+1606163046|v1.3.3 released
+1606175365|New addon: forum-quote-code-beautifier
+1606240665|New addon: my-ocular
+1606540672|v1.4.0 released
+1606895714|v1.4.1 released
+1607270493|New addon: better-featured-project
+1607445702|New addon: onion-skinning
+1607770326|v1.5.0 released
+1607963455|v1.5.1 released
+1608227013|New addon: color-picker
+1608742106|New addon: mediarecorder
+1609049772|v1.6.0 released
+1609059460|v1.6.1 released
+1609439599|New addon: data-category-tweaks-v2
+1609439895|New addon: better-quoter
+1609696533|New addon: cat-blocks
+1609716781|New addon: better-messages
+1609964585|New addon: mute-project
+1610283032|v1.7.0 released
+1610359376|v1.7.1 released
+1610482531|New addon: disable-auto-save
+1610743203|New addon: hide-flyout
+1610993235|New addon: a11y
+1610994579|New addon: comments-linebreaks
+1611493262|v1.8.0 released
+1611675414|New addon: show-bbcode
+1611675505|New addon: account-settings-capitalize
+1611916094|v1.8.1 released
+1612770661|v1.9.0 released
+1612848342|v1.9.1 released
+1613159724|New addon: copy-message-link
+1613243295|v1.9.2 released
+1613312968|v1.9.3 released
+1613330790|New addon: load-extensions
+1613978473|v1.10.0 released
+1614204713|New addon: scratchstats
+1614445345|New addon: longer-wiwo
+1614466990|New addon: folders
+1614699483|New addon: block-palette-icons
+1614793576|New addon: variable-manager
+1615202152|v1.11.0 released
+1615693981|v1.11.1 released
+1615954958|v1.11.2 released
+1616098177|New addon: 2d-color-picker
+1616098603|New addon: custom-block-shape
+1616337985|New addon: drag-drop
+1616449397|New addon: dango-rain
+1616909244|v1.12.0 released
+1617264817|v1.12.1 released
+1617905865|New addon: wrap-lists
+1618065510|New addon: custom-zoom
+1618162995|New addon: blocks2image
+1618528190|New addon: initialise-sprite-position
+1618817163|v1.13.0 released
+1619120532|New addon: editor-sounds
+1619904541|New addon: gamepad
+1619911772|New addon: remove-curved-stage-border
+1619984075|New addon: material-forum-editor-buttons
+1620126698|v1.14.0 released
+1620200162|v1.14.1 released
+1620545946|v1.14.2 released
+1621069868|v1.14.3 released
+1621543246|New addon: transparent-orphans
+1621546566|New addon: fix-pasted-scripts
+1621692257|New addon: message-filters
+1621717684|New addon: ctrl-click-run-scripts
+1621922726|v1.15.0 released
+1622999465|New addon: expanding-search-bar
+1623013389|New addon: redirect-mobile-forums
+1623356291|New addon: debugger
+1623641461|v1.16.0 released
+1623672296|v1.16.1 released
+1624078767|v1.16.2 released
+1624096912|v1.16.3 released
+1625140637|v1.16.4 released
+1625499194|New addon: disable-stage-drag-select
+1625763690|v1.16.5 released
+1625928993|New addon: old-studio-layout
+1626030373|New addon: better-img-uploads
+1626132496|New addon: studio-followers
+1626238017|v1.17.0 released
+1626510460|v1.17.1 released
+1627153528|New addon: ctrl-enter-post
+1627332021|v1.17.2 released
+1627494177|New addon: turbowarp-player
+1627496284|New addon: default-project
+1627588173|New addon: customize-avatar-border
+1627669314|New addon: items-per-row
+1627677521|New addon: compact-messages
+1627973346|v1.18.0 released
+1628441337|New addon: paint-by-default
+1628461952|New addon: forum-copy-code
+1628603673|New addon: name-backpack-items
+1628883597|New addon: forum-toolbar
+1628884645|New addon: hide-project-stats
+1628885022|New addon: hide-delete-button
+1629055267|New addon: user-id
+1629056811|New addon: no-script-bumping
+1629126370|New addon: scratchblocks
+1629690648|v1.19.0 released
+1629887592|v1.19.1 released
+1630536393|New addon: remix-button
+1630775975|New addon: editor-unshare-button
+1631372642|New addon: move-to-top-bottom
+1631373485|New addon: hide-new-variables
+1631384998|New addon: block-cherry-picking
+1631400707|New addon: editor-extra-keys
+1631710726|v1.20.0 released
+1632042087|v1.20.1 released
+1632307162|v1.20.2 released
+1633185714|New addon: echo-effect
+1633271330|New addon: block-duplicate
+1633556699|New addon: fullscreen
+1633645969|New addon: disable-paste-offset
+1633783270|New addon: emoji-picker
+1634013115|v1.21.0 released
+1634360959|v1.21.1 released
+1634816160|v1.21.2 released
+1635978702|New addon: search-my-stuff
+1635982004|New addon: fix-editor-comments
+1636062929|New addon: swap-local-global
+1636228350|New addon: columns
+1636229402|New addon: tutorials-button
+1636231290|New addon: editor-comment-previews
+1636234182|New addon: forum-id
+1636432653|v1.22.0 released
+1637060822|v1.22.1 released
+1638293004|New addon: script-snap
+1638299535|New addon: block-count
+1638560153|New addon: hi-res-thumbnails
+1639549937|v1.23.0 released
+1639923774|v1.23.1 released
+1640078424|v1.23.2 released
+1641844229|New addon: disable-sprite-wobble
+1642792919|New addon: hide-signatures
+1642883232|New addon: search-sprites
+1642885757|New addon: custom-block-text
+1643635061|v1.24.0 released
+1643816257|v1.24.1 released
+1644233950|v1.24.2 released
+1644335737|v1.24.3 released
+1645640767|New addon: forum-live-preview
+1646253892|New addon: horizontal-mystuff-tabs
+1646864750|New addon: color-inputs
+1647263110|v1.25.0 released
+1648300965|v1.25.1 released
+1650052861|New addon: default-costume-editor-color
+1652564508|New addon: sounds-duration
+1653049360|v1.26.0 released
+1654702600|v1.26.1 released
+1656120807|New addon: editor-buttons-reverse-order
+1657075562|New addon: hide-stage
+1657393981|New addon: one-click-studio-invites
+1657698585|v1.27.0 released
+1657976580|v1.27.1 released
+1658237426|v1.27.2 released
+1658397911|v1.27.3 released
+1659474326|New addon: remove-search-bar-autocomplete
+1660379944|New addon: find-bar
+1660379944|New addon: jump-to-def
+1660446266|New addon: zebra-striping
+1661678640|v1.28.0 released
+1664317344|New addon: pick-colors-from-stage
+1665859438|New addon: vol-slider
+1665883210|New addon: opacity-slider
+1665883305|New addon: rename-broadcasts
+1666700897|v1.29.0 released
+1669762429|New addon: middle-click-popup
+1671052679|New addon: sprite-properties
+1671215458|New addon: number-pad
+1672096029|New addon: paint-snap
+1672896485|v1.30.0 released
+1674047181|v1.30.1 released
+1675118939|New addon: expanded-backpack
+1675683086|v1.30.2 released
+1677710932|New addon: copy-reporter
+1677799938|New addon: share-through-mystuff
+1678453221|v1.31.0 released
+1679869338|New addon: featured-dangos
+1680080886|v1.31.1 released
+1680587164|v1.31.2 released
+1680805691|New addon: auto-follow-topics
+1681834283|New addon: necropost-highlighter
+1682693570|New addon: remember-collapsed-categories
+1682881867|New addon: faster-project-loading
+1683149222|New addon: move-to-top-layer
+1683868910|v1.32.0 released
+1684298944|v1.32.1 released
+1685497802|New addon: featured-dangos-v2
+1685991333|New addon: op-badge
+1686723922|v1.33.0 released
+1687002837|v1.33.1 released
+1687846500|v1.33.2 released
+1688362454|v1.33.3 released
+1690130284|New addon: editor-compact
+1690661086|New addon: editor-number-arrow-keys
+1691423450|New addon: forum-post-countdown
+1691506127|New addon: colorblind
+1692080038|v1.34.0 released
+1692720744|v1.34.1 released
